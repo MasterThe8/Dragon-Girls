@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Huntress List</title>
+  <style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text */
+    margin: 0;
+    padding: 0;
+    }
+
+    .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+
+    /* Character grid styles */
+    .character-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+    }
+
+    .character-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+    }
+
+    .character-item:hover {
+    transform: scale(1.05);
+    }
+
+    .character-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #444; /* Darker border */
+    margin-bottom: 8px;
+    filter: brightness(0.9); /* Slightly reduce brightness */
+    }
+
+    .character-name {
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #e0e0e0; /* Light text */
+    }
+
+    /* Character card styles */
+    .huntress-card {
+    border: 1px solid #444; /* Darker border */
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #1e1e1e; /* Dark card background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Darker shadow */
+    }
+
+    .huntress-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    }
+
+    .huntress-header img {
+    width: 64px;
+    height: 64px;
+    margin-right: 15px;
+    border-radius: 8px;
+    border: 2px solid #444; /* Darker border */
+    }
+
+    .huntress-title {
+    font-size: 24px;
+    margin: 0;
+    color: #ffffff; /* White for titles */
+    }
+
+    .huntress-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 15px 0;
+    }
+
+    .huntress-gallery img {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    object-fit: cover; /* Ensure consistent aspect ratio */
+    border: 1px solid #444; /* Darker border */
+    }
+
+    .huntress-skill {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #2d2d2d; /* Darker background for skills */
+    border-radius: 8px;
+    border: 1px solid #444; /* Darker border */
+    color: #e0e0e0; /* Light text */
+    }
+
+    /* Close button */
+    .close-btn {
+    float: right;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    color: #888; /* Medium gray */
+    }
+
+    .close-btn:hover {
+    color: #ffffff; /* White on hover */
+    }
+
+    /* Initially hide the card container */
+    #character-card-container {
+    display: none;
+    }
+
+    /* Additional dark theme elements */
+    h1 {
+    color: #ffffff; /* White for main heading */
+    }
+
+    /* Style for skill content (preserving HTML formatting) */
+    .huntress-skill h2 {
+    color: #ffffff; /* White for headings */
+    border-bottom: 1px solid #444; /* Darker border */
+    padding-bottom: 5px;
+    }
+
+    .huntress-skill b {
+    color: #ffffff; /* White for bold text */
+    }
+
+    .huntress-skill blockquote {
+    border-left: 3px solid #555; /* Darker border */
+    padding-left: 10px;
+    margin-left: 10px;
+    color: #bbb; /* Lighter gray for quotes */
+    }
+    
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Huntress Collection</h1>
+    
+    <!-- Character Grid -->
+    <div class="character-grid" id="character-grid">Loading...</div>
+    
+    <!-- Character Card Container -->
+    <div id="character-card-container"></div>
+  </div>
+
+  <script>
+    // DOM elements
+    const characterGrid = document.getElementById('character-grid');
+    const cardContainer = document.getElementById('character-card-container');
+    
+    // Fetch character data
+    fetch('assets/data/waifu.json')
+      .then(response => {
+        if (!response.ok) throw new Error("Failed to load waifu.json");
+        return response.json();
+      })
+      .then(huntresses => {
+        // Clear loading message
+        characterGrid.innerHTML = "";
+        
+        // Create grid items for each character
+        huntresses.forEach(huntress => {
+          const gridItem = document.createElement('div');
+          gridItem.className = 'character-item';
+          gridItem.dataset.id = huntress.id;
+          
+          gridItem.innerHTML = `
+            <img src="${huntress.icon}" alt="${huntress.name}" class="character-icon"/>
+            <span class="character-name">${huntress.name}</span>
+          `;
+          
+          // Add click event to show character card
+          gridItem.addEventListener('click', () => showCharacterCard(huntress));
+          
+          characterGrid.appendChild(gridItem);
+        });
+      })
+      .catch(err => {
+        characterGrid.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+        console.error(err);
+      });
+    
+    // Function to show character card
+    function showCharacterCard(huntress) {
+      const galleryId = `gallery-${huntress.id}`;
+      
+      // Create card HTML
+      cardContainer.innerHTML = `
+        <div class="huntress-card" id="card-${huntress.id}">
+          <span class="close-btn" onclick="closeCard()">&times;</span>
+          <div class="huntress-header">
+            <img src="${huntress.icon}" alt="${huntress.name} icon"/>
+            <h2 class="huntress-title">${huntress.name}</h2>
+          </div>
+          <div class="huntress-gallery" id="${galleryId}"></div>
+          <div class="huntress-skill">${huntress.skill}</div>
+        </div>
+      `;
+      
+      // Show the card container
+      cardContainer.style.display = 'block';
+      
+      // Load images for the gallery
+      const gallery = document.getElementById(galleryId);
+      
+      if (Array.isArray(huntress.images)) {
+        const folderName = huntress.name;
+        
+        huntress.images.forEach(fileName => {
+          const img = document.createElement('img');
+          img.src = `assets/img/${folderName}/${fileName}`;
+          img.alt = fileName;
+          img.onerror = () => img.remove();
+          gallery.appendChild(img);
+        });
+      }
+      
+      // Scroll to the card
+      cardContainer.scrollIntoView({
+        behavior: 'smooth'
+      });
+    }
+    
+    // Function to close character card
+    function closeCard() {
+      cardContainer.style.display = 'none';
+      cardContainer.innerHTML = '';
+    }
+  </script>  
+
+</body>
+</html>

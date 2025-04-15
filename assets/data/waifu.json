@@ -1,0 +1,1143 @@
+[
+  {
+    "id": 1,
+    "name": "Abe no Seimei",
+    "skill": "<b>[Azure Flow]</b><br>Includes the following members:<br>- Ujiyasu Hōjō<br>- Daphne<br>- Poseidon<br>- Abe no Seimei<br>- Hermes<br><br><b>S1:</b> For each “Far East Island” ally, heal all allies for 10% of Abe no Seimei’s max HP. Overflow healing will be converted to shield. For each <b>[Azure Flow]</b> ally, dispel 1 negative effect from all allies.<br><blockquote>Lvl 2: 10% -> 20%<br>Lvl 3: 20% -> 30%<br>Lvl 4: 30% -> 40%<br></blockquote><br><b>US:</b> Kill all the Paper Shikigami on your side. For each shikigami killed, deal magical damage equal to 10% of the shikigami’s current health to all enemies(?) If 3 or more are killed in one instance, resurrect a random ally and for each shikigami killed, the target will recover 10% of its maximum HP. If there are no Paper Shikigami on your side, instead use S1.<br><blockquote>Lvl 2: 10% -> 20% (for both)<br>Lvl 3: 20% -> 30%<br>Lvl 4: 30% -> 40%<br></blockquote><br><b>P1:</b> At the beginning of each round, if there is an opening on your side, there is a 50% chance to summon a paper shikigami in a random position, inheriting 90% of Abe no Seimei’s attributes. The paper shikigami can only perform normal attacks and is considered a “Far East Island” ally.<br><blockquote>Lvl 2: 50% -> 60%<br>Lvl 3: 60% -> 80%<br>Lvl 4: 80% -> 100%<br></blockquote><br><b>Awakening Skill:</b> While alive, all <b>[Azure Flow]</b> and “Far East Island” allies become immune to <Enchant>.<br><blockquote>Lvl 2: While alive, apply <Water Lock> to enemy “Far East Island” characters.<br></blockquote><br><b>Pet:</b> At the beginning of each round, gain 1 stack of <Rain Mark><br><blockquote>Lvl 2: 1 -> 2<br>Lvl 3: 2 -> 3<br>Lvl 4: 3 -> 4<br>Lvl 5: 4 -> 5<br></blockquote><br><b>EE:</b> <br><blockquote>30 - At the beginning of the battle, grant 9 stacks of fatal damage immunity to all “Far East Island” allies.<br>40 - At the beginning of the battle, grant 9 stacks of fatal damage immunity to all <b>[Azure Flow]</b> allies.<br>50 - At the beginning of the battle, increase own speed by 50, cannot be dispelled, lasts for 1 round. At the beginning of the first round, expand <Five Star Formation> for 0 rounds<br></blockquote><br><br><b>FOR PEOPLE THAT ARE AS GOOD AT THE GAME AS SATORU</b>:<br><Five Star Formation>: Does nothing.<br>",
+    "icon": "assets/icon/abe.png",
+    "images": [
+      "Abe_no_Seimei_UR_1_Best_Version.png",
+      "Abe_no_Seimei_UR_2.png",
+      "seimei_ssr_1.png",
+      "seimei_ssr_2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Achilles",
+    "skill": "<b>[Eight Desolates]</b><br>Includes the following members:<br>- Achilles<br>- Freyr<br>- Mercury<br>- Ramses<br>- ?<br><br><b>S1:</b> Dispels shields from all enemies in the same row, then deals physical damage equal to 500% of Achilles’ attack and 100% of current health.<br><blockquote>Lvl 2: 500% -> 700% | 100% -> 200%<br>Lvl 3: 700% -> 1000% | 200% -> 300%<br>Lvl 4: 30% chance to stun the target for 1 round.<br></blockquote><br><b>US:</b> Deals physical damage equal to 500% of Achilles’ attack and 100% of current health to all enemies 3 times.<br><blockquote>Lvl 2: 500% -> 700% | 100% -> 200%<br>Lvl 3: 700% -> 1000% | 200% -> 300%<br>Lvl 4: Instantly kills non-light/dark and non-boss enemies with less than 5% health. If the target is a boss, deals 30000% of Achilles' attack and 9999% of her current HP.<br></blockquote><br><b>P1:</b> While alive, reduces own hit rate by 50% and speed by 50, cannot be dispelled. Also increases own dodge, physical damage reduction and magical damage reduction by 50%, cannot be dispelled.<br><blockquote>Lvl 2: While alive, if you have Arthur, increases final damage reduction by 50%, cannot be dispelled. While alive, if you have Mordred, increases speed by 50, cannot be dispelled.<br>Lvl 3: At the start of the battle, if there is an ally Hercules, Achilles and Hercules gain 9 stacks of fatal damage immunity.<br>Lvl 4: No longer reduces hit rate and speed.<br></blockquote><br><b>Awakening Skill:</b> After an ally earth element huntress performs an action, deal 500% of Achilles’ attack to a random target.<br><blockquote>Lvl 2: At the beginning of the 3rd round, all <b>[Eight Desolates]</b> allies become immune to damage for 1 round.<br></blockquote><br><b>Pet:</b> At the beginning of each round, dispel 1 negative effect and increase attack by 10% for 1 round, then restore HP equal to 50% of attack. Overflow converts to shield.<br><blockquote>Lvl 2: 1 -> 2 | 10% -> 20% | 50% -100%<br>Lvl 3: 2 -> 3 | 20% -> 30% | 100% -> 150%<br>Lvl 4: 3 -> 4 | 30% -> 40% | 150% -> 200%<br>Lvl 5: 4 -> 5 | 40% -> 50% | 200% -> 250% <br></blockquote><br><b>EE:</b><br><blockquote>30 - 8% of shield will be converted into additional attack power, maximum 500% of attack.<br>40 - 8% -> 12%<br>50 - 12% -> 20%<br></blockquote>",
+    "icon": "assets/icon/achilles.png",
+    "images": [
+      "achilles_01.png",
+      "achilles_02.png",
+      "achilles_ssr_2.png",
+      "achilles_story.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Aphrodite",
+    "skill": "<b>[Atlantis]</b> <br>Includes the following members:<br>- Aphrodite<br><br><b>S1:</b> Decreases ATK by 50% but increases DEF by 100% for the ally with the lowest HP percentage for 3 turns. Cannot be cleansed or nullified<br><blockquote>Lvl 2: Decreases Final DMG by 50% but increases Final DMG Reduction by 100% for the ally with the lowest HP percentage for 3 turns. Cannot be cleansed or nullified<br>Lvl 3: Decreases Physical DMG dealt by 50% but increases Physical DMG Reduction by 100% for the ally with the lowest HP percentage for 3 turns. Cannot be cleansed or nullified<br>Lvl 4: Effects apply to all allies. If Aphrodite has 8 or more Stored Marks, this skill will not apply the debuffs<br></blockquote><br><b>US:</b> Deals 100% Physical damage to a random enemy and traps them in a Water Prison, prioritizing the enemy with the same position and those that are not trapped in Water Prison yet. Enemies within Water Prison cannot act and recover HP. When they lose more than 25% of their max HP, the Water Prison explodes, dealing True damage equivalent to 25% max HP. This damage cannot exceed 500% of Aphrodite's ATK<br><blockquote>Lvl 2: 100% --> <b>200%</b><br>Lvl 3: 200% --> <b>300%</b><br>Lvl 4: If Aphrodite has 8 or more Stored Marks, US targets all enemies instead<br></blockquote><br><b>P1:</b> Aphrodite is immune to Water Prison<br><blockquote>Lvl 2: When being attacked by the enemy's normal attack, skill, or US, cleanses 1 debuff from a random ally<br>Lvl 3: 1 --> <b>2</b> debuffs<br>Lvl 4: 2 --> <b>3</b> debuffs. If Aphrodite has 8 or more Stored Marks, cleanses debuffs from all allies instead<br></blockquote><br><b>EE:</b> When being attacked by the enemy's normal attack, skill, or US, there is a 10% chance of inflicting <b>[Enchant]</b> on the attacker<br><blockquote>EE40: 10% --> <b>20%</b><br>EE50: 20% --> <b>30%</b>, Aphrodite is immune to Enchant<br></blockquote><br><b>UR Skill:</b> At the start of the battle and at the start of each turn, Aphrodite gains 1 <b>[Stored Mark]</b>. At the start of the battle, applies 1 instance of fatal damage nullification to all allies, and applies 1 turn of Invincibility and 10 instances of fatal damage nullification to all <b>[Atlantis]</b> allies. If Aphrodite has 8 or more Stored Marks, Aphrodite changes into Mermaid Form, making her immune to all debuffs<br><blockquote>Lvl 2: Increases Final DMG Reduction by 20% when alive. Cannot be dispelled<br></blockquote><br><b>Pet Skill:</b> Increases Effect Hit for all allies with <b>[Stored Mark]</b> by 20 when alive<br><blockquote>Lvl 2: 20 --> <b>40</b><br>Lvl 3: 40 --> <b>60</b><br>Lvl 4: 60 --> <b>80</b><br>Lvl 5: 80 --> <b>100</b><br></blockquote>",
+    "icon": "assets/icon/aphrodite.png",
+    "images": [
+      "afrodite_2.png",
+      "aphrodite_ssr_1.png",
+      "aphrodite_ssr_2.png",
+      "image.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ares",
+    "skill": "<b>S1:</b> Decreases damage by 50% --> <b>70%</b> for 2 turns<br><br><b>US:</b> Grants a partywide shield equivalent to 250% --> <b>1000%</b> of Ares ATK<br><br><b>P1:</b> Takes 30% --> <b>100%</b> of damage received to the ally with the highest ATK<br><br><b>UR Skill:</b> When Ares takes damage, grants a shield equivalent to 10% of Ares max HP to herself and all Earth allies. When activating US, grants an additional shield equivalent to 80% of Ares max HP to all allies<br><blockquote>Lvl 2: At the start of every turn, increases Final Damage Reduction by 20% and decreases damage received from water enemies by 6% to all Earth allies that have a Shield. This effect lasts for 1 turn and can be dispelled. When Ares take damage, there is a 20% chance of giving an instance of CC nullification to Earth allies<br></blockquote><br><b>Pet Skill:</b> After Ares acts, deals damage equivalent to 10%/15%/20%/25%/35% of the total shield amount on Earth allies to the enemy with the lowest HP. This damage cannot exceed more than 20%/30%/40%/50%/70% of Ares max HP. Additionally, all Earth allies that have a Shield recovers HP equivalent to 10% of Ares max HP<br>",
+    "icon": "assets/icon/ares.png",
+    "images": [
+      "Ares_01.png",
+      "Ares_02.png",
+      "Ares_03.png",
+      "large_D_UR_aruisi01.png",
+      "story_aruis.png",
+      "story_cuisitina.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Arthur",
+    "skill": "<b>S1:</b> For 2 turns, increases CRIT rate of 1 ally with the highest ATK (excluding self) by 20%, and nullifies all fatal damage (this effect lasts for 2 turns and cannot be dispelled). In this period, Arthur heals herself for 40%  of damage received by the targeted ally (healing amount can exceed HP limit). If there are no available targets for selection, activates US instead<br><blockquote>Lvl 2: 1 --> <b>2</b> ally, 20% --> <b>30%</b> CRIT rate increase<br>Lvl 3: 2 --> <b>3</b> ally, 30% --> <b>40%</b> CRIT rate increase<br>Lvl 4: 40% --> <b>50%</b> CRIT rate increase. 40% --> <b>50%</b> of damage received. 3 --> <b>All</b> allies. When Arthur protects herself, she does not heal herself when taking damage, but she instead reduces damage received. Reduction rate is equivalent to the conversion rate of damage to HP healed<br></blockquote><br><b>US:</b> Attacks the enemy with the lowest current HP. If that enemy's current HP is higher than Arthur's current HP, deals 500%/600%/700%/1000% physical damage to it. If the enemy's current HP is lower or equal to Arthur's current HP, deals 2000%/2400%/2800%/4000% physical damage to it<br><br><b>P1:</b> Arthur receives 40%/50%/60%/70% less damage from enemies of the same column as her<br><br><b>EE:</b> At the start of each turn, heals herself for 100% of her ATK. If there are no enemies in the same column as her, Arthur moves herself to the empty square in the column with the highest number of enemies. If there are no empty squares available for movement, Arthur only recovers HP and is unable to move<br><blockquote>EE40: 100% --> <b>150%</b> ATK<br>EE50: 150% --> <b>200%</b>. At the start of each turn, dispels all debuffs from herself<br></blockquote><br><b>UR Skill:</b> Arthur gains the power of <b>[Brilliance]</b>. When US deals damage, all allies recover 30%/50% of the damage dealt. Healing cannot exceed HP limit. All ally Light units receives the effect of Arthur's passive. Decreases damage received from enemies of the same column as her by 35%/70%. For every mark of <Brilliance> possessed, Arthur's ATK increases by 6%<br><br><b>Pet Skill:</b> When Arthur or any ally Light units activates their US, pet deals 100%/120%/140%/160%/180% physical damage to enemies of the same column as her. This skill cannot activate if there are no enemies of the same column as her<br>",
+    "icon": "assets/icon/arthur.png",
+    "images": [
+      "arthur.gif",
+      "arthur_1.png",
+      "arthur_2.png",
+      "large_G_UR_yase01.png",
+      "large_G_UR_yase02.png",
+      "large_G_UR_yaseyuansuti01.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ashikaga Yoshiteru",
+    "skill": "<b>S1:</b> Deals 55%/60%/65%/70% physical damage 7 times to the enemy with the highest attack. The first damage instance destroys any Shield present on the enemy, while the 7th damage instance blows away the enemy and all surrounding enemies<br><br><b>US:</b> Deals 150%/200%/250%/300% physical damage to all enemies and destroys any Shield present. Afterwards, deals 500%/600%/700%/800% physical damage to all enemies and blows them away<br><br><b>P1:</b> At the start of every turn, increases own DEF by 20%/40%/60%/100%, and Final Damage Reduction by 8%/12%/16%/20% for 3 turns<br><br><b>P2:</b> CRIT +3%/4%/5%, Toughness +3%/4%/5%<br><br><b>EE:</b> 25%/50%/100% chance of using S1 instead of normal attack<br><br><b>UR Skill:</b> Whenever Ashikaga deals damage to an enemy, decreases enemy SPD by 50. This effect cannot be stacked or dispelled, and lasts for 1 turn. Whenever an enemy nullifies the effect of <b><Blow Off></b>, deals 400% physical damage to it<br><blockquote>Lvl 2: 400% --> <b>800%</b> physical damage. At the start of every turn, cleanses all debuffs on self<br></blockquote><br><b>Pet Skill:</b> After activating S1, deals 70%/110%/150%/190%/230% physical damage to that enemy 3 times. The last damage instance will blow the enemy away<br>",
+    "icon": "assets/icon/ashikaga.png",
+    "images": [
+      "large_F_SSR_zuliyihui01.png",
+      "large_F_SSR_zuliyihui02.png",
+      "large_F_UR_zuliyihui01.png",
+      "large_F_UR_zuliyihui02.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Attila",
+    "skill": "<b>S1:</b> Deals physical damage equal to 1% of attack to the ally target with the highest attack and increases their attack by 50% for 4 rounds.<br><blockquote>Lvl 2: Increases target’s final damage by 50% for 4 rounds.<br>Lvl 3: Increases target’s critical strike chance by 50% for 4 rounds.<br>Lvl 4: Dispels 3 negative effects from the target.<br></blockquote><br><b>US:</b> Increases the attack of allied beastkin huntresses by 50% until the end of the battle.<br><blockquote>Lvl 2: Increases final damage of allied beastkin huntresses by 50% until the end of the battle.<br>Lvl 3: Increases critical strike chance of allied beastkin huntresses by 160% until the end of the battle.<br>Lvl 4: Targets all allies.<br></blockquote><br><b>P1:</b> At the beginning of battle, applies 2 stacks of <Cold Resistance> to all allies, and an additional 2 stacks will be applied to beastkin allies. If the enemy is in the same position as Atilla is non-light or dark and non-boss, target will have <Rule of Tyranny> applied to them.<br><blockquote>Lvl 2: At the beginning of battle, apply <Rule of Tyranny> to the enemy’s front row non-light and dark, non-boss huntresses.<br>Lvl 3: At the beginning of battle, apply <Rule of Tyranny> to the enemy’s middle row non-light and dark, non-boss huntresses.<br>Lvl 4: At the beginning of battle, apply <Rule of Tyranny> to the enemy’s back row non-light and dark, non-boss huntresses.<br></blockquote><br><b><Rule of Tyranny></b>: Target cannot take additional actions. Cannot be immuned or dispelled, lasts until the end of battle.<br><br><b>Awakening Skill:</b> Attila gains the power of <Shadow>. At the beginning of battle, each stack of <Shadow> increases final damage reduction by 4%. All allies have a 50% chance to use US instead of normal attacks.<br><blockquote>Lvl 2: 50% -> 100%<br></blockquote><br><b>Pet:</b> At the beginning of each round, deals physical damage equal to 100% of attack to a random enemy, and applies 2 stacks of <Frost Mark><br><blockquote>Lvl 2: 100% -> 200%<br>Lvl 3: 200% -> 300%<br>Lvl 4: 300% -> 400%<br>Lvl 5: 400% -> 500%<br></blockquote><br><b>EE:</b> <br><blockquote>30 - Instead of normal attack, strikes all enemies twice, dealing 100% of attack each time.<br>40 - 100% -> 200%<br>50 - 200% -> 300%<br></blockquote>",
+    "icon": "assets/icon/attila.png",
+    "images": [
+      "attila_ssr_1.png",
+      "attila_ssr_2.png",
+      "attila_ssr_3.png",
+      "image.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Barbatos",
+    "skill": "<b>[Tempest]</b><br>Includes the following members<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> Enters <Lock On State> for 3 rounds. Applies 1 stack of <Turbulence> to the enemy with the highest attack.<br><blockquote>Lvl 2: 1 -> 2 stacks<br>Lvl 3: 2 -> 4 stacks<br>Lvl 4: 4 -> 8 stacks<br></blockquote><br><b><Lock On State>:</b> Increase final damage reduction and physical damage reduction by 8%, up to 20 stacks.<br><br><b><Turbulence>:</b> At the beginning of each round, receives physical damage equal to 32% of the caster’s attack. Cannot be immuned or dispelled, can stack up to 100 times. When a target with <Turbulence> dies, transfers effect to adjacent enemies.<br><br><b>US:</b> Deals physical damage equal to 100% of attack to the frontmost enemy row and has a 100% chance to apply <Silence> to the target, lasting 2 rounds.<br><blockquote>Lvl 2: 100% -> 200% of attack<br>Lvl 3: 200% -> 400% of attack<br>Lvl 4: Inflicts 3 instances of physical damage equal to 400% of attack to enemies with <Turbulence><br></blockquote><br><b>P1:</b> After taking an action, there is a 20% chance that the enemies’ <Turbulence> state will be triggered 1 time. At the beginning of battle and end of each round, gains 1 stack of <Stored Mark><br><blockquote>Lvl 2: 20% -> 40% chance | 1 -> 2 activations<br>Lvl 3: 40% -> 60% chance | 2 -> 3 activations<br>Lvl 4: 60% -> 90% chance | 3 -> 4 activations<br></blockquote><br><b>Awakening Skill:</b> At the beginning of the battle, casts US once. For the first 6 rounds, there is a 50% chance of casting S1 once at the beginning of each round.<br><blockquote>Lvl 2: 50% -> 100% chance. Increases effect hit by 100, cannot be dispelled.<br></blockquote><br><b>Pet:</b> At the beginning of odd-numbered rounds, causes physical damage equal to 100% of attack to the enemy with the highest attack with a 30% chance to apply one stack of <Turbulence> to the target.<br><blockquote>Lvl 2: 100% -> 300% attack<br>Lvl 3: 1 -> 2 stacks<br>Lvl 4: 30% -> 60% chance<br>Lvl 5: 2 -> 3 stacks<br></blockquote><br><b>EE:</b><br><blockquote>30 - When in <Lock On State> increases attack by 20% and crit by 30%. At the beginning of the battle, if there is a Solomon on your side, increases attack for Barbatos and Solomon by 50%<br>40 - 20% -> 40% attack | 30% -> 60% crit<br>50 - 40% -> 60% attack | 60% -> 100% crit<br></blockquote>",
+    "icon": "assets/icon/barbatos.png",
+    "images": [
+      "Barbatos_1.png",
+      "Barbatos_2.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Beethoven",
+    "skill": "<b>S1:</b> Deals 100%/150%/200%/300% magical damage to three enemies with the highest SPD, and has a 30%/40%/50%/60% chance of sending them flying<br><br><b>US:</b> All allies recover HP equivalent to 60%/70%/80%/100% of Beethoven’s ATK and has a 15%/20%/25%/30% chance to grant <b>[Climax]</b> to other Wind allies (excluding self). Deals 180%/210%/240%/400% magical damage to all enemies, and has a 15%/30%/45%/60% chance to send them flying.<br><br><b>[Climax]:</b> After activating US, can activate it again. Lasts for 1 turn and cannot be stacked. After activating US again, this effect will disappear<br><br><b>P1:</b> There is a 40%/60%/80%/100% chance of activating S1 instead of normal attack<br><br><b>EE:</b> While Beethoven is still alive, all enemies sent flying have a 5%/10%/20% chance to be stunned for 1 turn<br><br><b>UR Skill:</b> Beethoven introduces a Chain Attack effect for all Wind units. When the Chain Attack combo number reaches a multiple of 18/6, the ally with the lowest HP percentage (excluding self) has 1 status effect removed and recovers HP equivalent to 50%/150% of Beethoven's ATK. This skill triggers automatically after an unit has used their normal attack, skills, or US, and can trigger up to 3 times per turn.<br><br><b>[Chain Attack]:</b> When a wind unit deals damage to an enemy, it increases the Chain Attack combo meter by 1, to a maximum of 50. When an enemy performs a normal attack, skill, or US, the combo meter is reset to 0. Each time the combo meter is increased by 1, the final damage of all Wind Huntresses is increased by 1.5%<br><br><b>Pet Skill:</b> After Beethoven activates her normal attack, skill, or US, deals 3 instances of 20%/25%/30%/35%/50% magical damage to the enemy with the highest ATK, with the last damage instance having a 10%/20%/30%/40%/100% chance of sending them flying<br>",
+    "icon": "assets/icon/beethoven.png",
+    "images": [
+      "beethoven.gif",
+      "large_F_SSR_beiduofen01.png",
+      "large_F_SSR_beiduofen02.png",
+      "large_F_UR_beiduofen01.png",
+      "large_F_UR_beiduofen02.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Caesar",
+    "skill": "<b>[Tempest]</b><br>Includes the following members<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> Adds 1 stack of fatal damage immunity to all allies. Increases attack of all allies by 20%<br><blockquote>Lvl 2: Increases attack of all allies by 20 --> 30%<br>Lvl 3: Increases attack of all allies by 30 --> 60%<br>Lvl 4: <b>[Tempest]</b> allies gain 5 additional stacks of fatal damage immunity. Cannot be dispelled.<br></blockquote><br><b>US:</b> Deals 3 instances of magical damage equal to 100% of attack to all enemies<br><blockquote>Lvl 2: Deals 3 instances of magical damage equal to 100% --> 300% of attack to all enemies<br>Lvl 3: Deals 3 instances of magical damage equal to 300% --> 600% of attack to all enemies<br>Lvl 4: Deals 3 instances of magical damage equal to 600% --> 1200% of attack to all enemies<br></blockquote><br><b>P1:</b> At the beginning of each round, Caesar has a 25% chance to use US once.<br><blockquote>Lvl 2: 25% --> 50% chance<br>Lvl 3: 50% --> 100% chance<br>Lvl 4: At the beginning of the battle, Caesar has a 100% chance to use S1 once<br></blockquote><br><b>Awakening Skill:</b> After <b>[Tempest]</b> allies take action, Caesar activates US once.<br><blockquote>Lvl 2: At the beginning of the 3rd round, allied <b>[Tempest]</b> huntresses gain damage nullification lasting 1 turn.<br></blockquote><br><b>Pet:</b> After Caesar uses US, deals true damage equal to 100% of attack to a random enemy.<br><blockquote>Lvl 2: 200%<br>Lvl 3: 300%<br>Lvl 4: 400%<br>Lvl 5: 500%<br></blockquote><br><b>EE: </b><br><blockquote>30 - After using US, causes magical damage equal to 500% of attack to the enemy with the highest attack<br>40 - Increases to 1000% of attack<br>50 - Hits 3 times<br></blockquote>",
+    "icon": "assets/icon/caesar.png",
+    "images": [
+      "caesar_1.png",
+      "caesar_2.png",
+      "caesar_ssr_1.png",
+      "caesar_ssr_2.png",
+      "large_A_UR_kaisa01.png",
+      "large_A_UR_kaisa02.png",
+      "large_A_UR_kaisayuansuti01.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Carmen",
+    "skill": "<b>S1:</b> Deals 6 instances of 100% physical damage to an enemy. Each instance has a 70% chance of inflicting 1 <b><Burn Mark></b><br><blockquote>Lvl 2: 100% physical damage --> <b>110%</b> physical damage, 70% chance --> <b>80%</b> chance<br>Lvl 3: 110% physical damage --> <b>120%</b> physical damage, 80% chance --> <b>90%</b> chance<br>Lvl 4: 120% physical damage --> <b>130%</b> physical damage, 90% chance --> <b>100%</b> chance<br></blockquote><br><b>US:</b> Jumps to the empty square with the most number of adjacent enemies and deals 5 instances of 100% physical damage to all adjacent enemies. Each instance has a 70% of inflicting 1 <b><Burn Mark></b>. If there are no empty squares, activate S1 instead.<br><blockquote>Lvl 2: 100% physical damage --> <b>110%</b> physical damage, 70% chance --> <b>80%</b> chance<br>Lvl 3: 110% physical damage --> <b>120%</b> physical damage, 80% chance --> <b>90%</b> chance<br>Lvl 4: 120% physical damage --> <b>130%</b> physical damage, 90% chance --> <b>100%</b> chance<br></blockquote><br><b>P1:</b> If Carmen is not in <b><Fever></b>, after the enemy takes damage from <b><Burn Mark></b> 20 times, Carmen enters into <b><Fever></b> (lasts for 2 rounds) and the counter is reset.<br><blockquote>Lvl 2: 20 --> <b>18</b><br>Lvl 3: 18 --> <b>16</b><br>Lvl 4: 16 --> <b>15</b><br></blockquote><br><b>EE:</b> When being attacked by normal attacks, skills, or US, there is a 30% chance to be immune to the attack. For each successful immunity, activates S1 against the enemy that attacked her<br><blockquote>EE40: 30% --> <b>40%</b><br>EE50: 40% --> <b>50%</b> <br></blockquote><br><b>UR Skill:</b> Carmen's CRIT increases by 30% when in <b><Fever></b><br><blockquote>Lvl 2: Carmen's CRIT DMG increases by 100% when in <b><Fever></b><br></blockquote><br><b>Pet Skill:</b> At the start of each turn, if there are enemies in the opposing column, deals 60%/70%/80%/100%/120% physical damage to them, and has a 10%/15%/20%/25%/30% chance of inflicting 1 <b><Burn Mark></b>. If there are no enemies, deals 120%/140%/160%/200%/240% physical damage to 1 random enemy<br>",
+    "icon": "assets/icon/carmen.png",
+    "images": [
+      "carmen.gif",
+      "Carmin_01.png",
+      "Carmin_02.png",
+      "large_H_SSR_kamen01.png",
+      "large_H_SSR_kamen02.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Catherine",
+    "skill": "<b>S1:</b> Chance of inflicting Freeze on CRIT increases from 50% to 60%<br><br><b>US:</b> Damage increases from 150% to 300% per hit, chance of inflicting Freeze increases from 50% to 70%<br><br><b>P1:</b> HP lock decreases from 10% to 8%<br><br><b>UR Skill:</b> Whenever a water element ally deals damage to an enemy with normal attack/skill/US, Catherine deals 200%/400% damage to the enemy<br><br><b>Pet Skill:</b> Whenever an enemy dies, deals 80%/120%/160%/200%/240% damage to all enemies. This skill cannot be activated again if it causes any enemies to die. However, this skill can be activated again if the enemy dies by an attack other than this skill.<br>",
+    "icon": "assets/icon/catherine.png",
+    "images": [
+      "catherine.gif",
+      "Catherine_01.png",
+      "Catherine_02.png",
+      "Catherine_03.png",
+      "large_S_UR_yekajielinna01.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Charlemagne",
+    "skill": "<b>S1:</b> Realm Expansion: West Wind, lasts for 3 turns. All allies with <b>[Stored Mark]</b> gains fatal damage nullification equal to the number of <b>[Stored Mark]</b> held. At the start of every turn, if this Realm is still active, the effects of this Realm will activate again<br><blockquote>Lvl 2: Allies without <b>[Stored Mark]</b> has a 50% chance of gaining 1 instance of fatal damage nullification<br>Lvl 3: 50% --> <b>75%</b><br>Lvl 4: 75% --> <b>100%</b><br></blockquote><br><b>US:</b> For each <b>[Stored Mark]</b> that Charlemagne holds, restores all allies HP by 100%/200%/300%/400% of Charlemagne's ATK. If HP restored exceeds max HP, the excess heal amount will be converted into a Shield. If Charlemagne holds more than 5 <b>[Stored Mark]</b>, deals 100% physical damage to all enemies for each <b>[Stored Mark]</b> held<br><br><b>P1:</b> At the start of the battle and at the end of every turn, Charlemagne gains 1 <b>[Stored Mark]</b>. At the start of the battle, all enemy and allies' <b>[Noble]</b> and <b>[Revolutionary Army]</b> units has a 30% chance of being immune to <b>[Enchant]</b>. This effect is permanent and cannot be dispelled.<br><blockquote>Lvl 2: 30% --> <b>50%</b> chance<br>Lvl 3: 50% --> <b>100%</b> chance<br>Lvl 4: The effects of this skill now affects allies only, and no longer affects enemies<br></blockquote><br><b>[Stored Mark]:</b> Increases Final DMG Reduction by 1% and DEF by 3% for each mark held. Can be stacked up to 100 times, cannot be dispelled, and lasts till Charlemagne is defeated<br><br><b>[Noble]:</b> Includes the following units:<br>- Catherine<br>- Charlemagne<br><br><b>[Revolutionary Army]:</b> Includes the following units:<br>- Jing Ke<br>- Don Quixote<br>- Carmen<br><br><b>EE:</b> After an enemy activates their S1, US, or normal attack, there is a 25% chance of inflicting Stun on that enemy<br><blockquote>EE40: 25% --> <b>50%</b> chance. After an enemy activates their S1, US, or normal attack, Charlemagne recovers 3% of her max HP. If HP restored exceeds max HP, the excess heal amount will be converted into a Shield.<br>EE50: Heal now affects all allies, 50% --> <b>100%</b> chance<br></blockquote><br><b>UR Skill:</b> At the start of the battle, all allies gain 1 fatal damage nullification, and extends Charlemagne's Realm by 1 turn<br><blockquote>Lvl 2: All allies in Charlemagne's Realm takes 50% less magical damage and 30% less physical damage<br></blockquote><br><b>Pet Skill:</b> At the start of the battle, increases healing effectiveness of all allies by 10%. This effect lasts till the end of the battle<br><blockquote>Lvl 2: 10% --> <b>20%</b><br>Lvl 3: 20% --> <b>30%</b><br>Lvl 4: 30% --> <b>40%</b><br>Lvl 5: 40% --> <b>60%</b><br></blockquote>",
+    "icon": "assets/icon/charlemagne.png",
+    "images": [
+      "large_F_SSR_chaliman01.png",
+      "large_F_SSR_chaliman02.png",
+      "large_F_UR_chaliman01.png",
+      "large_F_UR_chaliman02.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mochizuki Chiyome",
+    "skill": "<h2>UR</h2><br><b>S1:</b> Deals 192% --> <b>220%</b> physical damage to the enemy with the highest ATK<br><br><b>US:</b> Deals 8 instances of 100% --> <b>110%</b> physical damage<br><br><b>P1:</b> Chiyome can swap places/create new clones 3 --> <b>4</b> times per turn<br><br><b>UR Skill:</b> Deals 10 instances of physical damage on US instead <br><blockquote>Lvl 2: Increases each damage instance by 10% ATK<br></blockquote><br><b>Pet Skill:</b> When Chiyome creates new clones, all Water allies (excluding Chiyome and her clones) recover HP equivalent to 50% ATK<br><blockquote>Lvl 2: 50% --> <b>100%</b><br>Lvl 3: 100% --> <b>150%</b><br>Lvl 4: 150% --> <b>200%</b><br>Lvl 5: 200% --> <b>250%</b><br></blockquote><br><br><h2>MR</h2><br><b>[Azure Flow]</b><br>Includes the following members:<br>- Ujiyasu Hōjō<br>- Daphne<br>- Poseidon<br>- Abe no Seimei<br>- Hermes<br>- Mochizuki Chiyome<br>- Zhen Ji<br><br><b>S1:</b> When this skill hits the target, every existing clone will dispel 1 stack of fatal damage immunity from the target. Water Clones created by this skill become Advanced Water Clones.<br><br><Advanced Water Clone>: Takes action on its own. When created, if the main body has the <Damage Immunity> effect, all ally summons gain <Damage Immunity> for 1 round.<br><br><b>US:</b> Changes to 5 instances of physical damage equal to 500% of attack and 5 instances of magical damage equal to 500% attack. Enemy bosses take an additional 100% of attack in both magical and physical damage (per instance?).<br><br><b>P1:</b> Triggers 4 -> 5 times per round. Water Clones created by this skill become Advanced Water Clones<br><br><b>MR</b>: At the beginning of the battle, apply <Damage Immunity> to all “Far East Island” allies for 3 turns. Before Chiyome and her <b>advanced</b> clones cast US, gain <Damage Immunity> until an enemy takes an action.<br><blockquote>Lvl 2: At the beginning of the battle, grant debuff immunity to all <b>[Azure Flow]</b> allies for 5 rounds. At the beginning of the second round, applies <Damage Immunity> to all <b>[Azure Flow]</b> allies.<br></blockquote>",
+    "icon": "assets/icon/chiyome.png",
+    "images": [
+      "chiyome.gif",
+      "chiyome_mr.png",
+      "chiyome_ssr_4.png",
+      "Mochizuki_Chiyome_01.png",
+      "Mochizuki_Chiyome_02.png",
+      "Mochizuki_Chiyome_03.png",
+      "Mochizuki_Chiyome_04.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Cleopatra",
+    "skill": "<b>S1:</b> Deals 200% magical damage to 2 enemies, and has a 50% chance of inflicting <b><Sand Cage></b><br><blockquote>Lvl 2: 200% magical damage --> <b>300%</b> magical damage, 50% chance --> <b>60%</b> chance<br>Lvl 3: 2 enemies --> <b>3</b> enemies, 60% chance --> <b>70%</b> chance<br>Lvl 4: 300% magical damage --> <b>400%</b> magical damage, 70% chance --> <b>80%</b> chance<br></blockquote><br><b>US:</b> Deals 400%/600%/800%/1000% magical damage to all enemies in <b><Sand Cage></b>. If no enemies are in <b><Sand Cage></b>, activates S1 instead<br><blockquote>Lvl 2: 400% --> <b>600%</b><br>Lvl 3: 600% --> <b>800%</b><br>Lvl 4: 800% --> <b>1000%</b><br></blockquote><br><b>P1:</b> When taking fatal damage, if there are any enemies in <b><Sand Cage></b>, removes <b><Sand Cage></b> from one random enemy, nullifies the fatal damage, and gains a Shield equivalent to 400% ATK. Can only be activated once per turn. <br><blockquote>Lvl 2: 400% --> <b>800%</b><br>Lvl 3: 800% --> <b>1200%</b><br>Lvl 4: Eliminates the requirement of removing <b><Sand Cage></b> in order to activate the effect<br></blockquote><br><b>EE:</b> At the start of the battle, grants 1 mark of <b><Ice Resistance></b> to all allies and 1 additional mark to Earth allies (including Cleopatra). There is a 50% chance of activating S1 instead of normal attack<br><blockquote>EE40: 50% chance --> <b>100%</b> chance<br>EE50: Grants 1 --> <b>2</b> mark of <b><Ice Resistance></b> to all allies and 1 --> <b>2</b> additional mark to Earth allies (including Cleopatra)<br></blockquote><br><b>UR Skill:</b> If Cleopatra is alive, for every 4 times the enemy fails to escape from <b><Sand Cage></b>, activates US once. The counter is reset when she dies<br><blockquote>Lvl 2: 4 --> <b>3</b><br></blockquote><br><b>Pet Skill:</b> When an enemy fails to escape from <b><Sand Cage></b>, deals 100% magical damage and reduces DEF by 10%<br><blockquote>Lvl 2: 10% --> <b>15%</b><br>Lvl 3: 15% --> <b>20%</b><br>Lvl 4: 20% --> <b>25%</b><br>Lvl 5: 25% --> <b>30%</b><br></blockquote>",
+    "icon": "assets/icon/cleo.png",
+    "images": [
+      "Cleo.gif",
+      "cleopatra.gif",
+      "Cleopatra_01.png",
+      "Cleopatra_02.png",
+      "large_D_SSR_keliaopatela01.png",
+      "large_D_SSR_keliaopatela02.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Copernicus",
+    "skill": "<b>[Primal Fire]</b><br>Includes the following members:<br>- Magellan<br>- Siegfried<br>- Imagawa Yoshimoto<br>- Heimdall<br>- Horus<br>- Honda Tadakatsu<br>- Copernicus<br><br><b>S1:</b><br><blockquote>Lvl 4: Skill targets all enemies.<br>Lvl 5: Effect cannot be immuned or dispelled.<br></blockquote><br><b>US:</b><br><blockquote>Lvl 4: Effect no longer stuns the target after it ends.<br>Lvl 5: Target changes to all allies.<br></blockquote><br><b>P1:</b><br><blockquote>Lvl 4: 60% -> 100% chance to resist | When resisting a negative effect, heal all allies for 200% of attack, excess healing converts to shield.<br>Lvl 5: At the beginning of the battle, all allies gain 5 stacks of fatal damage immunity, and all <b>[Primal Fire]</b> allies gain another 5 stacks of fatal damage immunity.<br></blockquote><br><b>Awakening Skill:</b> At the beginning of the battle, Copernicus gains immunity to damage for 3 rounds.<br><blockquote>Lvl 2: At the beginning of the battle, all <b>[Primal Fire]</b> allies gain immunity to damage for 3 rounds. At the start of each round, if all allies have <Damage Immunity>, non-light/dark/boss enemies cannot act for 1 round.<br></blockquote><br><b>MR</b>: Before attacking, if there are any enemies with stacks of fatal damage immunity are higher than 10, reduce the number to 10.<br><blockquote>Lvl 2: The limit/reduction becomes 5 stacks.<br></blockquote><br><b>Pet:</b> While alive, increases hit for all <b>[Primal Fire]</b> allies by 40%<br><blockquote>Lvl 2: 40% -> 60%<br>Lvl 3: 60% -> 80%<br>Lvl 4: 80% -> 100%<br>Lvl 5: 100% -> 120%<br></blockquote>",
+    "icon": "assets/icon/copernicus.png",
+    "images": [
+      "Copernicus_01.png",
+      "Copernicus_02.png",
+      "Copernicus_03.png",
+      "copernicus_skin.png",
+      "large_H_MR_gebaini01.png",
+      "large_H_UR_gebaini01.png"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Da Qiao & Xiao Qiao",
+    "skill": "<b>S1:</b> Increases ATK of the ally with the highest ATK by 60% --> <b>72%</b>, decreases ATK of the enemy with the highest ATK by 60% --> <b>72%</b><br><br><b>US:</b> SPD +20 --> <b>+25</b>, Final DMG +20% --> <b>+25%</b>, Final DMG Reduction +20% --> <b>+25%</b><br><br><b>P1:</b> Deals 160% --> <b>200%</b> magical damage twice<br><br><b>UR Skill:</b> Da Qiao & Xiao Qiao gains the power of <b><Brilliance></b>. For each mark of <b><Brilliance></b>, Final DMG Reduction +5%. The effects of S1 are now applied to all allies and all enemies. At the start of the battle, nullifies all CC effects for 2 allies with the highest SPD and all allies that holds <Brilliance> for 2 turns. This effect cannot be dispelled. At the start of every turn, destroys Shield present on a random enemy<br><blockquote>Lvl 2: 2 --> <b>3</b> allies, 2 --> <b>4</b> turns. When activating US, cleanses all status effects from all allies. The effects of US now last for 4 turns<br></blockquote><br><b>Pet Skill:</b> At the end of every turn, all allies recover HP equivalent to 200% of Da Qiao & Xiao Qiao's ATK<br><blockquote>Lvl 2: 200% --> <b>250%</b> ATK<br>Lvl 3: 250% --> <b>300%</b> ATK<br>Lvl 4: 300% --> <b>350%</b> ATK<br>Lvl 5: 350% --> <b>500%</b> ATK<br></blockquote>",
+    "icon": "assets/icon/daqiaoxiaoqiao.png",
+    "images": [
+      "daqiaoxiaoqiao_skin.png",
+      "Da_Qiao__Xiao_Qiao_01_.png",
+      "Da_Qiao__Xiao_Qiao_02.png",
+      "Da_Qiao__Xiao_Qiao_03.png",
+      "large_G_UR_daqiaoxiaoqiao01.png",
+      "large_G_UR_daqiaoxiaoqiaoyuansuti01.png"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Da Vinci",
+    "skill": "<b>S1:</b> Deals 160% --> <b>256%</b> magical damage to the enemy<br><br><b>US:</b> Deals 180% --> <b>250%</b> magical damage, has a 25% chance of inflicting Silence, has a 70% --> <b>90%</b> chance of sending enemies flying<br><br><b>P1:</b> Increases DEF by 30% when activating S1<br><br><b>UR Skill:</b> When activating S1, there is a 40% chance of attacking 1 additional enemy <br><blockquote>Lvl 2: 1 --> <b>2</b><br></blockquote><br><b>Pet Skill:</b> At the end of each turn, deals 150% magical damage to the enemy that dealt the most damage on that turn (excluding damage dealt to Shield), and has a 100% chance of sending them flying<br><blockquote>Lvl 2: 150% --> <b>200%</b><br>Lvl 3: 200% --> <b>250%</b><br>Lvl 4: 250% --> <b>300%</b><br>Lvl 5: 300% --> <b>350%</b><br></blockquote>",
+    "icon": "assets/icon/davinci.png",
+    "images": [
+      "davinci.gif",
+      "Da_Vinci_01.png",
+      "Da_Vinci_02.png",
+      "Da_Vinci_03.png",
+      "Da_Vinci_04.png"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Daji",
+    "skill": "<b>S1:</b> Protects all allies (excluding <b><Enchant></b> units) for 2 turns. If a protected ally dies, there is a 50% chance of reviving them and recovering 30% max HP <br><blockquote>Lvl 2: 30% max HP --> <b>60%</b> max HP<br>Lvl 3: 50% chance --> <b>70%</b> chance<br>Lvl 4: Increases the chance of reviving Water allies to 100%<br></blockquote><br><b>US:</b> Removes all status ailments from all allies. Increases all allies (excluding Daji) ATK and DEF by 30% of Daji's ATK and DEF<br><blockquote>Lvl 2: 30% --> <b>40%</b><br>Lvl 3: 40% --> <b>50%</b><br>Lvl 4: Water allies gain an additional 50% ATK and DEF<br></blockquote><br><b>P1:</b> At the start of each turn, there is a 30% chance that the enemy with the highest SPD will be inflicted with <b><Enchant></b>. If it succeeds, moves the enemy to a random vacant position on your side for 1 turn. If it fails, reduces enemy ATK by 50% for 1 turn. <br><blockquote>Lvl 2: 30% --> <b>40%</b><br>Lvl 3: 40% --> <b>50%</b><br>Lvl 4: Increases the chance of inflicting <b><Enchant></b> on Fire enemies by 50%<br></blockquote><br><b>EE:</b> When an enemy is inflicted with <b><Frost Mark></b>, there is a 40% chance of gaining 1 <b><Rain Mark></b><br><blockquote>Lvl 2: 40% --> <b>60%</b><br>Lvl 3: 60% --> <b>80%</b><br></blockquote><br><b>UR Skill:</b> If there is an enemy inflicted with <b><Enchant></b>, whenever Daji receives damage, transfers 50% of the damage to the enemy <br><blockquote>Lvl 2: Transfers 70% damage instead. If an enemy dies while being inflicted with <b><Enchant></b>, activates Lvl 4 P1<br></blockquote><br><b>Pet Skill:</b> If <b><Enchant></b> succeeds, absorbs 10% of the enemy's current HP and converts it into HP for herself. This effect lasts until the end of the battle. HP absorbed cannot exceed 500% of Daji's ATK. HP gained from this skill can exceed max HP limit, however it cannot exceed 500% of max HP<br><blockquote>Lvl 2: 10% --> <b>15%</b><br>Lvl 3: 15% --> <b>20%</b><br>Lvl 4: 20% --> <b>25%</b><br>Lvl 5: 25% --> <b>30%</b><br></blockquote>",
+    "icon": "assets/icon/daji.png",
+    "images": [
+      "daji.gif",
+      "Daji_01.png",
+      "Daji_02.png",
+      "large_S_SSR_daji01.png",
+      "large_S_SSR_daji02.png"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Dante",
+    "skill": "<b>S1:</b> Shackled enemy receives damage equivalent to 200% --> <b>220%</b> of Dante's ATK on their turn<br><br><b>US:</b> Deals 5 instances of 70% --> <b>80%</b> physical damage to the enemy with the lowest HP. If the enemy's HP is below 30%, the last hit deals 700% --> <b>800%</b> physical damage<br><br><b>P1:</b> Enemy inflicted with <b><Death Eulogy></b> has 50% --> <b>55%</b> decreased ATK and DEF<br><br><b>US:</b> Dante gains the power of <b><Shadow></b>. S1 can now target 3 enemies. If the targeted enemy is of Earth/Water/Fire/Wind element, their passives are also sealed. For each mark of <b><Shadow></b> possessed, increases Final DMG Reduction by 5%<br><blockquote>Lvl 2: When an enemy's HP drops below 30% from taking damage or activating skills, Dante has a 100% chance of activating S1 and US on that enemy. This effect activates once per turn. If there are multiple enemies whose HP is below 30% from taking damage, Dante will target the enemy with the lowest HP percentage. <br>For the first 2 turns, Dante receives the Shadow's protection. When attacked by the enemy's normal attacks, skills, or US, Dante has a 50% chance of nullifying the attack (includes both the damage instance and any status effects attached to it)<br></blockquote><br><b>Pet Skill:</b> At the start of each turn, all enemies whose HP is below 30% have their DEF reduced by 10% for 1 turn<br><blockquote>Lvl 2: 10% --> <b>12.5%</b> DEF reduction<br>Lvl 3: 12.5% --> <b>15%</b> DEF reduction<br>Lvl 4: 15% --> <b>17.5%</b> DEF reduction<br>Lvl 5: 17.5% --> <b>20%</b> DEF reduction<br></blockquote>",
+    "icon": "assets/icon/dante.png",
+    "images": [
+      "dante.gif",
+      "Dante_01.png",
+      "Dante_02.png",
+      "Dante_03.png",
+      "Dante_04.png",
+      "large_A_UR_dandingyuansuti01.png"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Daphne",
+    "skill": "<b>[Azure Flow]</b><br>Includes the following members:<br>- Ujiyasu Hōjō<br>- Daphne<br>- Poseidon<br>- Abe no Seimei<br>- Hermes<br><br><b>S1:</b> Realm expansion <Laurel>, lasts for 3 turns. In this field, all <b>[Azure Flow]</b> allies become immune to control effects. If there is an enemy Boss, Daphne casts US instead.<br><blockquote>Lvl 2: Reduces all enemies’ magic damage reduction by 100%. Cannot be immuned or dispelled.<br>Lvl 3: Reduces all enemies’ final damage reduction by 100%. Cannot be immuned or dispelled.<br>Lvl 4: 3 -> 4 turns<br></blockquote><br><b>US:</b> Deals magic damage equal to 25% of Daphne’s max HP 4 times to all enemies. Cannot miss.<br><blockquote>Lvl 2: 25% -> 50%<br>Lvl 3: 50% -> 100%<br>Lvl 4: Dispels 1 buff from enemies every time they are hit.<br></blockquote><br><b>P1:</b> At the beginning of each round, for each <b>[Azure Flow]</b> ally, all enemies lose 20% magical damage reduction and magical damage increase. Cannot be immuned or dispelled.  Lasts 1 round.<br><blockquote>Lvl 2: 20% -> 50%<br>Lvl 3: 50% -> 75%<br>Lvl 4: 75% -> 90%<br></blockquote><br><b>Awakening Skill:</b> At the start of battle, there is a 70% chance to apply <Water Lock> to enemies in the same column for 2 turns. At the beginning of each round, for every <b>[Azure Flow]</b> ally, increase the attack of all <b>[Azure Flow]</b> allies by 60%until the end of the battle.<br><blockquote>Lvl 2: At the beginning of the 3rd round, all <b>[Azure Flow]</b> allies become immune to damage for 1 round.<br></blockquote><br><b>Pet:</b>At the beginning of each round, heal all water element allies for 20% of Daphne’s current HP<br><blockquote>Lvl 2: 20% -> 40%<br>Lvl 3: 40% -> 60%<br>Lvl 4: 60% -> 80%<br>Lvl 5: 80% -> 100%<br></blockquote><br><b>EE:</b> <br><blockquote>30 - While alive, increase dodge for all <b>[Azure Flow]</b> allies by 10%<br>40 - While alive, increase hit for all <b>[Azure Flow]</b> allies by 120%. Cannot be dispelled.<br>50 - 10% -> 50% dodge<br></blockquote>",
+    "icon": "assets/icon/daphne.png",
+    "images": [
+      "daphne_1.png",
+      "daphne_2.png",
+      "daphne_ssr_2.png",
+      "image.png"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Date Masamune",
+    "skill": "<b>S1:</b> Deals 600% --> <b>800%</b> physical damage to backline enemies and recovers HP equivalent to 100% --> <b>110%</b> of damage dealt<br><br><b>US:</b> Demon King Form increases ATK by 200% --> <b>300%</b><br><br><b>P1:</b> When Demon King Form ends, deals 600% --> <b>800%</b> physical damage to all enemies<br><br><b>UR Skill:</b> Date gains the power of <b><Shadow></b>. After Date uses S1 on her first turn, if she isn't in Demon King Form yet, there is a (20% * number of <b><Shadow></b> marks) chance of activating US. At the start of the second, sixth, and tenth turn, if Date is in Demon King Form, increases ATK and CRIT rate by 100% for 1 turn. If Date is not in Demon King Form, increases SPD by 100 for 1 turn. For every mark of <b><Shadow></b> possessed, increases CRIT DMG by 10% <br><blockquote>Lvl 2: At the start of the battle, Date is immune to an instance of fatal damage, and increases CRIT DMG by 30%<br></blockquote><br><b>Pet Skill:</b> At the start of every turn, if Date is in Demon King Form, decreases DEF and Final Damage Reduction of backline enemies by 10%/15%/20%/25%/30% for 1 turn. If Date is not in her Demon King Form, increases self DEF and Final Damage Reduction by 10%/15%/20%/25%/30% for 1 turn.<br>",
+    "icon": "assets/icon/date.png",
+    "images": [
+      "Date_Masamune_01.png",
+      "Date_Masamune_02.png",
+      "Date_Masamune_03.png",
+      "large_A_UR_yidazhengzongyuansuti01.png",
+      "large_H_UR_yidazhengzong01.png"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Don Quixote",
+    "skill": "<b>S1:</b> Deals 3 instances of 88% --> <b>200%</b> Physical damage, applies Armor Break, and increases DEF for self by 300% --> <b>400%</b> for 2 turns<br><br><b>US:</b> Deals 100% --> <b>700%</b> Physical damage to all enemies with a 100% chance to inflict Taunt<br><br><b>P1:</b> When attacked by normal attacks, increases ATK for all allies by 20% --> <b>25%</b> up to 10 stacks<br><br><b>UR Skill:</b>  At the start of the battle, increases ATK for all <b>[Revolutionary Army]</b> units by 50% and DEF for all non <b>[Revolutionary Army]</b> units by 50% for 10 turns. At the start of the battle, Don Quixote has a 50% chance to activate US once<br><blockquote>Lvl 2: ATK and DEF increase now applies to all units. If the enemy side has <b>[Royal Family Member]</b> units, the activation chance of US increases to 100%<br></blockquote><br><b>[Revolutionary Army]:</b> Includes the following units:<br>- Don Quixote<br>- Jing Ke<br>- Carmen<br><br><b>[Royal Family Member]:</b> Includes the following units:<br>- Richard<br>- Thor<br><br><b>Pet Skill:</b> At the start of the battle, nullifies all status ailments for all <b>[Revolutionary Army]</b> allies for 1 turn. At the start of each turn, there is a 10% chance of inflicting <b>[Enchant]</b> on an enemy <b>[Revolutionary Army]</b> unit<br><blockquote>Lvl 2: 10% --> <b>20%</b> chance<br>Lvl 3: 20% --> <b>30%</b> chance<br>Lvl 4: 30% --> <b>40%</b> chance<br>Lvl 5: 40% --> <b>50%</b> chance<br></blockquote>",
+    "icon": "assets/icon/donquixote.png",
+    "images": [
+      "donquixote_ur.png",
+      "Don_Quixote_01.png",
+      "Don_Quixote_02.png",
+      "Don_Quixote_03.png"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Dracula",
+    "skill": "<b>S1:</b> Increases Dodge by 20% for self, then increases Dodge by 20% for all allies with 7 or more <b>[Stored Mark]</b> for 5 turns, can be dispelled<br><blockquote>Lvl 2: 20% --> <b>30%</b> Dodge for self and all allies with 7 or more Stored Mark<br>Lvl 3: 30% --> <b>40%</b> Dodge<br>Lvl 4: 40% --> <b>70%</b> Dodge<br></blockquote><br><b>US:</b> Deals 3 instances of 200% magical damage to all enemies. If Dracula has 7 or more <b>[Stored Mark]</b>, decreases ATK and DEF by 20% for all enemies for 4 turns, can be cleansed. Then, recovers HP equivalent to 500% ATK for all allies with 7 or more <b>[Stored Mark]</b><br><blockquote>Lvl 2: 200% --> <b>300%</b> magical damage<br>Lvl 3: 300% --> <b>600%</b> magical damage<br>Lvl 4: 20% --> <b>50%</b> ATK/DEF reduction, 500% --> <b>1000%</b> ATK<br></blockquote><br><b>P1:</b> At the start of the battle and at the end of each turn, Dracula gains 1 <b>[Stored Mark]</b>. At the start of the battle, Dracula gains a Shield equivalent to 100% max HP. At the start of each turn, all allies with 7 or more <b>[Stored Mark]</b> gains 5% Physical damage reduction for 7 turns<br><blockquote>Lvl 2: 5% --> <b>10%</b> Physical damage reduction, 100% --> <b>200%</b> max HP<br>Lvl 3: 10% --> <b>15%</b> Physical damage reduction, 200% --> <b>300%</b> max HP<br>Lvl 4: 15% --> <b>25%</b> Physical damage reduction, <b>New Effect:</b> At the start of each turn, all allies with Stored Mark (including self) gains a Shield equivalent to 300% max HP<br></blockquote><br><b>EE:</b> At the start of each turn, increases Final DMG Reduction by 1%. Cannot be dispelled, can stack up to 30 times, and lasts till the end of the battle<br><blockquote>EE40: 1% --> <b>2%</b><br>EE50: 2% --> <b>3%</b><br></blockquote>",
+    "icon": "assets/icon/dracula.png",
+    "images": [
+      "Dracula_.png",
+      "dracula_3.png",
+      "dracula_skin.png",
+      "dracula_ssr_1.png",
+      "dracula_ssr_2.png",
+      "dracula_ur.png"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Enako",
+    "skill": "<b>S1:</b> If Enako has 3 or more <b><Leaf Mark></b>, consumes 3 <b><Leaf Mark></b> and deals 100%/200%/300%/400% physical damage to enemies in the opposing column, and has a 25%/50%/75%/100% chance of inflicting <b><Tear></b> for 2 turns. If Enako has less than 3 <b><Leaf Mark></b>, deals 70%/80%/90%/100% physical damage to enemies in the opposing column<br><br><b>US:</b> Consumes all <b><Leaf Mark></b> and deals 100%/150%/200%/350% physical damage to all enemies. For each <b><Leaf Mark></b> consumed, deals an additional 10%/15%/20%/30% physical damage to all enemies. Damage is doubled against enemies inflicted with <b><Tear></b><br><br><b>P1:</b> When an enemy is inflicted with a status ailment, Enako has a 20% chance of gaining 1 <b><Leaf Mark></b><br><blockquote>Lvl 2: 20% --> <b>25%</b> chance<br>Lvl 3: 25% --> <b>30%</b> chance<br>Lvl 4: 30% --> <b>50%</b> chance<br></blockquote><br><b><Leaf Mark>:</b> Recovers HP equivalent to 30% ATK when consumed. Can be stacked up to 10 times<br><br><b>EE:</b> At the start of each turn, Enako gains 1 <b><Leaf Mark></b><br><blockquote>EE40: 1 --> <b>2</b><br>EE50: At the start of the battle, Enako gains 1 <b><Leaf Mark></b> for each Wind ally (including self) on the field<br></blockquote><br><b>UR Skill:</b> If Enako has <b><Leaf Mark></b> when activating her normal attack, consumes 1 <b><Leaf Mark></b> and deals 150% physical damage to the enemy, and has a 50% chance of inflicting <b><Tear></b><br><blockquote>Lvl 2: 150% --> <b>200%</b> physical damage, 50% --> <b>100%</b> chance<br></blockquote><br><b>Pet Skill:</b> After using normal attacks, skills, or US, deals 60% physical damage to the enemy with the highest ATK, and has a 10% chance of gaining 2 <b><Leaf Mark></b><br><blockquote>Lvl 2: 60% --> <b>70%</b> physical damage, 10% --> <b>20%</b> chance<br>Lvl 3: 70% --> <b>80%</b> physical damage, 20% --> <b>30%</b> chance<br>Lvl 4: 80% --> <b>90%</b> physical damage, 30% --> <b>40%</b> chance<br>Lvl 5: 90% --> <b>100%</b> physical damage, 40% --> <b>50%</b> chance<br></blockquote>",
+    "icon": "assets/icon/enako.png",
+    "images": [
+      "enako.gif",
+      "Enako_01.png",
+      "Enako_02.png"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Freyr",
+    "skill": "<b>[Eight Desolates]</b><br>Includes the following members:<br>- Achilles<br>- Freyr<br>- Mercury<br>- Ramses<br>- ?<br><br><b>S1:</b> Grants control immunity to all earth, light and dark element allies for 1 round and applies <Dazzle> to all non-light, dark and boss enemies for 1 round.<br><blockquote>Lvl 2: 1 -> 2 <br>Lvl 3: 2 -> 3<br>Lvl 4: 3 -> 4<br></blockquote><br><b>US:</b> Deals 4 instances of physical damage equal to 25% of Freyr’s maximum HP to all enemies. Cannot miss.<br><blockquote>Lvl 2: 25% -> 50%<br>Lvl 3: 50% -> 100%<br>Lvl 4: Every hit dispels 1 buff.<br></blockquote><br><b>P1:</b> Freyr becomes immune to <Enchant>.<br><blockquote>Lvl 2: While alive, ally light and dark huntresses become immune to <Enchant>.<br>Lvl 3: While alive, ally earth huntresses become immune to <Enchant>.<br>Lvl 4: At the beginning of every round, there is an 80% chance to <Enchant> a random enemy for 1 round.<br></blockquote><br><b>Awakening Skill:</b> At the beginning of the battle, for every earth ally grant 10 stacks of fatal damage immunity to all allies. When an enemy takes action, dispel 1 debuff from all allies.<br><blockquote>Lvl 2: At the beginning of the second round, all <b>[Eight Desolates]</b> allies become immune to damage for 1 round.<br></blockquote><br><b>Pet:</b> At the beginning of the battle, apply <Earth Lock> to the enemy in the same position for 1 round.<br><blockquote>Lvl 2: 1 -> 2<br>Lvl 3: 2 -> 3<br>Lvl 4: 3 -> 4<br>Lvl 5: 4 -> 5<br></blockquote><br><Earth Lock>: alsdkhjfwoeai;df;oieawjdlkfj (Does exactly what you think it does. Unless you're wrong, in which case it doesn't.)<br><br><b>EE:</b><br><blockquote>30 - While alive, increase the dodge of all <b>[Eight Desolates]</b> allies by 10%<br>40 - While alive, increase the hit of all <b>[Eight Desolates]</b> allies by 120%. Cannot be dispelled.<br>50 - While alive, increase the dodge of all <b>[Eight Desolates]</b> allies by 50%<br></blockquote>",
+    "icon": "assets/icon/freyr.png",
+    "images": [
+      "freyr_01.png",
+      "freyr_02.png",
+      "freyr_ssr_2.png",
+      "freyr_story.png"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Hannibal",
+    "skill": "<b>S1:</b> Deals 296% --> <b>500%</b> physical damage, has a 65% --> <b>80%</b> chance to stun<br><br><b>US:</b> Deals 296% --> <b>700%</b> physical damage, has a 65% --> <b>80%</b> chance to stun<br><br><b>P1:</b> Gains shield equivalent to 200% --> <b>250%</b> of damage dealt, generates an initial shield equivalent to 500% --> <b>600%</b> ATK<br><br><b>UR Skill:</b> At the start of the battle, the ally with the highest SPD (including self) is immune to CC effects (including <b><Enchant></b>). This effect cannot be dispelled, and lasts till Hannibal is unable to battle<br><blockquote>Lvl 2: Hannibal's normal attack, skill, and ultimate deals additional damage equivalent to 30% of current shield amount (this damage cannot be defended, and cannot exceed 1000% of Hannibal's ATK)<br></blockquote><br><b>Pet Skill:</b> When an enemy breaks out of <b><Sand Cage></b>, there is a 50%/60%/70%/80%/100% chance of dealing damage equivalent to 10%/12%/14%/16%/20% of Hannibal's current shield amount, and has a 100% chance of inflicting Stun for 2 turns. This damage cannot be defended, and cannot exceed 500%/600%/700%/800%/1000% of Hannibal's ATK.<br>",
+    "icon": "assets/icon/hannibal.png",
+    "images": [
+      "Hannibal_01.png",
+      "Hannibal_02.png",
+      "Hannibal_03.png",
+      "large_D_UR_hanniba01_49148.png"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Hattori Hanzo",
+    "skill": "<b>[Thorn Mark]:</b> When receiving Physical damage from skill, US or normal attack (excluding Physical damage taken from status ailments), each mark reflects 1.5% of the damage dealt as True damage. Lasts for 4 turns, cannot be cleansed, and has a max stack of 100<br><br><b>[Bookworm]:</b> Includes the following units:<br>- Medusa<br>- Hattori Hanzo<br>- Isis<br><br><b>S1:</b> Adds 2 <b>[Thorn Mark]</b> for self and the ally with the highest ATK (excluding self)<br><blockquote>Lvl 2: 2 --> <b>4</b> Thorn Mark<br>Lvl 3: 4 --> <b>6</b> Thorn Mark<br>Lvl 4: Thorn Mark is now given to all <b>[Bookworm]</b> allies instead<br></blockquote><br><b>US:</b> Applies <b>[Secret Art: Substitution]</b> and 2 layers of fatal damage nullification for the target with the lowest HP percentage for 3 turns. Additionally applies <b>[Secret Art: Substitution]</b> and fatal damage nullification for Thor<br><blockquote>Lvl 2: 2 --> <b>4</b> fatal damage nullification<br>Lvl 3: 4 --> <b>6</b> fatal damage nullification<br>Lvl 4: The duration of fatal damage nullification lasts till the end of the battle. Additionally applies [Secret Art: Substitution] and fatal damage nullification for all [Bookworm] allies<br></blockquote>",
+    "icon": "assets/icon/hanzo.png",
+    "images": [
+      "hanzo_ssr_1.png",
+      "hanzo_ssr_2.png",
+      "image.png",
+      "large_H_UR_fububanzang02.png"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Heimdall",
+    "skill": "<b>[Primal Fire]</b><br>Includes the following members<br>- Magellan<br>- Siegfried<br>- Imagawa Yoshimoto<br>- Heimdall<br>- Horus<br>- Honda Tadakatsu<br><br><b>S1:</b> Dispels 3 negative effects from all fire element allies.<br><blockquote>Lvl 2: Increases final damage reduction of all <b>[Primal Fire]</b> allies by 50% for 2 rounds, cannot be dispelled.<br>Lvl 3: Increases damage dealt to wind element enemies for all <b>[Primal Fire]</b> allies by 25% for 2 rounds, cannot be dispelled.<br>Lvl 4: If there is a Boss target, increase attack for all fire element allies by 100% until the end of the battle.<br></blockquote><br><b>US:</b> Causes physical damage equal to 100% of attack to all enemies with a 100% chance to stun for 1 round.<br><blockquote>Lvl 2: Provides a shield equal to 300% of max hp to all allies for 1 round.<br>Lvl 3: 300% -> 900%<br>Lvl 4: Shield for 1 -> 2 rounds<br></blockquote><br><b>P1:</b> At the beginning of the battle, if there is an enemy Loki, both Heimdall and the enemy Loki will gain 9 stacks of fatal damage immunity. When Heimdall dies, the enemy Loki will also die.<br><blockquote>Lvl 2: At the beginning of the battle, gains 9 stacks of status immunity.<br>Lvl 3: At the beginning of the battle, gains 9 stacks of fatal damage immunity.<br>Lvl 4: At the beginning of the battle, grants 9 stacks of fatal damage immunity to all <b>[Primal Fire]</b> allies.<br></blockquote><br><b>Awakening Skill:</b> At the beginning of the battle, expand realm <Under the World Tree> until the end of the battle. While this realm is in effect, all allies gain 50% attack, 50% defense, and 50 speed.<br><blockquote>Lvl 2: While alive, increases physical damage reduction, magical damage reduction and wind element damage reduction of all <b>[Primal Fire]</b> allies by 30%. Cannot be dispelled.<br></blockquote><br><b>Pet:</b> At the beginning of the 5th round, resurrect a dead ally at random, restoring 10% of their max hp.<br><blockquote>Lvl 2: 10% -> 20%<br>Lvl 3: 20% -> 30%<br>Lvl 4: 30% -> 40%<br>Lvl 5: 40% -> 50%<br></blockquote><br><b>EE:</b><br><blockquote>30 - At the beginning of each round, increase defense for all allies by 20% for 1 round.<br>40 - At the beginning of each round, decrease the defense of all enemies by 20% for 1 round.<br>50 - Use S1 instead of normal attack.<br></blockquote>",
+    "icon": "assets/icon/heimdall.png",
+    "images": [
+      "heimdall_1.png",
+      "heimdall_2.png",
+      "heimdall_ssr_2.png",
+      "heimdall_story.png"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Helen",
+    "skill": "<b>S1:</b> Removes 3 status ailments and Increases ATK by 20% --> <b>25%</b> for all allies<br><br><b>US:</b> Revive a random dead ally and recovers 60% --> <b>65%</b> max HP. If no allies are dead, recovers 60% --> <b>65%</b>  max HP for the ally with the lowest HP percentage<br><br><b>P1:</b> All allies recover HP equivalent to 12% --> <b>16%</b> of Helen's max HP when Helen receives a CRIT<br><br><b>UR Skill:</b> There is a 25% chance of activating S1 instead of normal attack<br><blockquote>Lvl 2: 25% --> <b>50%</b> chance<br></blockquote><br><b>Pet Skill:</b> After Helen revives an ally, increases CRIT rate for that ally by 20% for 1 turn, as well as having a 20% chance of nullifying status effects and damage for 1 turn.<br><blockquote>Lvl 2: 20% --> <b>40%</b> chance<br>Lvl 3: 40% --> <b>60%</b> chance<br>Lvl 4: 60% --> <b>80%</b> chance<br>Lvl 5: 80% --> <b>100%</b> chance<br></blockquote>",
+    "icon": "assets/icon/helen.png",
+    "images": [
+      "helen.gif",
+      "Helen_of_Troy_01.png",
+      "Helen_of_Troy_02.png",
+      "Helen_of_Troy_03.png",
+      "Helen_of_Troy_04.png",
+      "Helen_of_Troy_05.png",
+      "story_hailun.png"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Hercules",
+    "skill": "<b>S1:</b> Destroys all enemy summons and creates 4 <b><Rock Spike></b> on empty squares on the enemy side. If there are no empty squares, activate US instead<br><br><b><Rock Spike>:</b> When created, deals physical damage equivalent to 50%/60%/70%/80% ATK + 0.8%/1.0%/1.2%/1.5% current HP to adjacent enemies, and has a 8%/12%/16%/20% chance of inflicting <b><Sand Cage></b>. Rock Spikes are immune to damage and status ailments, cannot act, and cannot be targeted by attacks. If Hercules dies, all Rock Spikes are destroyed.<br><br><b>US:</b> Deals 240%/320%/400%/500% physical damage to enemies in the opposing column. Deals additional physical damage equivalent to 6%/8%/10%/12% current HP to enemies in <b><Sand Cage></b>. There is a 24%/32%/40%/50% chance of inflicting <b><Sand Cage></b>.<br><br><b>P1:</b> After activating normal attack, skills, or US, there is a 50% chance of giving 1 mark of <b><Ice Resistance></b> to self and all allies with <b><Ice Resistance></b>. <br><blockquote>Lvl 2: 50% --> <b>100%</b><br>Lvl 3: 1 --> <b>2</b><br>Lvl 4: If Hercules has 10 marks of <b><Ice Resistance></b>, clears all debuffs from self and gains immunity to all status effects<br></blockquote><br><b>EE:</b> At the start of the battle, grants a Shield equivalent to 8%/13%/18% of Hercules max HP to the ally behind her for 2 turns. If that ally is Earth element, Shield amount increases to 16%/26%/36% of Hercules max HP<br><br><b>UR Skill:</b> Normal attacks deal additional physical damage equivalent to 6% of Hercules current HP<br><blockquote>Lvl 2: When an enemy fails to escape from <b><Sand Cage></b>, Hercules will attack the enemy with a normal attack<br></blockquote><br><b>Pet Skill:</b> For each mark of <b><Ice Resistance></b> gained by allies, Hercules recover HP equivalent to 0.2%/0.3%/0.4%/0.5%/0.6% max HP<br>",
+    "icon": "assets/icon/hercules.png",
+    "images": [
+      "hercules.gif",
+      "Hercules_01.png",
+      "Hercules_02.png",
+      "large_D_SSR_haigelisi01.png",
+      "large_D_SSR_haigelisi02.png"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Hermes",
+    "skill": "<b>[Azure Flow]</b><br>Includes the following members:<br>- Ujiyasu Hōjō<br>- Daphne<br>- Poseidon<br>- Abe no Seimei<br>- Hermes<br><br><b>S1:</b> Increases own dodge by 50% for 1 round and gains 5 stacks of fatal damage immunity<br><blockquote>Lvl 2: Target changes to <b>[Azure Flow]</b> allies.<br>Lvl 3: Target changes to water element allies.<br>Lvl 4: All water element allies gain 1 stack of <Travel Notes><br></blockquote><br><Travel Notes>: increases effect resistance by 5 and speed by 1. Cannot be dispelled, stacks up to 99 times.<br><br><b>US:</b> Deals physical damage equal to 1000% of attack to all enemies and deals true damage equal to 800% of max HP to all enemies with fatal damage immunity.<br><blockquote>Lvl 2: Executes 2 times<br>Lvl 3: 2 -> 5 times<br>Lvl 4: Before dealing damage, dispel all shields.<br></blockquote><br><b>P1:</b> Hermes is immune to <Speed Reduction><br><blockquote>Lvl 2: Hermes is immune to control effects<br>Lvl 3: Hermes is immune to all negative effects<br>Lvl 4: While alive, all ally <b>[Azure Flow]</b> huntresses become immune to the effects of <Knockback>, <Entanglement>, <Burning>, <Frost Mark>, <Freeze>, <Bind> and <Speed Reduction><br></blockquote><br><b>Awakening Skill:</b> When an enemy or ally attempts to deploy a realm, or if there is an active realm at the beginning of each round, increase speed for all allies by 50 for 1 round.<br><blockquote>Lvl 2: 1 -> 4 rounds<br></blockquote><br><b>Pet:</b> At the beginning of each round, dispel 1 negative effect for a random ally.<br><blockquote>Lvl 2: 1 -> 2<br>Lvl 3: 2 -> 3<br>Lvl 4: 3 -> 4<br>Lvl 5: 4 -> 5<br></blockquote><br><b>EE:</b><br><blockquote>30 - At the beginning of each round, gain 1 stack of <Travel Notes><br>40 - At the beginning of each round, restore HP equal to 1000% of Hermes’ attack to all allies with <Travel Notes>. Excess healing will be converted to shield, and increases the target’s attack, final damage and crit by 50%<br>50 - At the start of the battle, grants all <b>[Azure Flow]</b> allies 1 stack of <Travel Notes><br></blockquote>",
+    "icon": "assets/icon/hermes.png",
+    "images": [
+      "hermes_ssr_1.png",
+      "hermes_ssr_2.png",
+      "hermes_ur.png",
+      "hermes_ur_2.png"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Himiko",
+    "skill": "<b>S1:</b> Deals 160% --> <b>300%</b> damage <br><br><b>US:</b> All enemies within Himiko's Realm has their Hit reduced by 20% --> <b>30%</b>, SPD reduced by 50 --> <b>100</b>, and loses 30% --> <b>40%</b> of their current HP every turn<br><br><b>P1:</b> Increases SPD by 100 --> <b>180</b> when Realm is active<br><br><b>UR Skill:</b> S1 now targets all enemies, and has a 100% chance of inflicting <b>[Sand Cage]</b>. There is a 100% chance of reducing Final DMG Reduction of the enemy target by 20% for 1 turn<br><blockquote>Lvl 2: 20% --> <b>50%</b> reduction, 1 --> <b>3</b> turn. There is also a 100% chance of reducing Final DMG of the enemy target by 50% for 3 turn<br></blockquote><br><b>Pet Skill:</b> When Himiko fails to inflict <b>[Binding]</b> on the enemy, deals damage equivalent to 300% ATK to that enemy and grants a Shield equivalent to 500% of Himiko's ATK to all allies<br><blockquote>Lvl 2: 300% --> <b>400%</b> ATK<br>Lvl 3: 400% --> <b>500%</b> ATK<br>Lvl 4: 500% --> <b>700%</b> ATK, 500% --> <b>800%</b> Shield<br>Lvl 5: 700% --> <b>1000%</b> ATK, 800% --> <b>1200%</b> Shield<br></blockquote>",
+    "icon": "assets/icon/himiko.png",
+    "images": [
+      "Himiko_01.png",
+      "Himiko_02.png",
+      "Himiko_03.png",
+      "himiko_ur.png"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Honda Tadakatsu",
+    "skill": "<h2>UR</h2><br><b>S1:</b> DEF increases by 128% --> <b>150%</b> in Realm<br><br><b>US:</b> Deals 5 instances of 75% --> <b>150%</b> ATK<br><br><b>P1:</b> Gains 30% --> <b>35%</b> DEF for each <b><Burn Mark></b> inflicted on the enemy<br><br><b>UR Skill:</b> When Realm is active, Honda gains 40 Status Resistance, cannot be dispelled. <br><blockquote>Lvl 2: All Fire allies gain this effect<br></blockquote><br><b>Pet Skill:</b> Whenever Honda activates normal attack, skill, or US, deals 70%/90%/110%/130%/150% Honda ATK + 120%/140%/160%/180%/200% Honda DEF worth of physical damage to a random enemy<br><br><h2>MR</h2><br><b>[Primal Fire]</b><br>Includes the following members<br>- Magellan<br>- Siegfried<br>- Imagawa Yoshimoto<br>- Heimdall<br>- Horus<br>- Honda Tadakatsu<br><br><b>S1:</b> Enemies with 1 or more burn mark(s) will be stunned in the realm.<br><br><b>US:</b> The first 5 attacks become physical damage equal to 1500% of attack for non-boss enemies and 2000% of attack for boss enemies. The physical damage of the last attack changes to 500% of Honda’s max HP.<br><br><b>P1:</b> Each time an enemy gains a stack of burn, Honda gains 1 stack of damage immunity.<br><br><b>MR</b>: After ally <b>[Primal Fire]</b> units perform an action, Honda increases her own physical damage, final damage and attack by 60%.<br><blockquote>Lvl 2: After ally <b>[Primal Fire]</b> units perform an action, Honda casts US once.<br></blockquote>",
+    "icon": "assets/icon/honda.png",
+    "images": [
+      "GuanggaoBig_24BSQRJ.png",
+      "honda.gif",
+      "honda_skin.png",
+      "Honda_Tadakatsu_01.png",
+      "Honda_Tadakatsu_02.png",
+      "Honda_Tadakatsu_03.png",
+      "Honda_Tadakatsu_04.png",
+      "large_H_MR_benduozhongsheng01.png",
+      "story_benduzhongsheng.png"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Horus",
+    "skill": "<b>[Primal Fire]</b><br>Includes the following members:<br>- Magellan<br>- Siegfried<br>- Imagawa Yoshimoto<br>- Heimdall<br>- Horus<br>- Honda Tadakatsu<br><br><b>S1:</b> Applies a fire barrier to <b>[Primal Fire]</b> allies for one round, cannot be stacked. When an ally with a fire barrier is attacked, 1 stack of burn will be applied to the attacker, and they will be dealt true damage equal to 40% of the attack of the shielded ally.<br><blockquote>Lvl 2: 1 -> 2 turns<br>Lvl 3: 2 -> 3 turns<br>Lvl 4: 3 -> 4 turns<br></blockquote><br><b>US:</b> Gains one stack of <Seal of Revealing> for 2 rounds and restore HP equal to 100% of attack to x number of random allies. (x is determined by the number of stacks of <Seal of Revealing> that Horus possesses) Overflow healing is converted to shield.<br><blockquote>Lvl 2: 100% -> 200%<br>Lvl 3: 200% -> 300%<br>Lvl 4: 300% -> 400%<br></blockquote><br><Seal of Revealing>: Increases attack by 50%. When attacked, deals physical damage equal to 30% of the wearer’s attack power to the attacker, stacks 5 times. Cannot be dispelled.<br><br><b>P1:</b> At the beginning of the battle, all Isis allies gain status and damage immunity for 1 round. If the enemy has Set, Horus becomes immune to damage and negative effects for 1 round.<br><blockquote>Lvl 2: When an ally dies, gain 1 stack of <Seal of Revealing> for 2 rounds and enter <Fever> state for 1 round.<br>Lvl 3: When an ally <b>[Beastkin]</b> dies, heal all <b>[Beastkin]</b> allies by 1000% of attack.<br>Lvl 4: When an ally dies, grant 1 stack of <Seal of Revealing> to all <b>[Primal Fire]</b> allies for 2 rounds.<br></blockquote><br><b>Awakening Skill:</b> At the beginning of each round, summon an Instruction Book in the first empty space on your side, inheriting 1% of Horus’ basic attributes and unable to act. If there is no vacancy on your side, kill one of your summons at random, with priority given to the Instruction Book.<br><blockquote>Lvl 2: At the beginning of each round, there is a 20% chance to apply <Clear Reward and Judgement> to non-light and dark, non-Boss characters for 1 round. For every allied <b>[Primal Fire]</b> character, increase the probability by 20%<br></blockquote><br><Clear Reward and Judgement>: The target cannot take additional actions, cannot be immuned or dispelled.<br><br><b>Pet:</b> At the beginning of the battle, all allied <b>[Primal Fire]</b> huntresses gain 1 stack of fatal damage immunity.<br><blockquote>Lvl 2: 1 -> 2<br>Lvl 3: 2 -> 3<br>Lvl 4: 3 -> 4<br>Lvl 5: 4 -> 5<br></blockquote><br><b>EE:</b> <br><blockquote>30 - At the beginning of each round, there is a 25% chance to gain 1 stack of <Seal of Revealing> for 2 rounds<br>40 - 25 -> 50%<br>50 - 50 -> 100%<br></blockquote>",
+    "icon": "assets/icon/horus.png",
+    "images": [
+      "horus_1.png",
+      "horus_2.png",
+      "horus_ssr_1.png",
+      "horus_ssr_2.png"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Huang Zhong",
+    "skill": "<b>S1:</b> Deals 3 random instances of 50% --> <b>60%</b> physical damage <br><br><b>US:</b> Deals 5 random instances of 80% --> <b>100%</b> physical damage<br><br><b>P1:</b> There is a 90% --> <b>100%</b> chance of activating S1 instead of normal attack<br><br><b>UR Skill:</b> When Huang Zhong is alive, if she lands 100 CRITs on the enemy, increases CRIT DMG by 50%. This effect cannot be dispelled.<br><blockquote>Lvl 2: 100 --> <b>50</b> CRITs, 50% --> <b>100%</b> CRIT DMG<br></blockquote><br><b>Pet Skill:</b> At the start of Turn 5, if Huang Zhong is still alive, increases Final DMG by 20%. This effect cannot be dispelled.<br><blockquote>Lvl 2: 20% --> <b>30%</b><br>Lvl 3: 30% --> <b>40%</b><br>Lvl 4: 40% --> <b>50%</b><br>Lvl 5: 50% --> <b>60%</b><br></blockquote>",
+    "icon": "assets/icon/huangzhong.png",
+    "images": [
+      "huang_zhong.gif",
+      "Huang_Zhong_01.png",
+      "Huang_Zhong_02.png",
+      "Huang_Zhong_03.png",
+      "Huang_Zhong_04.png"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Imagawa Yoshimoto",
+    "skill": "<b>[Primal Fire]</b><br>Includes the following members<br>- Magellan<br>- Siegfried<br>- Imagawa Yoshimoto<br>- Heimdall<br>- Horus<br>- Honda Tadakatsu<br><br><b>S1:</b> Increases physical damage and final damage for all <b>[Primal Fire]</b> allies by 60% for 1 round, cannot be dispelled. Stacks up to 20 times. If there is a wind element enemy on the field, increase magical damage reduction for all <b>[Primal Fire]</b> allies by 60% for 1 round, cannot be stacked or dispelled.<br><blockquote>Lvl 2: 1 -> 2 rounds<br>Lvl 3: 2 -> 3 rounds<br>Lvl 4: 3 -> 10 rounds | After casting S1, causes all <b>[Primal Fire]</b> allies (excluding self) to cast S1 as well.<br></blockquote><br><b>US:</b> Deals physical damage equal to 400% of attack with a 100% chance to apply 1 stack of <Mantra Mark><br><blockquote>Lvl 2: 1 -> 2 stacks<br>Lvl 3: 2 -> 3 stacks<br>Lvl 4: 3 -> 4 stacks<br></blockquote><br><b>P1:</b> After <b>[Primal Fire]</b> allies (including self) use their US, grants 20% attack to all <b>[Primal Fire]</b> allies. Stacks up to 10 times, can be dispelled.<br><blockquote>Lvl 2: 20% -> 40%<br>Lvl 3: 40% -> 80%<br>Lvl 4: At the beginning of battle, casts S1 once. After an enemy takes action, heal all allies for 400% of Imagawa Yoshimoto’s attack.<br></blockquote><br><b>Awakening Skill:</b> After casting US, all <b>[Primal Fire]</b> allies (other than self) have a 100% chance to cast US.<br><blockquote>Lvl 2: At the beginning of the first round, increase physical damage reduction for <b>[Primal Fire]</b> allies by 100%, lasts 3 rounds, cannot be dispelled.<br></blockquote><br><b>Pet:</b> At the beginning of each round, deal 200% of attack as physical damage to all enemies.<br><blockquote>Lvl 2: 200% -> 250%<br>Lvl 3: 250% -> 300%<br>Lvl 4: 300% -> 350%<br>Lvl 5: 350% -> 400%<br></blockquote><br><b>EE:</b><br><blockquote>30 - When an enemy casts US, dispel one buff from that enemy.<br>40 - Dispels 1 -> 2 buffs from that enemy.<br>50 - Dispels 2 buffs from all enemies.<br></blockquote>",
+    "icon": "assets/icon/yoshimoto.png",
+    "images": [
+      "image.png",
+      "large_H_UR_jinchuanyiyuan02.png",
+      "yoshimoto_ssr_1.png",
+      "yoshimoto_ssr_2.png"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "[Swimsuit] Iori Moe",
+    "skill": "<b>S1:</b> Applies a 30% chance of nullifying status ailments for 4 turns and a Shield equivalent to 100% of max HP to self that lasts till the end of the battle<br><blockquote>Lvl 2: 30% --> <b>60%</b> chance, 100% --> <b>200%</b> max HP<br>Lvl 3: 60% --> <b>100%</b> chance, 200% --> <b>300%</b> max HP<br>Lvl 4:  Status nullification and Shield now applies to all Iori Moe allies. Duration is extended to 5 turns<br></blockquote><br><b>US:</b> Deals Physical damage equivalent to 50% of max HP to the enemy with the highest ATK and inflicts Taunt for 4 turns, and applies a Shield equivalent to 200% of max HP to self<br><blockquote>Lvl 2: 50% --> <b>100%</b> max HP, 200% --> <b>400%</b> max HP<br>Lvl 3: 100% --> <b>200%</b> max HP, 400% --> <b>600%</b> max HP<br>Lvl 4: 200% --> <b>300%</b> max HP, 600% --> <b>800%</b> max HP, Increases Dodge by 50% for self for 2 turns<br></blockquote><br><b>P1:</b> At the start of each turn, recovers HP equivalent to 5% of max HP for the ally with the lowest HP and all Iori Moe allies, and removes 1 debuff. If the enemy side contains any bosses, each US activation increases Final DMG for all Iori Moe allies by 20%. Can be stacked up to 5 times, lasts till the end of the battle, and can be dispelled<br><blockquote>Lvl 2: 5% --> <b>10%</b> max HP<br>Lvl 3: 10% --> <b>20%</b> max HP<br>Lvl 4: Removes all debuffs from self<br></blockquote><br><b>EE:</b> At the start of the battle, if Iori Moe (Swimsuit) is in the front row, increases Final DMG Reduction for all allies by 20%<br><blockquote>EE40: If Iori Moe (Swimsuit) is in the middle row, increases healing efficiency for self by 20%<br>EE50: If Iori Moe (Swimsuit) is in the back row, increases Final DMG for all allies by 20%<br></blockquote><br><b>UR Skill:</b> At the start of the battle, Iori Moe (Swimsuit) will activate her S1 once. At the start of the 5th turn, increases Final DMG and Physical DMG dealt for all Iori Moe allies by 70% of her current value (cannot be dispelled and lasts till the end of the battle), dispels all debuffs and applies status nullification for all Iori Moe allies for 4 turns<br><blockquote>Lvl 2: Increases Status Resistance for all Iori Moe allies by 100%<br></blockquote>",
+    "icon": "assets/icon/iori_ss_.png",
+    "images": [
+      "image.png",
+      "iori_SS_SSR_2.png",
+      "iori_SS_SSR_4.png",
+      "iori_SS_UR.png",
+      "iori_ssr_3.png"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Iori Moe",
+    "skill": "<b>S1:</b> Adds 5 <b>[Balloon Mark]</b> for self, then deals 300% Physical damage to the enemy with the highest ATK. Damage increases by 150% for each <b>[Balloon Mark]</b> held<br><br><b>[Balloon Mark]:</b> Can be stacked up to 30 times, cannot be cleansed. For the first 5 turns, the Balloon Mark negates all damage for Iori. However, when the amount of damage negated exceeds 1000% ATK, one mark will be removed. When the number of Balloon Mark reaches 0, Iori is no longer immune to damage<br><blockquote>Lvl 2: 300% --> <b>350%</b> Physical damage, 150% --> <b>200%</b> damage increase<br>Lvl 3: 350% --> <b>400%</b> Physical damage, 200% --> <b>300%</b> damage increase<br>Lvl 4: 400% --> <b>500%</b> Physical damage, 300% --> <b>400%</b> damage increase<br></blockquote><br><b>US:</b> Deals damage equivalent to 300% ATK to all enemies, then deals 3 instances of 500% Physical damage to the enemy with the highest ATK. Deals an additional 200% Physical damage (against the enemy with the highest ATK) for each <b>[Balloon Mark]</b> held. Afterwards, removes 3 <b>[Balloon Mark]</b><br><blockquote>Lvl 2: 300% --> <b>600%</b> ATK<br>Lvl 3: 600% --> <b>1000%</b> ATK<br>Lvl 4: 200% --> <b>450%</b> ATK<br></blockquote><br><b>P1:</b> At the start of the battle, gains 3 <b>[Balloon Mark]</b> for each Wind and Earth units in your team. <br><blockquote>Lvl 2: At the start of the battle, gains an additional 1 <b>[Balloon Mark]</b> for each Strength type unit in your team<br>Lvl 3: At the start of the battle, gains an additional 1 <b>[Balloon Mark]</b> for each Agility type unit in your team<br>Lvl 4: At the start of the battle, gains an additional 4 <b>[Balloon Mark]</b> for each Iori Moe unit in your team<br></blockquote><br><b>EE:</b> At the start of each turn, gains 1 <b>[Balloon Mark]</b><br><blockquote>EE40: 1 --> <b>2</b> [Balloon Mark]<br>EE50: 2 --> <b>4</b> [Balloon Mark]<br></blockquote><br><b>UR Skill:</b> Starting from the 5th turn, if Iori has more than 10 <b>[Balloon Mark]</b>, activates US once for every 10 <b>[Balloon Mark]</b> held<br><blockquote>Lvl 2: Increases self ATK by 60%<br></blockquote><br><b>Pet Skill:</b> After an enemy acts, if that action dealt damage to Iori, there is a 50% chance of increasing self Final DMG by 1%. Can be dispelled, stacks up to 20 layers, and lasts till the end of the battle <br><blockquote>Lvl 2: 1% --> <b>2%</b><br>Lvl 3: 2% --> <b>3%</b><br>Lvl 4: 3% --> <b>5%</b><br>Lvl 5: 50% --> <b>100%</b> chance<br></blockquote>",
+    "icon": "assets/icon/iori.png",
+    "images": [
+      "large_D_SSR_yizhimeng01.png",
+      "large_D_SSR_yizhimeng02.png",
+      "large_D_UR_yizhimeng01.png",
+      "large_D_UR_yizhimeng02.png"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Isis",
+    "skill": "<b>S1:</b> Increases Physical damage dealt by self by 10% for 4 turns. Heals self equivalent to 20% of the sum of max HP of all surviving allies. Any overflow healing will increase max HP for self. The amount of overflow healing per overflow instance will not exceed more than 50% of Isis' initial max HP, and the amount of max HP added per battle will not exceed more than 10x of Isis' initial max HP<br><blockquote>Lvl 2: 10% --> <b>20%</b> Physical damage increase<br>Lvl 3: 20% --> <b>40%</b> Physical damage increase<br>Lvl 4: 20% --> <b>40%</b> of the sum of max HP of all surviving allies, 50% --> <b>100%</b> max HP<br></blockquote><br><b>US:</b> Consumes 10% of current HP to deal 2 instances of Physical damage equivalent to HP consumed to all enemies. Increases Hit for all <b>[Bookworm]</b> allies by 100%<br><blockquote>Lvl 2: Consumes 10% --> <b>15%</b> of current HP, 100% --> <b>150%</b> Hit<br>Lvl 3: Consumes 15% --> <b>20%</b> of current HP, 150% --> <b>200%</b> Hit<br>Lvl 4: Consumes 20% --> <b>30%</b> of current HP, 200% --> <b>250%</b> Hit<br></blockquote><br><b>P1:</b> At the start of the battle, establishes a <b>[Blood Link]</b> with an enemy, prioritizing the enemy with the same position as yours. After the link has been established, for each time Isis takes damage, the linked enemy will receive 20% of the damage taken. The link disappears when Isis is killed. The link cannot be dispelled and is not considered as a debuff<br><blockquote>Lvl 2: 20% --> <b>30%</b> of the damage taken<br>Lvl 3: 30% --> <b>50%</b> of the damage taken<br>Lvl 4: 50% --> <b>80%</b> of the damage taken<br></blockquote><br><b>EE:</b> When Isis receives damage from enemy's normal attack, S1 or US, recovers 5% of current HP<br><blockquote>EE40: 5% --> <b>10%</b> <br>EE50: 10% --> <b>15%</b><br></blockquote><br><b>UR Skill:</b> When any allies whose HP percentage is below 30% activates their normal attack, S1 or US, Isis will cleanse all debuffs from self, and activates US once, with a maximum of 2 usages per turn<br><blockquote>Lvl 2: When Isis is alive, increases max HP for self by 100%, cannot be dispelled<br></blockquote>",
+    "icon": "assets/icon/isis.png",
+    "images": [
+      "isis_1.png",
+      "isis_2.png",
+      "isis_ssr_1.png",
+      "isis_ssr_2.png"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Izanami",
+    "skill": "<b>S1:</b> Increases crit damage for all “Far East Island” allies by 25% until the end of the battle.<br><blockquote>Lvl 2: 25% - 50%<br>Lvl 3: 50% - 100%<br>Lvl 4: Target becomes all allies.<br></blockquote><br><b>US:</b> Dispel all negative effects on self.<br><blockquote>Lvl 2: Enter <Sleeping State> for 1 round. <br>Lvl 3: 1 -> 2<br>Lvl 4: 2 -> 3<br></blockquote><br><Sleeping State>: Immune to all negative effects, unable to act, increases physical and magical damage reduction by 80%, increases max HP by 50% at the end of the round and restores 100% of max HP<br><br><b>P1:</b> Izanami is immune to <Enchant>. At the beginning of the battle, if the enemy is standing in the same position as izanami and is not a light, dark or boss enemy, <Water Lock> will be applied to that enemy.<br><blockquote>Lvl 2: At the beginning of the battle, apply <Water Lock> to non-light, non-dark, and non-boss enemies in the front row.<br>Lvl 3: At the beginning of the battle, apply <Water Lock> to non-light, non-dark, and non-boss enemies in the middle row.<br>Lvl 4: At the beginning of the battle, apply <Water Lock> to non-light, non-dark, and non-boss enemies in the back row.<br></blockquote><br><b>Awakening Skill:</b> Izanami gains the power of <Shadow>. At the beginning of the battle, each stack of <Shadow> increases her final damage reduction by 10%, as well as attack and base max HP for all “Far East Island” allies by 100% of  Izanami's base attack and max HP<br><blockquote>Lvl 2: Target for attack and health increase changes to all allies.<br></blockquote><br><b>Pet:</b> At the beginning of each round, deals magical damage equal to 100% of Izanami’s current HP to a random enemy.<br><blockquote>Lvl 2: 100% -> 150%<br>Lvl 3: 150% -> 200%<br>Lvl 4: 200% -> 250%<br>Lvl 5: 250% -> 300%<br></blockquote><br><b>EE:</b><br><blockquote>30 - At the beginning of the battle, summons a pillow in the first empty position on your field with 50% of Izanami’s attributes. Cannot act. If there is no empty position on your side, the summon will fail. Pillows count as \"Far East Island\" allies. At the beginning of the next round, it will randomly stun an enemy for 1 round and then die.<br>40 - Summons a pillow at the beginning of each round.<br>50 - While alive, increase the dodge of all allied summons by 90%<br></blockquote>",
+    "icon": "assets/icon/izanami.png",
+    "images": [
+      "image.png",
+      "Izanami_ssr_1.png",
+      "Izanami_ssr_2.png",
+      "Izanami_ssr_3.png",
+      "Izanami_Stand.png"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Izumo no Okuni",
+    "skill": "<b>S1:</b> Deals 256% --> <b>320%</b> magical damage to an enemy<br><br><b>US:</b> Heals all allies (excluding self) for 200% --> <b>220%</b> of HP consumed<br><br><b>P1:</b> Recovers 7% --> <b>8%</b> max HP for each CRIT<br><br><b>UR Skill:</b> There is a 35% chance of using S1 instead of normal attack<br><blockquote>Lvl 2: 35% --> <b>100%</b> chance<br></blockquote><br><b>Pet Skill:</b> At the start of each turn or when Izumo takes damage, if Izumo's current HP is below 25% of her max HP, she recovers HP equivalent to 80% ATK. If Izumo has full HP, HP gained can exceed max HP limit, but cannot exceed more than 100% max HP. Activates once per turn.<br><blockquote>Lvl 2: 80% --> <b>100%</b> ATK<br>Lvl 3: 100% --> <b>130%</b> ATK<br>Lvl 4: 130% --> <b>160%</b> ATK<br>Lvl 5: 160% --> <b>200%</b> ATK<br></blockquote>",
+    "icon": "assets/icon/izumo.png",
+    "images": [
+      "izumo.gif",
+      "Izumo_no_Okuni_01.png",
+      "Izumo_no_Okuni_02.png",
+      "Izumo_no_Okuni_03.png",
+      "Izumo_no_Okuni_04.png"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Jing Ke",
+    "skill": "<b>S1:</b> Deals 30% --> <b>40%</b> of the target's current HP, but cannot exceed 500% of Jing Ke's ATK. The 2nd attack deals 200% --> <b>1600%</b> ATK<br><br><b>US:</b> Deals 330% --> <b>800%</b> physical damage to all enemies<br><br><b>P1:</b> At the start of the battle, increases SPD by 75 --> <b>100</b> and deals an additional 2% --> <b>5%</b> ATK for each point of SPD that she has more than the enemy<br><br><b>UR Skill:</b> When Jing Ke successfully kills an enemy, all <b>[Revolutionary Army]</b> units becomes immune to damage for that turn. For the first 3 turns, at the start of each turn, for every <b>[Revolutionary Army]</b> unit, Jing Ke's CRIT increases by 15%. This effect can be stacked and lasts for 2 turns.<br><blockquote>Lvl 2: For the first 3 turns, at the start of each turn, for every <b>[Revolutionary Army]</b> unit, Jing Ke's ATK increases by 50%. This effect can be stacked and lasts for 2 turns.<br></blockquote><br><b>[Revolutionary Army]:</b> Includes the following units:<br>- Jing Ke<br>- Don Quixote<br>- Carmen<br><br><b>Pet Skill:</b> For each <b>[Revolutionary Army]</b> unit that is defeated, Jing Ke's ATK increases by 5% for 1 turn<br><blockquote>Lvl 2: 5% --> <b>10%</b> ATK<br>Lvl 3: 10% --> <b>15%</b> ATK<br>Lvl 4: 15% --> <b>20%</b> ATK<br>Lvl 5: ATK increase becomes permanent<br></blockquote>",
+    "icon": "assets/icon/jingke.png",
+    "images": [
+      "Jing_Ke_01.png",
+      "Jing_Ke_02.png",
+      "Jing_Ke_03.png",
+      "large_H_SSR_jingke04.png",
+      "large_H_UR_jingke01.png"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Kong Ming",
+    "skill": "<b>[Tempest]</b><br>Includes the following members<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> Realm Expansion, lasts 1 turn. While active, at the start of each turn, all enemy 4-element characters will be stunned for 1 round and all allied <b>[Tempest]</b> characters will be immune to control effects.<br><blockquote>Lvl 2: 1 --> 2 turns<br>Lvl 3: 2 --> 3 turns<br>Lvl 4: 3 --> 4 turns<br></blockquote><br><b>US:</b> Deal magical damage equal to 20% of Max HP to all enemies. Cannot miss.<br><blockquote>Lvl 2: 20% --> 50% Max HP<br>Lvl 3: 50% --> 80% Max HP<br>Lvl 4: Dispels 2 buffs from each enemy<br></blockquote><br><b>P1:</b> While alive, the magical damage increase and magical damage reduction of all allies is increased by 25% and cannot be dispelled.<br><blockquote>Lvl 2: 25% --> 50%<br>Lvl 3: 50% --> 75%<br>Lvl 4: 75% --> 90%<br></blockquote><br><b>Awakening Skill:</b> When using S1, US, or normal attack, removes all negative effects from <b>[Tempest]</b> characters. When an ally <b>[Tempest]</b> character takes action, heals all allies for 10% of Kong Ming’s Current HP, excess healing will be converted to shield.<br><blockquote>Lvl 2: From the beginning of the 2nd round, allied <b>[Tempest]</b> huntresses gain damage nullification lasting 1 turn.<br></blockquote><br><b>Pet:</b> At the beginning of the first 5 rounds, increases physical damage reduction of <b>[Tempest]</b> characters by 5%, lasting 5 rounds. Can be stacked and cannot be dispelled.<br><blockquote>Lvl 2: 10%<br>Lvl 3: 15%<br>Lvl 4: 20%<br>Lvl 5: 25%<br></blockquote><br><b>EE:</b><br><blockquote>30 - Increases dodge for allied <b>[Tempest]</b> characters by 10%, cannot be dispelled and lasts until the end of the battle.<br>40 - Increases hit for allied <b>[Tempest]</b> characters by 120%<br>50 - Increases dodge by 10% --> 50%<br></blockquote>",
+    "icon": "assets/icon/kongming.png",
+    "images": [
+      "kongming_skin.png",
+      "kongming_ssr_2.png",
+      "kong_ming1.png",
+      "kong_ming2.png",
+      "story_kongming.png"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Loki",
+    "skill": "<b>S1:</b> Loki draws 10%/15%/20%/<b>25%</b> of the Max HP of all enemies and converts it into HP for herself. HP drawn from each target will not exceed 500% of Lokis ATK and HP gained from this skill can break through her Max HP. Lasts until the end of the battle.<br><br><b>US:</b> Consume 30% of own HP to deal 150%/<b>200%</b> of ATK in Magical DMG plus consumed HP as damage to all enemies and steal 20%/30%/30% of each targets DEF and transfer it to yourself. Lasts 2/2/indefinitely or until you perish, at which point it is returned to the original target. Cannot be dispelled.<br><br><b>P1:</b> At the start of the battle, immediately coerce and enemy into signing a contract, with priority given to the target in line with your position. Once the contract goes into effect, every time you take damage, the signee will take 20%/50%/50%/<b>80%</b> of this damage. The contract is voided after Loki perishes. Cannot be dispelled and ignores debuff immunity. <br><br><b>UR Skill:</b> Loki gains the power of <b><Shadow></b>. Loki's normal attack now deals 800% magical damage, and heals herself for 100% of damage dealt. The HP gained from this skill can exceed your HP limit. Loki gains 6% ATK for each mark of <b><Shadow></b> <br><blockquote>Lvl 2: Loki has a 75% chance of using her normal attack when an ally uses their skill<br></blockquote><br><b>Pet Skill:</b> When Loki uses her normal attack, pet deals 100%/110%/120%/130%/150% magical damage to that enemy, and heals herself for 100% of damage dealt. The HP gained from this skill can exceed your HP limit.<br>",
+    "icon": "assets/icon/loki.png",
+    "images": [
+      "large_A_UR_luojiyuansuti01.png",
+      "loki.gif",
+      "Loki_01.png",
+      "Loki_02.png",
+      "Loki_03.png",
+      "Loki_UR_2.png"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Lu Bu",
+    "skill": "Lu Bu<br><br>S1: Realm Expansion, dispelling all enemy Shield and lasts for 3 turns. When the Realm is active, enemies are unable to gain any Shield. At the start of each turn, Lu Bu has a 20%/30%/40%/50% chance of stunning the entire enemy team for 1 turn and deals 50%/100%/150%/200% damage (this damage cannot be defended)<br><br>US: Deals 200%/300%/400%/500% damage 5 times to the enemy. The last hit has a 20%/30%/50%/100% chance of stunning the enemy and adjacent enemies for 2 turns<br><br>P1: At the start of every turn, Lu Bu gains 5 <Martial Mark>. For each mark of <Shadow> that Lu Bu possess, she gains an additional <Martial Mark>. When Lu Bu has 35/30/25/20 <Martial Mark>, increases Final DMG of all allies by 30% (Lvl 4: 100%) at the start of every turn. This effect lasts for 4 turns, can be stacked and cannot be dispelled. In <Riding Mode>, when an ally activates normal attack, Lu Bu activates her normal attack once<br><br><Martial Mark>: Lasts forever, can be stacked and cannot be dispelled.<br><br>EE: Lu Bu normal attack now deals 100% physical damage to all enemies<br>EE40: 100% --> 250% physical damage<br>EE50: 250% --> 600% physical damage. Normal attack has a 20% chance of inflicting Stun for 1 turn<br><br>UR Skill: Lu Bu gains the power of <Shadow>. At the start of the battle, if there are enemy bosses, Lu Bu gains 1 mark of <Shadow> and increases ATK by 50%<br>Lvl 2: Regardless whether there are enemy bosses, increases ATK by 100%<br><br>Pet Skill: When Lu Bu has 80/70/60/50/40 <Martial Mark>, dispels all debuffs from self, recovers HP to 100%, summons the Red Hare and enters into <Riding Mode>. Lu Bu expands her Realm and covers the field by force, which lasts forever. In <Riding Mode>, Lu Bu is immune to all status ailments, is unable to activate skills or US, and can only activate her normal attack<br>",
+    "icon": "assets/icon/lubu.png",
+    "images": [
+      "large_A_UR_lvbu01.png",
+      "large_A_UR_lvbu02.png",
+      "large_A_UR_lvbuyuansuti01.png"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Magellan",
+    "skill": "<b>[Primal Fire]</b><br>Includes the following members<br>- Magellan<br>- Siegfried<br>- Imagawa Yoshimoto<br>- Heimdall<br>- Horus<br>- Honda Tadakatsu<br><br><b>S1:</b> Magellan grants control immunity to all <b>[Primal Fire]</b> allies for 1 round, cannot be dispelled. There is a 100% chance to charm a random enemy target, lasting 1 round.<br><blockquote>Lvl2: Immunity lasts 1 -> 2 rounds.<br>Lvl3: Immunity lasts 2 -> 3 rounds.<br>Lvl4: Immunity lasts 3 -> 4 rounds.<br></blockquote><br><b>US:</b> Causes physical damage equal to 20% of Magellan’s max HP to all enemy targets. Cannot miss.<br><blockquote>Lvl2: 20% -> 50% max HP<br>Lvl3: 50% -> 80% max HP<br>Lvl4: Dispels 2 buffs on each target.<br></blockquote><br><b>P1:</b> While alive, increase physical damage reduction and magical damage reduction of all allies by 20%<br><blockquote>Lvl2: 20% -> 50%<br>Lvl3: 50% -> 75%<br>Lvl4: 75% -> 90%<br></blockquote><br><b>Awakening Skill:</b> After an enemy takes action, deals physical damage equal to 20% of Magellan’s max HP to the target, and has an 100% chance to stun them for 1 round. Then heals all <b>[Primal Fire]</b> allies for 50% of Magellan’s max HP, overflow healing is converted to shield.<br><blockquote>Lvl2: At the beginning of the first round, increase magical damage reduction of <b>[Primal Fire]</b> allies by 100%, lasts 3 rounds, cannot be dispelled.<br></blockquote><br><b>Pet:</b> At the beginning of each round for the first 5 rounds, increase physical damage of all <b>[Primal Fire]</b> allies by 5% for 5 rounds, cannot be dispelled.<br><blockquote>Lvl2: 5% -> 10%<br>Lvl3: 10% -> 15%<br>Lvl4: 15% -> 20%<br>Lvl5: 20% -> 25%<br></blockquote><br><b>EE:</b><br><blockquote>30 - While alive, increases the dodge of <b>[Primal Fire]</b> allies by 10%<br>40 - While alive, increases the hit of <b>[Primal Fire]</b> allies by 120%. Cannot be dispelled.<br>50 - Dodge increases to 50%<br></blockquote>",
+    "icon": "assets/icon/magellan.png",
+    "images": [
+      "magellan_1.png",
+      "magellan_2.png",
+      "magellan_ssr_1.png",
+      "magellan_ssr_2.png"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Medea",
+    "skill": "<b>S1:</b> Increases Final DMG for the ally with the highest remaining HP by 10% for 2 turns. Increases SPD for the ally with the highest SPD by 10 for 3 turns<br><blockquote>Lvl 2: 10% --> <b>30%</b> Final DMG increase, 10 --> <b>20</b> SPD increase <br>Lvl 3: 30% --> <b>50%</b> Final DMG increase, 20 --> <b>30</b> SPD increase <br>Lvl 4: 50% --> <b>70%</b> Final DMG increase, 30 --> <b>40</b> SPD increase <br></blockquote><br><b>US:</b> When this skill is activated, if there are ally units present, Medea leaves the battlefield and creates a stand in her image on her original position. The stand cannot be attacked, cannot act, is immune to all status ailments and damage, and lasts for 2 turns. <br><br>Afterwards, provides <b>[Business Support]</b> to the ally with the highest ATK. If the ally is defeated or inflicted with <b>[Enchant]</b>, <b>[Business Support]</b> is deactivated, and Medea returns back to the battlefield. If there are no ally units present, activates S1 instead<br><br><b>[Business Support]:</b> Immune to all status ailments, gains 60% of Medea's max HP, remaining HP, ATK, DEF, and 30% Tenacity, and Final DMG Reduction. After using normal attack/skill/US, has a 30% chance of activating it again. Reactivation can only be activated up to 2 times per turn. <br><blockquote>Lvl 2: Allies with <b>[Business Support]</b> has a 50% chance of being immune to all status ailments (???)<br>Lvl 3: 30% --> <b>80%</b> reactivation chance<br>Lvl 4: The effects of <b>[Business Support]</b> lasts for 3 turns<br></blockquote><br><b>P1:</b> At the start of the battle, gives 1 <b>[Association Mark]</b> to all allies. Gives an additional 2 <b>[Association Mark]</b> to water units, including self. On even turns, gives 1 <b>[Association Mark]</b> to all allies<br><br><b>[Association Mark]:</b> For each mark, increases physical and magical damage reduction by 3%. Can be stacked up to 100 times, cannot be dispelled. Increases the number of marks by 1 each time the enemy uses normal attack, skill, or US. Decreases the number of marks by 2 for each usage of normal attack, skill, or US<br><blockquote>Lvl 2: Gives 1 --> <b>2</b> [Association Mark] to all allies at start of the battle<br>Lvl 3: 2 --> <b>4</b> [Association Mark]<br>Lvl 4: On odd turns, gives 2 [Association Mark] to all units<br></blockquote><br><b>EE:</b> At the start of every turn, if Medea is in <b>[Business Support]</b>, increases ATK for the ally with <b>[Business Support]</b> by 20% of Medea's ATK for 1 turn. Cannot be dispelled<br><blockquote>EE40: 20% --> <b>40%</b> ATK<br>EE50: Also increases DEF by 40% and Final DMG Reduction by 20%<br></blockquote><br><b>UR Skill:</b> At the start of the battle, activates US once. Allies with <b>[Business Support]</b> gain 10 <b>[Rain Mark]</b> at the start of the turn<br><blockquote>Lvl 2: Increases self Final DMG Reduction by 60% when still alive, cannot be dispelled<br></blockquote><br><b>Pet Skill:</b> At the start of every turn, removes 2 status ailments from the ally with the lowest HP, and recovers HP equal to 200% of Medea's ATK and 20% of max HP. If HP restored exceeds max HP, the excess heal amount will be converted into a Shield.<br><blockquote>Lvl 2: 200% --> <b>300%</b> ATK, 20% --> <b>30%</b> HP<br>Lvl 3: 300% --> <b>400%</b> ATK, 30% --> <b>40%</b> HP<br>Lvl 4: 400% --> <b>500%</b> ATK, 40% --> <b>50%</b> HP<br>Lvl 5: 500% --> <b>600%</b> ATK, 50% --> <b>60%</b> HP<br></blockquote>",
+    "icon": "assets/icon/medea.png",
+    "images": [
+      "large_S_SSR_meidiya01.png",
+      "large_S_SSR_meidiya02.png",
+      "medea_1.png",
+      "medea_2.png",
+      "Medea_skin.png"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Medusa",
+    "skill": "<b>S1:</b> Has a 50% chance of inflicting <b>[Silence]</b> to all enemies and allies for 2 turns.<br><blockquote>Lvl 2: 50% --> <b>100%</b> chance<br>Lvl 3: <b>[Silence]</b> will only apply to enemies<br>Lvl 4: When using this skill, increases ATK for self by 50% for 3 turns. For every surviving <b>[Rock & Roll Member]</b> on the enemy's team, further increases ATK by 50%<br></blockquote><br><b>[Rock & Roll Member]:</b> Includes the following units:<br>- Iori Moe<br>- Venus<br>- Shakespeare<br>- Beethoven<br>- Mozart<br><br><b>US:</b> Deals 1 instance of 350% Physical damage to the enemy with the highest ATK<br><blockquote>Lvl 2: Deals an additional instance of 100% Physical damage to all enemies<br>Lvl 3: Increases the number of damage instances dealt to the enemy with the highest ATK to 7<br>Lvl 4: Increases the number of damage instances dealt to all enemies to 3<br></blockquote><br><b>P1:</b> At the start of the battle, gains 1 instance of fatal damage nullification. When Medusa is alive, Medusa is unable to recover HP, nor can she gain any HP recovery buffs<br><blockquote>Lvl 2: When Medusa's HP is below 40%, increases ATK for self by 500%. Cannot be dispelled<br>Lvl 3: When Medusa's HP is below 60%, increases Final DMG for self by 50%. Cannot be dispelled<br>Lvl 4: When Medusa's HP is below 80%, increases Physical damage dealt for self by 100%. Cannot be dispelled<br></blockquote><br><b>EE:</b> When using normal attacks, there is a 70% chance of applying <b>[Petrification]</b> to the enemy for 1 turn. When an enemy deals damage to Medusa using normal attacks, S1, or US, there is a 20% chance to cleanse debuffs from self and use a normal attack against the target.<br><blockquote>EE40: Increases the chance to cleanse debuff and normal attack to 50%<br>EE50: Increases the chance to cleanse debuff and normal attack to 100%. If the enemy that triggered this effect is a <b>[Rock & Roll Member]</b> unit, activates US instead<br></blockquote><br><b>[Petrification]:</b> Target is unable to act. Cannot be nullified. Can be dispelled. Only effective against non boss targets<br>",
+    "icon": "assets/icon/medusa.png",
+    "images": [
+      "medusa_1.png",
+      "medusa_2.png",
+      "medusa_skin.png"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Mendel",
+    "skill": "<b>S1:</b> Trees inherit 100% --> <b>120%</b> of Mendel's attributes and increases Final DMG Reduction for self and adjacent allies by 20% --> <b>30%</b><br><br><b>US:</b> When using US, increases ATK for Trees by 20% for 3 turns<br><br><b>P1:</b> After using S1, increases magical damage dealt for all allies by 5% for 3 turns<br><br><b>UR Skill:</b> When Mendel or her Trees take damage, deals magical damage equivalent to 400% of the Tree's ATK to the attacker<br><blockquote>Lvl 2: When Mendel is still alive, increases ATK for self by 30%. Cannot be dispelled. When Mendel receives damage from S1/US/normal attack, increases magical damage dealt for self and the ally with the highest ATK by 1% for 3 turns<br></blockquote><br><b>Pet Skill:</b> When Mendel receives damage from S1/US/normal attack, for each Tree on the field, deals one instance of magical damage equivalent to 50% of Mendel's ATK<br><blockquote>Lvl 2: 50% --> <b>100%</b> ATK<br>Lvl 3: 100% --> <b>200%</b> ATK<br>Lvl 4: 200% --> <b>300%</b> ATK<br>Lvl 5: 300% --> <b>400%</b> ATK<br></blockquote>",
+    "icon": "assets/icon/mendel.png",
+    "images": [
+      "Mendel_01.png",
+      "Mendel_02.png",
+      "Mendel_03.png",
+      "mendel_ur.png"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Mercury",
+    "skill": "<b>[Eight Desolates]</b><br>Includes the following members:<br>- Achilles<br>- Freyr<br>- Mercury<br>- Ramses<br>- ?<br><br><b>S1:</b> Increases the final damage of the ally with the highest attack by 10% and physical damage of ally earth huntresses by 10% until the end of the battle. Stacks up to 10 times.<br><blockquote>Lvl 2: 10% -> 30%<br>Lvl 3: 30% -> 50%<br>Lvl 4: 50% -> 70%<br></blockquote><br><b>US:</b> Reduces the attack of the lowest attack enemy by 100% of Mercury’s attack and increases the attack of the highest attack ally by 20% of Mercury’s attack until the end of the battle, stacking up to 10 times. Additionally applies a shield equal to 20% of Mercury’s attack to the highest attack ally.<br><blockquote>Lvl 2: 20% increase/shield -> 40%<br>Lvl 3: 40% -> 60%<br>Lvl 4: 60% -> 100%<br></blockquote><br><b>P1:</b> While alive, increases physical damage reduction and physical damage increase for all allies by 20%<br><blockquote>Lvl 2: 20% -> 40%<br>Lvl 3: 40% -> 60%<br>Lvl 4: 60% -> 90%<br></blockquote><br><b>Awakening Skill:</b> After an ally performs an active action, apply a shield equal to 10% of attack to all earth allies.<br><blockquote>Lvl 2: At the beginning of the battle, all <b>[Eight Desolates]</b> allies become immune to damage for 1 round.<br></blockquote><br><b>Pet:</b> At the beginning of each round, grants 1 stack of fatal damage immunity to all earth allies for 1 round.<br><blockquote>Lvl 2: 1 stacks/rounds -> 2<br>Lvl 3: 2 -> 3<br>Lvl 4: 3 -> 4<br>Lvl 5: 4 -> 5<br></blockquote><br><b>EE:</b><br><blockquote>30 - After an enemy performs an active action, dispels 1 buff from the enemy and has a 25% chance to stun them for 1 round.<br>40 - After an enemy performs an active action, Mercury heals herself for 3% of her maximum health, converting excess healing into shield. Dispel target changes to all enemies, and stun chance increases to 50%<br>50 - Heals all allies. Stun chance increases to 100%<br></blockquote>",
+    "icon": "assets/icon/mercury.png",
+    "images": [
+      "image.png",
+      "Mercury_ssr_1.png",
+      "Mercury_ssr_2.png",
+      "mercury_ur.png"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Merlin",
+    "skill": "<b>S1:</b> Meteorite deals 140% --> <b>400%</b> damage, and has a 72% --> <b>100%</b> chance of inflicting 1 <b>[Burn Mark]</b><br><br><b>US:</b> Deals 50% --> <b>60%</b> magical damage to all enemies<br><br><b>P1:</b> For every 1 stack of <b>[Burn Mark]</b> inflicted, increases party CRIT by 3% --> <b>4%</b>. Can be stacked up to a maximum of 24% --> <b>32%</b><br><br><b>UR Skill:</b> When Merlin activates her US, the enemy receives an additional 150% magical damage for each stack of debuff that they have. Starting from the 5th turn, Merlin increases ATK for herself and the highest ATK ally by 50% of Merlin's current ATK. This effect lasts till the end of the battle<br><blockquote>Lvl 2: 50% --> <b>100%</b><br></blockquote><br><b>Pet Skill:</b> For the first 3 turns, at the beginning of each turn, the pet provides Merlin with 5% physical and magical damage reduction for 3 turns<br><blockquote>Lvl 2: 5% --> <b>7%</b><br>Lvl 3: 7% --> <b>9%</b><br>Lvl 4: 9% --> <b>12%</b><br>Lvl 5: 12% --> <b>15%</b><br></blockquote>",
+    "icon": "assets/icon/merlin.png",
+    "images": [
+      "large_H_UR_meilin01.png",
+      "Merlin_01.png",
+      "Merlin_02.png",
+      "Merlin_03.png",
+      "Merlin_04.png"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Michelangelo",
+    "skill": "<b>S1:</b> Deals 80% --> <b>800%</b> magical damage<br><br><b>US:</b> Enemies receive 50% --> <b>200%</b> of the target's ATK in True DMG<br><br><b>P1:</b> After Michelangelo acts, increases own ATK by 20% for 3 turns, can be dispelled<br><br><b>UR Skill:</b> Flaming Barrier is now applied to all allies, this effect cannot be stacked. Increases ATK for all allies with Flaming Barrier by 10% of Michelangelo's current ATK, and reduces magical damage taken from enemies by 20%<br><blockquote>Lvl 2: 10% --> <b>30%</b> of Michelangelo's current ATK, 20% --> <b>60%</b> magical damage reduction<br></blockquote><br><b>Pet Skill:</b> At the end of each turn, locks on to the enemy that dealt the most damage, removes all buffs, and reduces Final DMG Reduction and Final DMG by 10% for 2 turn. Afterwards, deal magical damage equivalent to 50% of Michelangelo's ATK 5 times<br><blockquote>Lvl 2: 50% --> <b>100%</b> ATK<br>Lvl 3: 100% --> <b>200%</b> ATK<br>Lvl 4: 10% --> <b>20%</b> reduction in Final DMG Reduction and Final DMG<br>Lvl 5: 200% --> <b>400%</b> ATK<br></blockquote>",
+    "icon": "assets/icon/michelangelo.png",
+    "images": [
+      "large_H_UR_mikailangjiluo01.png",
+      "Michelangelo_01.png",
+      "Michelangelo_02.png",
+      "Michelangelo_03.png"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Mobius",
+    "skill": "<b>S1:</b> Deals 300%/550%/800%/1200% magical damage to an enemy, with a 50%/60%/70%/100% chance of inflicting <b><Sand Cage></b>. Priority is given to enemies in the same position as you and enemies not trapped in <b><Sand Cage></b>.<br><br><b>US:</b> Realm Expansion: Earthly Stars. At the start of each turn, deals 320%/480%/640%/800% magical damage to all enemies trapped in <b><Sand Cage></b>, and also has a 10%/15%/20%/30% chance of inflicting <b><Sand Cage></b> on enemies not trapped in <b><Sand Cage></b>. Lasts for 3 turns. <br><br><b>P1:</b> At the end of each turn, if the team is in the Earthly Stars Realm deployed by an ally unit, all Earth units ATK increases by 5%/10%/15%/25%. This effect can be stacked up to 20 times. In addition, there is a 10%/15%/20%/30% chance of giving 1 <b><Ice Resistance></b> to an ally Earth unit<br><br><b>P2:</b> HP +15%/20%/25%, Hit +3%/4%/5%, (Lvl 4: Block +40, DEF Pen +40)<br><br><b>EE Skill: </b>When an enemy fails to escape from <b><Sand Cage></b>, it takes 50%/100%/200% magical damage. In addition, there is a 10%/20%/30% chance of inflicting <b><Sand Cage></b> on enemies not trapped in<b> <Sand Cage></b><br><br><b>UR Skill:</b> When Mobius expands her Realm, she records the current HP of all ally Earth huntress. When her Realm ends, if any unit's HP is below 50%/100% of the recorded value, immediately restores it back to 50%/100% of the recorded value. Allies that have fallen during this period cannot be revived, and allies revived during this period cannot have their HP restored<br><br><b>Pet Skill:</b> When an enemy successfully escapes from <b><Sand Cage></b>, there is a 40%/50%/60%/70%/80% chance of dealing 60%/75%/90%/105%/150% magical damage to the enemy, and has a 50%/100%/150%/200%/250% chance of inflicting <b><Sand Cage></b><br>",
+    "icon": "assets/icon/mobius.png",
+    "images": [
+      "large_D_SSR_mobiwusi01.png",
+      "large_D_SSR_mobiwusi02.png",
+      "large_D_UR_mobiwusi01.png",
+      "large_D_UR_mobiwusi02.png"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mordred",
+    "skill": "<b>S1:</b> Deals 3 instances of 100% Physical damage to all enemies in a single row<br><blockquote>Lvl 2: 100% --> <b>300%</b> damage<br>Lvl 3: 300% --> <b>500%</b> damage<br>Lvl 4: If Mordred has more than 4 <b>[Stored Mark]</b>, the third damage instance sends the targets flying, and dispels all their buffs<br></blockquote><br><b>US:</b> Deals 3 instances of 300% Physical damage to the enemy with the highest SPD<br><blockquote>Lvl 2: 300% --> <b>700%</b> damage<br>Lvl 3: The third damage instance sends the target flying<br>Lvl 4: If Mordred has more than 2 <b>[Stored Mark]</b>, US targets all enemies instead<br></blockquote><br><b>P1:</b> At the start of the battle, Mordred gains 30% Dodge for every <b>[Beastfolk]</b> in the party for 2 turns. When allied <b>[Beastfolk]</b> activates their S1, US, or normal attack, Mordred has a 25% chance of using her normal atack. This can be activated up to 10 times in one turn.<br><br><b>[Beastfolk]:</b> Includes the following units:<br>- Daji<br>- Arthur<br>- Zhou Yu<br>- Hercules<br>- Tokugawa<br>- Robin Hood<br>- Izumo no Okuni<br>- Hannibal<br>- Darwin<br>- Oda Nobunaga<br>- Tamamo <br>- Chosokabe Motochika<br>- Fuuma Kotaro<br>- Marco Polo<br>- Sarutobi Sasuke<br>- Alcibiades<br>- L'Hopital<br>- Chosokabe Morichika<br><blockquote>Lvl 2: 30% --> <b>40%</b> Dodge, 25% --> <b>50%</b> activation chance<br>Lvl 3: 40% --> <b>50%</b> Dodge, 50% --> <b>75%</b> activation chance<br>Lvl 2: 50% --> <b>60%</b> Dodge, 75% --> <b>100%</b> activation chance<br></blockquote><br><b>EE:</b> If Mordred takes damage from enemy US, S1 or normal attack, there is a 30% chance of using US once. This effect can activate only once per turn<br><blockquote>EE40: 1 --> <b>2</b> times<br>EE50: 2 --> <b>3</b> times<br></blockquote><br><b>UR Skill:</b> At the start of the battle and at the end of each turn, Mordred gains 1 <b>[Stored Mark]</b> (TL note: same as Charlemagne's mark). At the start of each turn, all allies who have more than 4 <b>[Stored Mark]</b> activates their US once<br><br><b>[Stored Mark]:</b> Increases Final DMG Reduction by 1% and DEF by 3% for each mark held. Can be stacked up to 100 times, cannot be dispelled, and lasts till the end of the battle<br><blockquote>Lvl 2: If Mordred is still alive, increases self Final DMG by 40%. This effect cannot be dispelled<br></blockquote><br><b>Pet Skill:</b> At the start of each turn, deals 100% Physical damage to the enemy with the highest SPD, and increases Mordred's ATK by 10% for 4 turns. If the enemy party has Arthur and if she is still alive, additionally boosts Physical damage for all allies by 5% for 6 turns<br><blockquote>Lvl 2: 10% --> <b>20%</b> ATK increase, 5% --> <b>10%</b> Physical damage boost<br>Lvl 3: 20% --> <b>30%</b> ATK increase, 10% --> <b>20%</b> Physical damage boost<br>Lvl 4: 30% --> <b>40%</b> ATK increase, 20% --> <b>30%</b> Physical damage boost<br>Lvl 5: 40% --> <b>60%</b> ATK increase, 30% --> <b>50%</b> Physical damage boost<br></blockquote>",
+    "icon": "assets/icon/mordred.png",
+    "images": [
+      "large_F_SSR_modeleide01.png",
+      "large_F_SSR_modeleide02.png",
+      "large_F_UR_modeleide01.png",
+      "large_F_UR_modeleide02.png"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Nero",
+    "skill": "<b>S1:</b> Realm Expansion: Domus Aurea<br><br>Strengthens all <b>[Sand Cage]</b> into <b>[Golden Cage]</b> and has a 50% chance of inflicting <b>[Golden Cage]</b> to all enemies. Afterwards, deals physical damage equivalent to 200% of Nero's ATK + 10% of Nero's HP to all enemies inflicted with <b>[Golden Cage]</b>. When the Realm expires, all <b>[Golden Cage]</b> are converted into <b>[Sand Cage]</b><br><br>At the start of each turn, if this Realm is still active, the effects of the Realm will activate again (lasts for 3 turns)<br><br><b>[Golden Cage]:</b> Has the same effects as <b>[Sand Cage]</b>. For each <b>[Sand Manipulation]</b> unit in your party, the chance of escaping from <b>[Golden Cage]</b> is reduced by 20%<br><br><b>[Sand Manipulation]:</b> Includes the following units:<br>- Himiko<br>- Cleopatra<br>- Hercules<br>- Mobius<br>- Nero<br><blockquote>Lvl 2: 200% ATK + 10% HP --> <b>400%</b> ATK + <b>20%</b> HP<br>Lvl 3: 400% ATK + 20% HP --> <b>600%</b> ATK + <b>30%</b> HP<br>Lvl 4: 50% --> <b>80%</b> chance<br></blockquote><br><b>US:</b> Deals physical damage equivalent to 500% of Nero's ATK and 50% of Nero's current HP to all enemies. Deals additional physical damage equivalent to 10% of Nero's HP for each <b>[Golden Mark]</b> held<br><blockquote>Lvl 2: 500% ATK + 50% HP --> <b>600%</b> ATK + <b>60%</b> HP<br>Lvl 3: 600% ATK + 60% HP --> <b>800%</b> ATK + <b>80%</b> HP<br>Lvl 4: 10% --> <b>20%</b> HP<br></blockquote>",
+    "icon": "assets/icon/nero.png",
+    "images": [
+      "large_D_SSR_nilu01.png",
+      "large_D_SSR_nilu02.png",
+      "large_D_UR_nilu01.png",
+      "large_D_UR_nilu02.png",
+      "large_D_UR_nilu03.png"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Niwa",
+    "skill": "<b>S1:</b> Deals 120% physical damage to all enemies in the front row, and has a 20% chance to inflict 1 <b><Frost Mark></b><br><blockquote>Lvl 2: 120% --> <b>140%</b> physical damage, 20% --> <b>30%</b> chance<br>Lvl 3: 140% --> <b>160%</b> physical damage, 30% --> <b>40%</b> chance<br>Lvl 4: 160% --> <b>200%</b> physical damage, 40% --> <b>50%</b> chance, 1 --> <b>2</b> <Frost Mark><br></blockquote><br><b>US:</b> Deals 5 hits to all enemies. The first four hits deals 10%/15%/20%/30% physical damage, and has a 10%/15%/20%/25% chance of inflicting 1 <b><Frost Mark></b>, and has a 35%/40%/45%/50% chance of dispelling 1 buff from the enemy. The last hit deals 40%/60%/80%/120% physical damage if it hits 2 or more enemies, and deals 200%/300%/400%/600% physical damage if it hits 1 enemy.<br><br><b>P1:</b> When an enemy is frozen, Niwa has a 10%/40%/70%/100% chance to gain 3 <b><Rain Mark></b>, and creates 3 clones to deal 60%/70%/80%/100% physical damage to the enemy<br><br><b>EE:</b> When an ally activates Rainfall, for every <b><Rain Mark></b> consumed, increases CRIT rate by 1% for 2 turns. Any <b><Burn Mark></b> inflicted on Niwa are immediately removed, and for each <b><Burn Mark></b> removed, Niwa gains 1 <b><Rain Mark></b><br><blockquote>EE40: 1 --> <b>2</b> <Rain Mark> gained<br>EE50: 1% --> <b>2%</b> CRIT rate increase<br></blockquote><br><b>UR Skill:</b> Normal attack deals 200% physical damage, and has a 25%/100% chance to inflict 1 <b><Frost Mark></b><br><br><b>Pet Skill:</b> After Niwa uses her normal attack, skill, or US, the familiar deals 40%/50%/60%/70%/100% physical damage to all enemies with <b><Frost Mark></b>, and has a 5%/10%/15%/20%/25% chance of inflicting 1 <b><Frost Mark></b><br>",
+    "icon": "assets/icon/niwa.png",
+    "images": [
+      "large_S_SSR_danyuchangxiu01.png",
+      "large_S_SSR_danyuchangxiu02.png",
+      "Nagahide_Niwa_01.png",
+      "Nagahide_Niwa_02.png",
+      "niwa.gif"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Octavius Augustus",
+    "skill": "<h2>UR</h2><br><b>S1:</b> Deals 160% --> <b>256%</b> physical damage to the enemy<br><br><b>US:</b> 40% --> <b>50%</b> chance to send enemies flying<br><br><b>P1:</b> When an enemy is sent flying, deals 5 instances of 100% --> <b>120%</b> physical damage<br><br><b>UR Skill:</b> When an enemy is sent flying, increases the chance of sending enemies flying on US by 5% (can be stacked up to 5 times) <br><blockquote>Lvl 2: Chance increases from 5% to 10%. If US sent 2 or more enemies flying, activates S1. Octavius deals true damage on her passive.<br></blockquote><br><b>Pet Skill:</b> When an enemy is sent flying, if Octavius is unable to act, dispels all debuffs on her, and increases ATK by 10% for 1 turn<br><blockquote>Lvl 2: 10% --> <b>20%</b><br>Lvl 3: 20% --> <b>30%</b><br>Lvl 4: 30% --> <b>40%</b><br>Lvl 5: 40% --> <b>50%</b><br></blockquote><br><br><h2>MR</h2><br><b>[Tempest]</b><br>Includes the following members:<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> 256% -> 500% | After hitting the target, deal physical damage equal to 500% of attack 5 times before blowing them back.<br><br><b>US:</b> 100% -> 3000% attack | 50% -> 80% chance | Boss enemies take physical damage equal to 600% of attack * number of <Sword Formation> stacks.<br><br><b>P1:</b> 120% -> 500% attack<br><br><b>MR Awakening Skill:</b> Gains phys dmg increase equal to current mag dmg increase. Casts US every time a <b>[Tempest]</b> ally takes action. For every ally <b>[Tempest]</b> unit on the field, gain 1 stack of <Sword Formation> and 2 stacks of fatal damage immunity at the beginning of each round. For each stack, deal 1000% max HP to all enemies with fatal dmg immunity after taking action. At the beginning of round 3, there is a 90% chance for all <b>[Tempest]</b> allies to become immune to damage for 1 round.<br><blockquote>Lvl 2: At the beginning of rounds 3 and 4, all <b>[Tempest]</b> allies become immune to damage for 1 round. After casting US, deals physical damage equal to 1800% of attack * <Sword Formation> stacks to all enemy bosses.<br></blockquote>",
+    "icon": "assets/icon/octavius.png",
+    "images": [
+      "Augustus_01.png",
+      "Augustus_02.png",
+      "Augustus_03.png",
+      "Augustus_04.png",
+      "Augustus_05.png",
+      "large_F_MR_wudawei01.png",
+      "large_F_SSR_aoliweiya06.png",
+      "octavius.gif"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Oichi",
+    "skill": "<b>S1:</b> Deals 3 instances of 300% magical damage to all enemies<br><blockquote>Lvl 2: Inflicts 1 [Mantra Mark] on all enemies<br>Lvl 3: 300% --> <b>700%</b><br>Lvl 4: If Oichi has 5 or more <b>[Stored Mark]</b>, this skill will always CRIT<br></blockquote><br><b>US:</b> There is a 25% chance of inflicting <b>[Enchant]</b> on the enemy with the lowest SPD<br><blockquote>Lvl 2: 25% --> <b>50%</b><br>Lvl 3: 50% --> <b>75%</b> <br>Lvl 4: 75% --> <b>100%</b><br></blockquote><br><b>P1:</b> When being attacked by the enemy's normal attack, skill, or US, inflicts 1 <b>[Mantra Mark]</b> on the attacker. If Enchant inflicted by self fails, decreases Hit by 40%<br><blockquote>Lvl 2: 1 --> <b>2</b> Mantra Mark, 40% --> <b>70%</b><br>Lvl 3: 2 --> <b>3</b> Mantra Mark, 70% --> <b>100%</b><br>Lvl 4: When using normal attack, skill, or US, inflicts 1 [Mantra Mark] on all enemies<br></blockquote><br><b>EE:</b> For each time an enemy gains 1 <b>[Mantra Mark]</b>, increases Final DMG Reduction for self by 2%. Can be stacked up to 20 times and lasts till the end of the battle<br><blockquote>EE40: At the start of each turn, increases Physical and Magical DMG Reduction for all allies with [Stored Mark] by 3%. Can be stacked up to 20 times and lasts till the end of the battle<br>EE50: At the start of each turn, for every surviving ally with 5 or more [Stored Mark], increases Final DMG for self by 5%. Can be stacked up to 20 times and lasts till the end of the battle<br></blockquote><br><b>UR Skill:</b> At the start of the battle and at the start of each turn, Oichi gains 1 <b>[Stored Mark]</b>. At the start of the battle, applies 1 instance of fatal damage nullification to all allies. At the start of each turn, allies with 5 or more <b>[Stored Mark]</b> activates their skill once<br><blockquote>Lvl 2: Increases Final DMG by 30% when alive. Cannot be dispelled<br></blockquote><br><b>Pet Skill:</b> At the start of each turn, decreases ATK and Final DMG for the enemy with the highest ATK by 15% for 1 turn<br><blockquote>Lvl 2: 15% --> <b>20%</b><br>Lvl 3: 20% --> <b>25%</b><br>Lvl 4: 25% --> <b>30%</b><br>Lvl 5: 1 --> <b>2</b> turn<br></blockquote>",
+    "icon": "assets/icon/oichi.png",
+    "images": [
+      "large_H_UR_ashi01.png",
+      "oichi_2.png",
+      "oichi_ssr_2.png"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Pandora",
+    "skill": "<b>S1:</b> Deals 100% magical damage to 2 random enemies, and has a 50% chance of inflicting 3 <b><Burn Mark></b>, 50% chance of inflicting 3<b> <Calamity Mark></b>, and a 30% chance of stunning them for 2 turns<br><blockquote>Lvl 2: 100% --> <b>150%</b> magical damage<br>Lvl 3: 2 --> <b>3</b> random enemies<br>Lvl 4: 150% --> <b>200%</b> magical damage<br></blockquote><br><b><Calamity Mark>:</b> At the start of each turn, for each <b><Calamity Mark></b>, deals damage equal to 30% of the unit's ATK (damage cannot be defended). Can be stacked up to 10 times, and lasts till the end of battle<br><br><b>US:</b> Deals 320% magical damage to all enemies, and has a 100% chance of inflicting 2 <b><Calamity Mark></b><br><blockquote>Lvl 2: 2 --> <b>3</b> <Calamity Mark><br>Lvl 3: 320% --> <b>460%</b> magical damage<br>Lvl 4: 3 --> <b>4</b> <Calamity Mark><br></blockquote><br><b>P1:</b> When Pandora is on the field, if the enemy has 6 or more <b><Calamity Mark></b>, <b><Calamity Mark></b> becomes undispellable<br><blockquote>Lvl 2: 6 --> <b>5</b> <Calamity Mark><br>Lvl 3: If the enemy has 10 <Calamity Mark>, Pandora deals 500% damage to the enemy (damage cannot be defended)<br>Lvl 4: 5 --> <b>4</b> <Calamity Mark><br></blockquote><br><b>EE:</b> When <b><Calamity Mark></b> causes damage, Pandora gains a shield equal to 100% of the damage dealt (maximum shield value is equal to 2000% of Pandora's ATK). At the end of the turn, it spreads to all targets within the surrounding 4 tiles of the infected target, giving them 1 <b><Calamity Mark> </b><br><blockquote>EE40: <b><Calamity Mark></b> can now spread to all targets within the surrounding 9 tiles of the infected target<br>EE50: 1 --> <b>2</b> <Calamity Mark><br></blockquote><br><b>UR Skill:</b> When Pandora is on the field, if the enemy is inflicted with any other status ailments along with <b><Calamity Mark></b>, damage dealt by <b><Calamity Mark></b> doubles. 75% chance of using US instead of normal attack<br><blockquote>Lvl 2: Damage dealt by <Calamity Mark> triples. Increases self status effect resistance by 80. This effect cannot be removed<br></blockquote><br><b>Pet Skill:</b> At the start of the battle, grants Pandora a shield equal to 400%/800%/1200%/1600%/2000% of Pandora's ATK<br>",
+    "icon": "assets/icon/pandora.png",
+    "images": [
+      "large_H_SSR_panduola01.png",
+      "large_H_SSR_panduola02.png",
+      "large_H_UR_panduola01.png",
+      "large_H_UR_panduola02.png",
+      "pandora.gif"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Plato",
+    "skill": "<b>S1: Paradise/Eden/Arcadia' (桃源郷)</b> Reduces ATK for all enemies by <b>5/10/20/45% </b>for 3 turns. This effect cannot be dispelled or nullified<br><br><b>US Spiritsense (スピリットセンス):</b> Deals <b>100% magical damage to all enemies</b>. For each <b><Rain Mark></b> possessed, deals an additional 30% magical damage to all enemies<br>Lvl 2: 100% --><b> 300%</b> magical damage<br>Lvl 3: 300% --> <b>600% </b>magical damage<br>Lvl 4: 30% --><b> 80%</b> additional magical damage<br><br><b>P1:</b> At the start of each turn, reduces recovery amount of all enemies to <b>80%/60%/40%/20%</b> for 1 turn. This effect cannot be dispelled. Additionally, deals 100%/200%/300%/600% magical damage to <b>the enemy with the highest ATK</b><br><br><b>Lvl 2:</b> <b>50% --> 100% </b>chance, 5 --> 10 <b><Rain Mark</b>>. At the start of battle, gains a buff that nullifies status effects once. <b>Activates S1 when using nullifying status ailments for the first time</b><br><br><br><b>EE:</b> Before activating skills, US, or normal attacks, Plato increases her stats according to the number of <b><Rain Mark> </b>possessed. For each <b><Rain Mark></b> possessed, increases Final DMG by 0.5%/1%/1.8%. This effect has no stacking limit, and lasts till Plato dies<br><br><b>UR Skill: </b>On even turns, Plato has a 50% chance of activating <b>S1 (桃源郷)</b> once. Each activation grants a buff to Plato that nullifies status effects once, and gives 5 <b><Rain Mark></b><br><b>Lvl 2: 50% --> 100%</b> chance, 5 --> <b>10</b> <Rain Mark>. At the start of battle, gains a buff that nullifies status effects once<br><br><b>Pet Skill: </b>At the start of battle, increases Status Resistance by <b>5/10/15/20/25</b>. After each activation of S1 (桃源郷), grants a Shield equivalent to <b>100%/200%/300%/400%/600% ATK</b> to Plato and all front row allies for 2 turns<br>",
+    "icon": "assets/icon/plato.png",
+    "images": [
+      "large_S_SSR_bolatu01.png",
+      "large_S_SSR_bolatu02.png",
+      "large_S_UR_bolatu01.png",
+      "large_S_UR_bolatu02.png",
+      "plato.gif"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Poseidon",
+    "skill": "<b>[Azure Flow]</b><br>Includes the following members:<br>- Ujiyasu Hōjō<br>- Daphne<br>- Poseidon<br>- Abe no Seimei<br>- Hermes<br><br><b>S1:</b> Increases own attack by 50% and reduces own defense by 100% for 3 rounds, cannot be immuned or dispelled.<br><blockquote>Lvl 2: Increases own final damage by 50% and reduces own final damage reduction by 50% for 3 rounds, cannot be immuned or dispelled.<br>Lvl 3: Increases own magic damage by 50% and reduces own physical damage reduction by 50% for 3 rounds, cannot be immuned or dispelled.<br>Lvl 4: Grants 1 stack of fatal damage immunity to all allies and 5 stacks of fatal damage immunity to all <b>[Azure Flow]</b> allies. If there are 5 or more water element allies on your side, the negative effects of this skill will not apply.<br></blockquote><br><b>US:</b> Deals magical damage equal to held stacks of <Charge Mark> * 1000% of Poseidon’s attack to a random enemy, then deals 500% of Poseidon’s current health to that enemy.<br><blockquote>Lvl 2: Casts the skill 1 -> 2 times<br>Lvl 3: 2 -> 3 times<br>Lvl 4: 3 -> 4 times<br></blockquote><br><b>P1:</b> At the beginning of the battle and end of each round, Poseidon gains 1 stack of <Charge Mark>. Poseidon becomes immune to <Water Prison><br><blockquote>Lvl 2: When being hit by active actions, there is a 25% chance of apply <Water Prison> to the attacker<br>Lvl 3: While alive, all water element allies become immune to <Water Prison><br>Lvl 4: At the beginning of each round, deals magical damage equal to 1000% of Poseidon’s attack to all enemies affected by <Water Prison>, cannot miss.<br></blockquote><br><b>Awakening Skill:</b> If the held number of <Charge Mark>s is greater than or equal to 5, US targets all enemies. At the start of the battle, there is a 70% chance to apply <Water Lock> to enemies in the same column for 2 turns. The target of <Water Lock> is unable to take additional actions, cannot be immuned or dispelled. Does not affect bosses or light and dark enemies.<br><blockquote>Lvl 2: At the beginning of the second round, all <b>[Azure Flow]</b> and <b>[Atlantis]</b> allies become immune to damage for 1 round.<br></blockquote><br><b>Pet:</b> At the beginning of the battle, increases own attack by 20% and the attack of all water element allies by 10% for 10 rounds.<br><blockquote>Lvl 2: 20% -> 40% | 10% -> 20%<br>Lvl 3: 40% -> 60% | 20% -> 30%<br>Lvl 4: 60% -> 80% | 30% -> 40%<br>Lvl 5: 80% -> 100% | 40% -> 50%<br></blockquote><br><b>EE:</b><br><blockquote>30 - After an ally water element huntress takes action, Poseidon deals magical damage equal to 100% of her attack to the fastest enemy.<br>40 - Additionally deals 10% of Poseidon’s current health to the target.<br>50 - When an ally water element huntress dies, apply <Water Prison> to a random enemy.<br></blockquote>",
+    "icon": "assets/icon/poseidon.png",
+    "images": [
+      "image.png",
+      "poseidon_1.png",
+      "poseidon_2.png",
+      "poseidon_ssr_2.png"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Prometheus",
+    "skill": "<b>S1:</b> Deals 400% physical damage to all enemies, removes 2 buffs, and has a 100% chance of inflicting 2 <b><Burn Mark></b><br><blockquote>Lvl 2: 400% --> <b>600%</b> physical damage<br>Lvl 3: 2 --> <b>4</b> <Burn Mark><br>Lvl 4: 2 --> <b>All</b> buffs<br></blockquote><br><b>US:</b> Deals 10 hits to the enemy. Each hit deals 48% physical damage to a random enemy and adjacent enemies, and has a 100% chance of inflicting 2 <b><Burn Mark></b> <br><blockquote>Lvl 2: 48% --> <b>80%</b> physical damage<br>Lvl 3: 80% --> <b>122%</b> physical damage<br>Lvl 4: 122% --> <b>200%</b> physical damage<br></blockquote><br><b>P1:</b> On even turns, Prometheus enters into <b><Fever></b> state for 2 turns<br><blockquote>Lvl 2: Increases Final DMG Reduction by 20% in <b><Fever></b> state. This effect cannot be removed<br>Lvl 3: 20% --> <b>40%</b> Final DMG Reduction<br>Lvl 4: Increases all Fire units' (including self) ATK by 100% for 2 turns in <b><Fever></b> state.<br></blockquote><br><b>P2:</b> Dodge +3%/4%/5%, Tenacity +3%/4%/5%<br><br><b>EE:</b> When Prometheus is on the field, decreases damage received by Fire allies (including self) from Wind units by 5%. This effect cannot be dispelled<br><blockquote>EE40: 5% --> <b>10%</b> damage reduction<br>EE50: 10% --> <b>15%</b> damage reduction. Increases damage dealt by Fire allies to Wind enemies by 50%<br></blockquote><br><b>UR Skill:</b> Prometheus normal attack now deals 600% physical damage to an enemy and adjacent enemies, removes 1 buff, has a 100% chance of inflicting 2 <b><Burn Mark></b>, and recovers HP equivalent to damage dealt. HP recovered can exceed HP limit, but this cannot exceed her original max HP<br><blockquote>Lvl 2: At the start of each turn, Prometheus activates her normal attack once. When Prometheus activates her normal attack/skill/US, all Fire allies (including self) recover HP equivalent to 1000% of Prometheus' ATK<br></blockquote><br><b>Pet Skill:</b> After normal attack, deals 200% physical damage to an enemy<br><blockquote>Lvl 2: 200% --> <b>400%</b> physical damage<br>Lvl 3: 400% --> <b>600%</b> physical damage<br>Lvl 4: 600% --> <b>800%</b> physical damage<br>Lvl 5: 800% --> <b>1000%</b> physical damage<br></blockquote>",
+    "icon": "assets/icon/prometheus.png",
+    "images": [
+      "large_H_SSR_puluomixiusi01.png",
+      "large_H_SSR_puluomixiusi02.png",
+      "large_H_UR_puluomixiusi01.png",
+      "large_H_UR_puluomixiusi02.png"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Ramses",
+    "skill": "<b>[Eight Desolates]</b><br>Includes the following members:<br>- Achilles<br>- Freyr<br>- Mercury<br>- Ramses<br>- ?<br><br><b>S1:</b> Increases hit by 10% for all <b>[Eight Desolates]</b> allies for 4 rounds, cannot be stacked or dispelled.<br><blockquote>Lvl 2: 10% -> 20%<br>Lvl 3: 20% -> 30%<br>Lvl 4: 30% -> 50%<br></blockquote><br><b>US:</b> Heal for 10% of base max HP (whatever HP she starts the battle with). Excess healing increases max HP, up to 500% of the base.<br><blockquote>Lvl 2: 10% -> 25%<br>Lvl 3: If Ramses has 25 or more <Brick Mark>s, she will heal an additional time.<br>Lvl 4: If Ramses has 25 or more <Brick Mark>s, the target changes to all <b>[Eight Desolates]</b> allies.<br></blockquote><br><b>P1:</b> At the beginning of the battle and end of each round, gain 1 stack of <Brick Mark> until the end of the battle. Stacks up to 50 times, cannot be dispelled. At the beginning of the battle, expand <Temporary Fortifications> realm until the end of the battle. While the realm is active, at the beginning of each round, increase the speed of all allies by 55 for 1 round, cannot be dispelled.<br><blockquote>Lvl 2: At the beginning of each round, heal all <Beastkin> and <b>[Eight Desolates]</b> allies for 2% of Ramses max HP * the number of <Brick Mark>s Ramses has. Excess healing converts to shield.<br>Lvl 3: For the first 5 rounds, if <Temporary Fortifications> is active at the beginning of the round, apply 1 stack of fatal damage immunity to all allies until the realm ends.<br>Lvl 4: The healing and fatal damage immunity granted by this skill will double for all <b>[Eight Desolates]</b> allies.<br></blockquote><br><b>Awakening Skill:</b> At the end of every round, if <Temporary Fortifications> is active, gain 5 stacks of <Brick Mark><br><blockquote>Lvl 2: At the beginning of each round, if Ramses has 50 or more <Brick Mark>s, kill all non-light/dark, non-boss enemies whose current health percentage is lower than Ramses.<br></blockquote><br><b>Pet:</b> Increases healing for all allies by 10%<br><blockquote>Lvl 2: 10% -> 20%<br>Lvl 3: 20% -> 30%<br>Lvl 4: 30% -> 40%<br>Lvl 5: 50% -> 50%<br></blockquote><br><b>EE:</b><br><blockquote>30 - At the beginning of the battle and end of each round, gain 1 stack of <Brick Mark> until the end of the battle.<br>40 - 1 -> 2<br>50 - 2 -> 4<br></blockquote>",
+    "icon": "assets/icon/ramses.png",
+    "images": [
+      "image.png",
+      "rameses_ssr_1.png",
+      "rameses_ssr_2.png",
+      "ramses_ur_2.png"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Reginleif",
+    "skill": "<b>S1:</b> Deals 150% --> <b>200%</b> physical damage, 75% --> <b>90%</b> chance of inflicting Judgement Mark<br><br><b>US:</b> First two hits deal 400% --> <b>500%</b> physical damage, last hit deal 600% --> <b>750%</b> physical damage<br><br><b>P1:</b> Regin deals 300% --> <b>500%</b> True damage to units with 3 or more Judgement Mark<br><br><b>UR Skill:</b> Reginleif gains the power of <b><Brilliance></b>. Regin will activate her S1 instead of her normal attack. Additionally, at the start of every turn, inflicts 4 Judgement Marks to 2 random enemies. For each mark of <b><Brilliance></b> that Reginleif has, increases CRIT DMG by 20%<br><blockquote>Lvl 2: 2 --> <b>5</b> random enemies<br></blockquote><br><b>Pet Skill:</b> At the start of each turn, deals 100% damage to the column with the most enemies, and has a 60% chance of inflicting 1 Judgement Mark<br><blockquote>Lvl 2: 100% --> <b>150%</b> damage, 60% --> <b>70%</b> chance<br>Lvl 3: 150% --> <b>200%</b> damage, 70% --> <b>80%</b> chance<br>Lvl 4: 200% --> <b>250%</b> damage, 80% --> <b>90%</b> chance<br>Lvl 5: 250% --> <b>300%</b> damage, 90% --> <b>100%</b> chance<br></blockquote>",
+    "icon": "assets/icon/reginleif.png",
+    "images": [
+      "large_G_UR_ruijileifu01.png",
+      "large_G_UR_ruijileifuyuansuti01.png",
+      "reginleif.gif",
+      "Reginleif_01.png",
+      "Reginleif_02.png",
+      "Reginleif_03.png"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Richard",
+    "skill": "<b>S1:</b> Richard orders her army to charge 3 times at the front column of enemies, each dealing 48%/66%/100%/<b>120%</b> of her ATK in Physical DMG and increasing her teams ATK by 15%/20%/25%/<b>30%</b> for 2 turns.<br><br><b>US:</b>Richard hacks at the enemy 10 times, each dealing 50%/75%/100%/<b>125%</b> of her ATK in Physical DMG to 1 random target. If one of these attacks crits, each Crit recovers 30% of Richards ATK in HP for her surviving teammates.<br><br><b>P1:</b> For every 1 surviving allied huntress, Richards Final DMG Reduce increases by 5%/6%/7%/<b>8%</b>. Cannot be dispelled.<br><br><b>UR Skill:</b> Richard gains the power of <b><Brilliance></b>. Each damage instance of her US now targets 3 random enemies. Allies no longer recover HP when a CRIT occurs. Instead, they recover HP equivalent to 20% of damage dealt. If the healing amount exceeds the max HP, a shield equal to the overflow amount will be provided. When Richard has 1 or more marks of <Brilliance>, increases self CRIT DMG by 30%<br><blockquote>Lvl 2: Increase CRIT by 25% at start of battle<br></blockquote><br><b>Pet Skill:</b> At the start of each turn, deals 100% Physical Damage to all enemies. Inflicts 10%/15%/20%/25%/30% DEF down to all enemies and increases DEF by 10%/15%/20%/25%/30% to all allies<br>",
+    "icon": "assets/icon/richard.png",
+    "images": [
+      "large_G_UR_licha01.png",
+      "large_G_UR_lichayuansuti01.png",
+      "richard.gif",
+      "Richard_01.png",
+      "Richard_02.png",
+      "Richard_03.png"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Robin Hood",
+    "skill": "<h2>UR</h2><br><b>S1:</b> Deals 256% --> <b>320%</b> damage<br><br><b>US:</b> Tangles 3 --> <b>4</b> enemies<br><br><b>P1:</b> Tangles 1 --> <b>2</b> enemies when someone dies<br><br><b>UR Skill:</b> When an enemy is sent flying, Robin tangles 1 random enemy. Prioritizes enemies that are not tangled yet. At the start of battle, increases party CRIT by 10%/20%, CRIT DMG by 30%/60%, and Final DMG by 5%/15%, lasts for 2/3 turns<br><blockquote>Lvl 2: 10% --> <b>20%</b> party CRIT increase, 30% --> <b>60%</b> party CRIT DMG increase, 5% --> <b>15%</b> party Final DMG increase. When Robin uses her S1, tangles the enemies.<br></blockquote><br><b>Pet Skill:</b> At the start of every turn, Robin gains 3%/6%/9%/12%/15% Final DMG reduction that lasts for 2 (Lvl 5: 3) turns. This effect cannot be dispelled.<br><blockquote>Lvl 2: 3% --> <b>6%</b> Final DMG<br>Lvl 3: 6% --> <b>9%</b> Final DMG<br>Lvl 4: 9% --> <b>12%</b> Final DMG<br>Lvl 5: 12% --> <b>15%</b> Final DMG, 2 --> <b>3</b> turns<br></blockquote><br><br><h2>MR</h2><br><b>[Tempest]</b><br>Includes the following members<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> 320% -> 400% attack | 100% -> 120% damage share | Enemies hit by this skill have 2 buffs and all shields dispelled.<br><br><b>US:</b> 4 -> All enemies | Enemies hit by this skill have 2 buffs and all shields dispelled.<br><br><b>P1:</b> While in the <Vine World> realm, all <b>[Tempest]</b> allies become immune to control effects.<br><br><b>MR Awakening Skill:</b> At the beginning of the battle, there is a 50% chance to expand the realm <Vine World> for 2 rounds. In this realm, at the beginning of each round, reduces the speed of all enemies by 50 for 1 round and there is a 90% chance to apply <Entangle> to all enemies and dispel 2 debuffs from all <b>[Tempest]</b> allies. This effect will also grant a shield equal to 1000% of Robin Hood's attack and restore hp equal to 10% of Robin Hood's max HP to all <b>[Tempest]</b> allies. While alive, increase hit for all ally <b>[Tempest]</b> units by 180%. After an enemy takes action, there is a 30% chance to apply <Entangle> to the target.<br><blockquote>Lvl 2: At the beginning of the battle, <b>[Tempest]</b> allies become immune to damage for 2 rounds. Recasts <Vine World> at the beginning of each round. While alive, increase dodge, physical damage reduce, magical damage reduce, physical damage increase, and magical damage increase for all ally <b>[Tempest]</b> units by 60%. | 30% -> 100% chance<br></blockquote>",
+    "icon": "assets/icon/robinhood.png",
+    "images": [
+      "large_F_MR_luobinhan01.png",
+      "large_F_UR_luobinhan01.png",
+      "robin_hood.gif",
+      "Robin_Hood_01.png",
+      "Robin_Hood_02.png",
+      "Robin_Hood_03.png",
+      "robin_hood_4.png"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Romulus",
+    "skill": "<b>S1:</b> Deals 80% --> <b>200%</b> physical damage twice, has a 50% --> <b>100%</b> chance of inflicting Frost Mark with each hit<br><br><b>US:</b> Frost Shield reduces damage taken by 50% --> <b>65%</b><br><br><b>P1:</b> Applies 2 <b>[Frost Mark]</b> to 3 --> <b>4</b> enemies<br><br><b>UR Skill:</b> At the start of the battle, all <b>[Retribution and Redemption]</b> units gain <b>[Crime and Punishment]</b>. This effect cannot be dispelled or stacked<br><br><b>[Retribution and Redemption]:</b> Includes the following units:<br>- Romulus<br>- Remus<br><br><b>[Crime and Punishment]:</b> Units with this effect receive less damage from all damage types, the damage lowered is equivalent to 30% of max HP<br><blockquote>Lvl 2: Romulus gains 50% Tenacity<br></blockquote><br><b>Pet Skill:</b> At the start of each turn, deals damage equivalent to 50% ATK to the enemy with the lowest HP percentage, and recovers HP equivalent to 50% ATK to the ally with the lowest HP percentage<br><blockquote>Lvl 2: 50% --> <b>100%</b> ATK<br>Lvl 3: 100% --> <b>200%</b> ATK<br>Lvl 4: 200% --> <b>400%</b> ATK<br>Lvl 5: 400% --> <b>600%</b> ATK<br></blockquote>",
+    "icon": "assets/icon/romulus.png",
+    "images": [
+      "Romulus_01.png",
+      "Romulus_02.png",
+      "Romulus_03.png",
+      "romulus_ur.png"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Schrodinger",
+    "skill": "<b>[Tempest]</b><br>Includes the following members<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> Increases damage dealt to earth element enemies for allied <b>[Tempest]</b> huntresses by 25%, lasts 4 rounds, cannot be dispelled, and cannot be stacked.<br><blockquote>Lvl2: Increases damage dealt to water element enemies by 25% lasts 4 rounds, cannot be dispelled, and cannot be stacked.<br>Lvl3: Increases damage dealt to wind element enemies by 25% lasts 4 rounds, cannot be dispelled, and cannot be stacked.<br>Lvl4: Increases damage dealt to fire element enemies by 25% lasts 4 rounds, cannot be dispelled, and cannot be stacked.<br></blockquote><br><b>US:</b> Links to 2 random enemy targets lasting 2 rounds, cannot be dispelled. When one of the linked targets is damaged, other targets will take 25% of this damage.<br><blockquote>Lvl2: 2 -> 3 enemies<br>Lvl3: 3 -> 4 enemies<br>Lvl4: 4 -> All enemies<br></blockquote><br><b>P1:</b> If this huntress dies, all buffs and negative effects will be dispelled and this huntress enters the <b><Superposition State></b> for 1 round. There is a 90% chance of death after the <b><Superposition State></b> ends, otherwise this huntress revives with 50% of maximum health. <b><Superposition State></b>: Immune to damage and negative effects, unable to act.<br><blockquote>Lvl2: 90% -> 75%<br>Lvl3: 75% -> 50%<br>Lvl4: 50% -> 100% Max HP<br></blockquote><br><b>Awakening Skill:</b> All <b>[Tempest]</b> allies become immune to charm.<br><blockquote>Lvl2: At the beginning of each round, increase the speed of all <b>[Tempest]</b> allies by 60 for 1 round.<br></blockquote><br><b>Pet:</b> At the beginning of each round, all ally <b>[Tempest]</b> huntresses other than self gain 100% increased defense for 1 round, and there is a 20% chance that the target will gain 1 stack of fatal damage immunity. (This means it won't affect her)<br><blockquote>Lvl2: 20% -> 40% chance<br>Lvl3: 40% -> 60% chance<br>Lvl4: 60% -> 80% chance<br>Lvl5: 80% -> 100% chance<br></blockquote><br><b>EE:</b><br><blockquote>30 - While alive, increases water element damage reduction for <b>[Tempest]</b> allies by 20%<br>40 - While alive, increases wind element damage reduction for <b>[Tempest]</b> allies by 20%<br>50 - While alive, increases fire element damage reduction for <b>[Tempest]</b> allies by 20%<br></blockquote>",
+    "icon": "assets/icon/schrodinger.png",
+    "images": [
+      "schrodinger_1.png",
+      "schrodinger_2.png"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Set",
+    "skill": "<b>S1:</b> Increases ATK, DEF, Hit, CRIT, and Physical DMG by 10% for self for 4 rounds<br><blockquote>Lvl 2: 10% --> <b>20%</b> ATK/DEF increase<br>Lvl 3: 10% --> <b>20%</b> Hit/CRIT increase<br>Lvl 4: 10% --> <b>20%</b> Final DMG increase<br></blockquote><br><b>US:</b> Deals 5 instances of 60% damage to an enemy. Increases the damage dealt by 500% on the last damage instance for every <b>[Ice Resistance]</b> mark held by self. If the US kills an enemy, activates US again<br><blockquote>Lvl 2: 60% --> <b>120%</b> damage<br>Lvl 3: 120% --> <b>180%</b> damage<br>Lvl 4: 180% --> <b>300%</b> damage<br></blockquote><br><b>P1:</b> When an enemy uses S1, US, or normal attack, there is a 40% chance of applying <b>[Petrification]</b> to the enemy for 1 turn. At the start of each turn, Set applies 1 <b>[Cold Resistance]</b> mark to self<br><br><b>[Petrification]:</b> Target is unable to act. Cannot be nullified. Can be dispelled. Only effective against non boss targets<br><blockquote>Lvl 2: 40% --> <b>60%</b> chance<br>Lvl 3: 60% --> <b>80%</b> chance<br>Lvl 4: 80% --> <b>100%</b> chance, 1 --> <b>2</b> [Cold Resistance]<br></blockquote><br><b>EE:</b> At the start of each turn, applies <b>[Nightmare]</b> to the enemy with the highest ATK. Set's US and normal attack will prioritize enemies with <b>[Nightmare]</b><br><br><b>[Nightmare]:</b> Decreases DEF by 10% and Final DMG Reduction by 5%. Cannot be nullified. Can be dispelled. Lasts for 1 turn<br><blockquote>EE40: 10% --> <b>20%</b> DEF reduction, 5% --> <b>10%</b> reduction in Final DMG Reduction<br>EE50: 20% --> <b>40%</b> DEF reduction, 10% --> <b>20%</b> reduction in Final DMG Reduction<br></blockquote><br><b>UR Skill:</b> Starting from the 5th turn, <b>[Nightmare]</b> will reduce Final DMG Reduction and Physical DMG Reduction by an additional 40% and 30% respectively. Set will activate her US after using her normal attack<br><blockquote>Lvl 2: Set's ATK and DEF increases by 30% and 50% respectively<br></blockquote><br><b>Pet Skill:</b> For the first 3 turns, Set has a 20% chance of nullifying magical damage<br><blockquote>Lvl 2: 20% --> <b>40%</b> chance<br>Lvl 3: 40% --> <b>60%</b> chance<br>Lvl 4: 3 --> <b>4</b> turns<br>Lvl 5: 60% --> <b>100%</b> chance<br></blockquote>",
+    "icon": "assets/icon/set.png",
+    "images": [
+      "set_1.png",
+      "set_2.png",
+      "set_ssr_1.png",
+      "set_ssr_2.png"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Shibata Katsuie",
+    "skill": "<b>S1:</b> When this skill is activated, if Shibata is not in <b><Counterattack Form></b>, enters into <b><Counterattack Form></b>. Shibata will activate US once every 30 damage instances in <b><Counterattack Form></b>. If Shibata suffers damage more than 10%/15%/20%/25% max HP, she exits <b><Counterattack Form></b> and reduces the counter back to 0. If Shibata is already in <b><Counterattack Form></b>, activates US instead.<br><br><b><Counterattack Form>:</b> Nullifies all movement-restricting effects. Any damage dealt towards the ally behind Shibata will have their damage transferred to Shibata instead. When Shibata takes any damage, this damage is reduced by 10% of Shibata's max HP<br><br><b>US:</b> If Shibata is in<b> <Counterattack Form></b>, deals 300%/400%/500%/800% physical damage to all front and middle row enemies, as well as having a 50%/60%/70%/80% chance of inflicting 1 <b><Frost Mark></b>. If Shibata is not in <b><Counterattack Form></b>, she uses her normal attack instead<br><br><b>P1:</b> When normal attacking, if Shibata is still in <b><Counterattack Form></b>, she uses US instead of her normal attack instead. If Shibata is in <b><Counterattack Form></b>, Toughness +15%/20%/25%/30%<br><br><b>EE:</b> 4%/8%/12% chance of generating 1 <b><Rain Mark></b> whenever taking damage<br><br><b>UR Skill:</b> If Shibata's sub huntress is Romulus, inflicts 2 <b><Frost Mark></b> on 3 random units at the start of battle. If Shibata's sub huntress is Artemis, her normal attack inflicts 3 <b><Frost Mark></b><br><blockquote>Lvl 2: At the start of each turn, gives a Shield to 2 Water allies. Each unit can only have one instance of this shield, and the shield lasts for 1 turn. Units with Frost Shield has 25% increased Final Damage reduction, and has a 20% chance of inflicting 1 <b><Frost Mark></b> to enemies that attacks. At the start of battle, Shibata enters into <b><Counterattack Form></b><br></blockquote><br><b>Pet Skill:</b> When Shibata activates US, deals 40%/80%/120%/160% physical damage to an enemy while inflicting 1 (Lvl 5: 2) Frost Mark. Prioritizes enemies that are not frozen yet<br>",
+    "icon": "assets/icon/katsuie.png",
+    "images": [
+      "large_S_SSR_chaitianshengjia01.png",
+      "large_S_SSR_chaitianshengjia02.png",
+      "large_S_UR_chaitianshengjia01.png",
+      "large_S_UR_chaitianshengjia02.png"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Siegfried",
+    "skill": "<b>[Primal Fire]</b><br>Includes the following members<br>- Magellan<br>- Siegfried<br>- Imagawa Yoshimoto<br>- Heimdall<br>- Horus<br>- Honda Tadakatsu<br><br><b>S1:</b> Deals 4 instances of physical damage equal to 400% of attack to the fastest enemy<br><blockquote>Lvl 2: 400% -> 800% <br>Lvl 3: 800% -> 1200% <br>Lvl 4: 1200% -> 2000%<br></blockquote><br><b>US:</b> Deals 4 instances of physical damage equal to 200% of attack to all enemies, and applies 1 stack of <Burn Mark>.<br><blockquote>Lvl 2: 200% -> 400%<br>Lvl 3: 400% -> 600%<br>Lvl 4: 600% -> 2000%<br></blockquote><br><b>P1:</b> When receiving damage, deal physical damage equal to 1500% of attack to the attacker. At the beginning of battle, transform into an evil dragon and increase the final damage of all <b>[Primal Fire]</b> allies by 100%, lasting 1 round. At the beginning of battle, if the enemy has a BOSS, 1 evil dragon phantom will be summoned.<br><blockquote>Lvl 2: Transformation duration 1 -> 2 rounds | 1 -> 2 phantoms<br>Lvl 3: Transformation duration 2 -> 3 rounds | 2 -> 3 phantoms<br>Lvl 4: Transformation duration 3 -> 4 rounds | Siegfried receives 100% of all damage in place of the phantoms.<br></blockquote><br><b>Evil Dragon Transformation:</b> Increase magical damage reduction by 180% and physical damage reduction by 100%<br><br><b>Evil Dragon Phantom:</b> Inherits 100% of Siegfried’s basic attributes, but with 90% of attack value and 1% health. Uses level 1 active skill and ultimate.<br><br><b>Awakening Skill:</b> After allied <b>[Primal Fire]</b> huntresses take action, Siegfried has a 100% chance to use US.<br><blockquote>Lvl 2: After Siegfried takes an action, all negative effects on allied <b>[Primal Fire]</b> huntresses will be dispelled.<br></blockquote><br><b>Pet:</b> When being attacked, inflict 20% attack as physical damage to the attacker, and there is a 20% chance to apply 1 stack of <Burn Mark> to the attacker<br><blockquote>Lvl 2: 20% -> 40%<br>Lvl 3: 40% -> 60%<br>Lvl 4: 60% -> 80%<br>Lvl 5: 80% -> 100%<br></blockquote><br><b>EE:</b><br><blockquote>30 - At the beginning of battle <b>[Primal Fire]</b> allies gain 1 stack of fatal damage immunity<br>40 - 1 -> 2<br>50 - 2 -> 3<br></blockquote>",
+    "icon": "assets/icon/siegfried.png",
+    "images": [
+      "image.png",
+      "seigfried_ssr_1.png",
+      "seigfried_ssr_2.png",
+      "siegfried_2.png"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Sima Yi",
+    "skill": "<b>S1:</b> Deals 92% --> <b>200%</b> magical damage, 90% --> <b>100%</b> chance to inflict 1 Burn/Frost mark<br><br><b>US:</b> Deals 280% --> <b>1200%</b> magical damage<br><br><b>P1:</b> Controlled unit deals 30% --> <b>70%</b> less damage to Sima Yi, Sima Yi heals herself for 50% --> <b>70%</b> of any damage dealt to controlled unit<br><br><b>UR Skill:</b> Sima Yi gains the power of <b><Shadow></b>. At the start of battle, gains a buff that allows her to survive fatal damage 6 times. US now targets all enemies. Sima Yi will use her US instead of her normal attack. Sima Yi gains 10% CDMG for each mark of <b><Shadow></b> possessed <br><blockquote>Lvl 2: 10% --> <b>20%</b> CDMG. When an enemy is unable to battle, Sima Yi increases her Final Damage by 100%, and increases the number of times she can survive fatal damage by 3. US will always CRIT<br></blockquote><br><b>Pet Skill:</b> When an enemy is unable to battle, increases CDMG by 10% for 2 turns<br><blockquote>Lvl 2: 10% --> <b>15%</b> CDMG increase<br>Lvl 3: 15% --> <b>20%</b> CDMG increase<br>Lvl 4: 20% --> <b>25%</b> CDMG increase<br>Lvl 5: 25% --> <b>30%</b> CDMG increase<br></blockquote>",
+    "icon": "assets/icon/simayi.png",
+    "images": [
+      "large_A_UR_simayi01.png",
+      "large_A_UR_simayiyuansuti01.png",
+      "Sima_Yi_01.png",
+      "Sima_Yi_02.png",
+      "Sima_Yi_03.png"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Socrates",
+    "skill": "<b>S1:</b> Gain 1 <Page of Questions><br><blockquote>Lv2: Grants <Page of Questions> to 1 random ally<br>Lv3: 1 -> 2 <br>Lv4: 2 -> 3 random allies <br>Lv5: All allies<br></blockquote><br><Page of Questions>: Hit +3% spd +2, 99 max stack, cannot be dispelled.<br><br><b>US:</b> Deals true damage equal to 500% of attack to all enemies and 800% of max HP to all enemies with fatal damage immunity. :hermes: <br><blockquote>Lv2: Skill occurs 2 times<br>Lv3: 2 -> 5 times<br>Lv4: Dispel shields from all enemies before dealing damage.<br>Lv5: Dispel 4 buffs from all enemies before dealing damage. :daphne: :freyr: <br></blockquote><br><br><b>P1:</b> Counts as a member of <b>[Tempest]</b>, <b>[Primal Fire]</b>, <b>[Azure Flow]</b>, <b>[Bookworm]</b>, <b>[Healer]</b> (Monk), and <b>[Eight Desolates]</b> and is immune to <Enchant>. If all allies have damage immunity, apply <Self Contradiction> to all enemies after they take action.<br><blockquote>Lv2: While alive, enemies with lower might cannot deploy realms.<br>Lv3: When enemies take action, dispel <Increase Speed> buffs from one enemy, prioritizing enemies with the buff (No effect occurs if there are none)<br>Lv4: When a character attempts to deploy a realm, or when a realm is active at the beginning of the round, increase speed for all allies by 15 for 1 round. :hermes: <br>Lv5: All allies become immune to <Enchant> and the speed increase lasts for 4 rounds. :freyr: <br></blockquote><br><Self Contradiction>: Petrify but can’t be dispelled. :set: <br><br><b>AS:</b> Socrates gains the power of <Shadow>. For each mark of <Shadow> grants 1 stack of fatal damage immunity to all allies at the beginning of each round. Lasts 2 rounds.<br><blockquote>Lv2: At the beginning of each round, apply the same stacks of fatal damage immunity to all allies with <Page of Questions> for 2 rounds.<br></blockquote><br><b>MR:</b> <Enchant>s a random enemy at the beginning of each round. All allies have a 100% chance to cast US instead of normal attack.  At the beginning of each round, there is a 100% chance to apply damage immunity to all allies, decreasing by 20% each round. (Immunity for each target is calculated separately) :attila: <br><blockquote>Lv2: At the beginning of the battle, applies <Dark Lock> to all non-L/D and non-boss enemies until the end of the battle. Immunity chance decreases by ~~20%~~ -> 10%<br></blockquote><br><b>Pet:</b> At the beginning of each round, dispels 1 negative effect from a random ally. :hermes: <br><blockquote>Lv2: 1 -> 2<br>Lv3: 2 -> 3<br>Lv4: 3 -> 4<br>Lv5: 4 -> 5<br></blockquote><br><b>EE:</b> :hermes: <br><blockquote>30: Gains 1 <Page of Questions> at the beginning of each round.<br>40: At the beginning of each round, heal all allies with <Page of Questions> for 1000% of attack * number of stacks, excess healing is converted to shield.<br>50: At the beginning of each round, increase attack, FD and crit for all allies with <Page of Questions> by 50%<br></blockquote>",
+    "icon": "assets/icon/socrates.png",
+    "images": [
+      "image.png",
+      "large_A_MR_sugeladi01.png",
+      "large_A_UR_sugeladiyuansuti01.png",
+      "Socrates_ssr_2.png",
+      "Socrates_ssr_3.png",
+      "Socrates_UR.png"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Solomon",
+    "skill": "<b>S1:</b> Grants a shield equivalent to 100% ATK to self, and has a 25% chance of gaining a buff that nullifies fatal damage once. Afterwards, performs a <b>[Dungeon Search]</b><br><blockquote>Lvl 2: 100% --> <b>350%</b> ATK, 25% --> <b>50%</b> chance<br>Lvl 3: 350% --> <b>500%</b> ATK, 50% --> <b>100%</b> chance<br>Lvl 4: 1 --> <b>2</b> fatal damage nullification<br></blockquote><br><b>[Dungeon Search]:</b> Gains 1 <b>[Dungeon Mark]</b> (cannot be dispelled). Certain effects will occur based on the number of <b>[Dungeon Mark]</b> and the level of Solomon's passive skill. For more details, please refer to her passive skill<br><br><b>US:</b> Deals 1000%/2000%/3000%/4000% magical damage to all enemies, and has a 5% chance of dealing an additional 1000%/2000%/3000%/4000% magical damage to each enemy <br><br><b>P1:</b> At the start of each turn, there is a 25%/50%/75%/100% chance to activate S1. The following effects will activate based on the number of <b>[Dungeon Mark]</b> held by Solomon:<br><br>1 <b>[Dungeon Mark]:</b> Increases SPD for all allies by 50 for 1 turn<br><br>2 <b>[Dungeon Mark]:</b> Deals 300% magical damage to a random enemy and reduces the target's SPD by 100. This effect lasts for 2 turns<br><br>3 <b>[Dungeon Mark]:</b> Deals 1000% damage to all enemies<br><br>4 <b>[Dungeon Mark]:</b> Dispels all buffs from all enemies, cleanses all status effects from self, and becomes permanently immune to all status ailments<br><br>5 or more <b>[Dungeon Mark]:</b> Activates US<br><br><b>EE:</b> At the start of the battle, all units (excluding self) gain the following buffs. These effects are permanent, and cannot be dispelled<br><br><b>[Strength Type]:</b> Increases physical damage dealt by 5%, reduces physical damage taken by 5%<br><br><b>[Wisdom Type]:</b> Increases magical damage dealt by 5%, reduces magical damage taken by 5%<br><br><b>[Agility Type]:</b> Increases CRIT by 5%, CRIT DMG by 5%<br><blockquote>EE40: At the start of the battle, all Healer-type allies gain the following buffs. These effects are permanent, and cannot be dispelled<br><br><b>[Healer Type]:</b> Increases healing effect by 25%, increases healing received by 25%<br><br><b>[Healer]:</b> Hua Tuo, Helen, Izumo no Okuni, Raphael, Mobius, Daji, Beethoven, Pandora, Charlemagne<br><br>EE50: At the start of the battle, if there are Strength Type, Wisdom Type, Agility Type, and Healer Type units present (excluding self), Solomon gains a buff that nullifies fatal damage 7 times, and increases her Final DMG Reduction by 80% for 2 turns<br></blockquote><br><b>UR Skill:</b> Solomon gains the power of <b>[Brilliance]</b>. for each mark of <b>[Brilliance]</b>, Solomon's CRIT rate increases by 10%<br><blockquote>Lvl 2: Increases Solomon's CRIT DMG by 300%<br></blockquote><br><b>Pet Skill:</b> When Solomon is on the field, all allies are immune to <b>[Enchant]</b><br><blockquote>Lvl 2: At the start of each turn, there is a 10% chance to <b>[Enchant]</b> the enemy with the highest SPD<br>Lvl 3: 10% --> <b>25%</b> chance<br>Lvl 4: 25% --> <b>50%</b> chance<br>Lvl 5: 50% --> <b>100%</b> chance<br></blockquote>",
+    "icon": "assets/icon/solomon.png",
+    "images": [
+      "large_G_UR_suoluomen01.png",
+      "large_G_UR_suoluomen02.png",
+      "large_G_UR_suoluomenyuansuti01.png"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Taira no Kiyomori",
+    "skill": "<b>S1:</b> Increases Dodge by 30%, Physical DMG Reduction by 10%, Magical DMG Reduction by 10% for 6 turns for all allies<br><blockquote>Lvl 2: 30% --> <b>60%</b> Dodge<br>Lvl 3: 10% --> <b>15%</b> Physical/Magical DMG Reduction<br>Lvl 4: 15% --> <b>20%</b> Physical/Magical DMG Reduction<br></blockquote><br><b>US:</b> Enters into <b>[Killing Stance]</b>. This lasts till Taira is defeated or the end of the battle and cannot be dispelled. Then, activates normal attack once<br><br><b>[Killing Stance]:</b> Taira will activate her normal attack instead of S1 or US. Normal attacks now target the enemy with the lowest HP, and deals 2 instances of Physical damage. At the start of each turn, increases ATK by 5%, lasts till Taira is defeated or the end of the battle<br><blockquote>Lvl 2: 5% --> <b>10%</b> ATK increase<br>Lvl 3: While in <b>[Killing Stance]</b>, each damage instance inflicted by normal attacks increases to 200% ATK<br>Lvl 4: 200% --> <b>400%</b> ATK<br></blockquote><br><b>P1:</b> At the start of the battle, increases Dodge for self for 2 turns. When the enemy has activated S1, US, or normal attack 6 times, Taira applies <b>[Dazzle]</b> to the enemy with the highest ATK for 2 turns<br><br><b>[Dazzle]:</b> Decreases Hit by 140%. Cannot be cleansed or negated, cannot stack<br><blockquote>Lvl 2: 6 --> <b>5</b> times<br>Lvl 3: 5 --> <b>3</b> times<br>Lvl 4: Applies Dazzle to 1 --> <b>2</b> enemies<br></blockquote><br><b>EE:</b> Normal attacks deal an extra 400% Physical damage<br><blockquote>EE40: When a normal attack hits the target, if the target has <b>[Dazzle]</b>, extends the duration by 1 turn<br>EE50: When a normal attack hits the target, if the target has <b>[Dazzle]</b>, Taira gains an extra action, This can be activated once per turn<br></blockquote><br><b>UR Skill:</b> When a normal attack hits the target, if the target has <b>[Dazzle]</b> and is not a boss, steals 10% of the target's ATK. ATK stolen per hit cannot exceed 100% of self ATK. ATK stolen cannot be dispelled, and lasts till Taira is defeated or the end of the battle. At the start of each turn, if ATK stolen exceeds 8 stacks, increases self ATK by 1500%, Physical DMG increase by 100%, and Hit by 200%, lasts till Taira is defeated or the end of the battle. Cannot be dispelled. Can only be triggered once per battle<br><blockquote>Lvl 2: If Taira is still alive, increases Final DMG by 30%, cannot be dispelled<br></blockquote><br><b>Pet Skill:</b> At the start of the battle, applies 3 instances of fatal damage nullification to self for 3 turns. If the fatal damage nullification effect is triggered, restores HP equivalent to 400% ATK<br><blockquote>Lvl 2: 400% --> <b>800%</b> ATK<br>Lvl 3: 800% --> <b>1200%</b> ATK<br>Lvl 4: 3 --> <b>4</b> instances of fatal damage nullification<br>Lvl 5: 1200% --> <b>1600%</b> ATK<br></blockquote>",
+    "icon": "assets/icon/taira.png",
+    "images": [
+      "Taira_Kiyomori.png",
+      "Taira_Kiyomori_2.png",
+      "taira_ssr_1.png",
+      "taira_ssr_2.png"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Takeda Shingen",
+    "skill": "<b>S1:</b> Realm Expansion, lasts for 3 turns. In the Realm, increases ATK of all Fire allies by 20%, and inflicts 2 <b><Burn Mark></b> to all enemies at the end of the turn. Enemies with 8 or more <b><Burn Mark></b> in this Realm will be stunned<br><blockquote>Lvl 2: 20% --> <b>50%</b> ATK increase<br>Lvl 3: 8 --> <b>6</b> <Burn Mark><br>Lvl 4: Increases Final DMG of all Fire allies by 10% when Realm is active<br></blockquote><br><b>US:</b> Deals 400%/500%/600%/800% physical damage to all enemies, and has a 100% chance of inflicting <b><Mantra Mark></b> on the enemy. The number of <b><Mantra Mark></b> inflicted will be the same as the number of <b><Burn Mark></b> on the enemy<br><br><b><Mantra Mark>:</b> Decreases HP by 3% max HP at the end of every turn. Can be stacked up to 30 times, and lasts till the end of battle<br><br><b>P1:</b> Shingen enters into <b><Fever></b> state on odd turns for 1 turn. When Shingen enters into <b><Fever></b> state, increases all allies DEF by 50%, and applies <b><Immovable Mountain></b> to all allies for 1 turn<br><blockquote>Lvl 2: When Shingen enters into <b><Fever></b> state, increases Final DMG reduction of all allies by 10%<br>Lvl 3: When Shingen enters into <b><Fever></b> state, increases Status Resistance of all allies by 50<br>Lvl 4: At the start of each turn, if any enemy has <b><Mantra Mark></b>, Shingen becomes immune to all status effects for 1 turn. This effect cannot be dispelled<br></blockquote><br><b><Immovable Mountain>:</b> When taking damage, recovers HP equivalent to 30% of damage taken<br><br><b>EE:</b> If Shingen is in her Realm, increases CRIT rate and CRIT DMG of all allies by 10% and 50% respectively. This effect cannot be dispelled. At the start of the battle, increases Tenacity of all allies by 50%. This effect lasts till the end of the battle and cannot be dispelled<br><blockquote>EE40: If Shingen is in her Realm, increases Final DMG of all allies by 10%. This effect cannot be dispelled.<br>EE50: At the start of the battle, increases Final DMG Reduction of all allies by 20%. This effect lasts till the end of the battle and cannot be dispelled.<br></blockquote><br><b>UR Skill:</b> After Shingen activates her US, if the enemy has 21 or more <b><Mantra Mark></b>, the enemy will be stunned. Stun cannot be dispelled<br><blockquote>Lvl 2: After Shingen actives her US, if the enemy has 30 or more <b><Mantra Mark></b> and has less than 50% HP, the enemy will be instantly killed. This effect ignores any fatal damage nullification. Bosses are immune to this effect.<br></blockquote><br><b>Pet Skill:</b> At the start of the battle, deals 200%/250%/300%/350%/400% physical damage to all enemies, and has a 20%/40% chance of decreasing SPD by 30/60/90/120 for 1 turn. This effect cannot be dispelled<br>",
+    "icon": "assets/icon/takeda.png",
+    "images": [
+      "large_H_SSR_wutianxinxuan01.png",
+      "large_H_SSR_wutianxinxuan02.png",
+      "large_H_UR_wutianxinxuan01.png",
+      "large_H_UR_wutianxinxuan02.png"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Takenaka Shigeharu",
+    "skill": "<b>S1:</b> Provides shield equal to 100%/150%/200%/<b>250%</b> of her ATK to herself and adjacent allies.<br><br><b>US:</b> Fling 1 enemy from the column with the fewest targets into the air, then smash them into a position in the column with the most targets with a 40%/70%/100% chance to stun the target for 2 turns. <b>(Lvl 4: Deals an additional 200% magical damage)</b><br><br><b>P1:</b> 50%/75%/100% chance to use an additional Active Skill at the start of each turn. Whenever an enemy is sent flying, pursue and attack all targets sent flying by flinging them into the air and smashing them back down to the ground dealing 100%/200%/300%/<b>400%</b> of ATK to them as well as adjacent targets.<br><br><b>UR Skill:</b> When activating US, there is a 50%/100% chance of blowing away enemies adjacent to the landed enemy<br><br><b>Pet Skill:</b> When receiving fatal damage for the first time, nullifies the damage of this attack and grants a shield equivalent to 500%/550%/600%/650%/700% ATK to self<br>",
+    "icon": "assets/icon/takenaka.png",
+    "images": [
+      "large_F_UR_zhuzhongbanbingwei01.png",
+      "Takanaka_Shigeharu_01.png",
+      "takenaka.gif",
+      "Takenaka_Shigeharu_02.png",
+      "Takenaka_Shigeharu_03.png",
+      "takenaka_skin.png"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Thor",
+    "skill": "<h2>UR</h2><br><b>S1:</b> Deals 500% --> <b>600%</b> magical damage to the first enemy<br><br><b>US:</b> Deals 3 instances of 600% --> <b>700%</b> magical damage<br><br><b>P1:</b> There is a 40% chance to activate US instead of S1<br><br><b>UR Skill:</b> Thor gains the power of <b><Brilliance></b>. US and EE deals an additional 100% magical damage to the target (excluding adjacent targets). For each mark of <b><Brilliance></b> possessed, increases ATK by 6%<br><blockquote>Lvl 2: 100% --> <b>200%</b> magical damage<br></blockquote><br><b>Pet Skill:</b> After activating US, deals 30% magical damage to 2 random enemies<br><blockquote>Lvl 2: 30% --> <b>40%</b> magical damage<br>Lvl 3: 40% --> <b>50%</b> magical damage<br>Lvl 4: 50% --> <b>60%</b> magical damage<br>Lvl 5: 60% --> <b>75%</b> magical damage<br></blockquote><br><br><h2>MR</h2><br><b>[Tempest]</b><br>Includes the following members<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> Skill effect changes to deal magical damage equal to number of owned <Charge Mark> <i> 600% of Thor’s attack to all non-boss enemies and <Charge Mark> </i> 3000% of Thor’s attack to all boss enemies.<br><br><b>US:</b> Skill effect changes to summon 3 thunderbolts each dealing magic damage equal to number of owned <Charge Mark> * 400% of Thor’s attack to a random enemy and adjacent targets. For every <Charge Mark> Thor has, deal 1 instance of true damage equal to 1000% of the target’s maximum HP to enemies with fatal damage immunity.<br><br><b>P1:</b> Thor becomes immune to <Charm>, <Taunt> and <Silence>. When there are no boss enemies, Thor will only use US; when there is a boss on the enemy side, Thor only uses S1. At the beginning of each round, if there are no other “Royal Family Members” on the team, apply <Light Lock> to all non-light/dark, non-boss enemies for 1 round.<br><br><b>MR</b>: At the beginning of the battle and end of each round, Thor gains 1 stack of <Charge Mark>. At the start of each round, Thor gains fatal damage immunity equal to the number of owned <Charge Mark>s for 3 rounds. At the start of the first round, apply damage immunity to all allies with <Charge Mark> which lasts for a number of rounds equal to the number of ally <b>[Tempest]</b> units. Before Thor takes an active action, she gains damage immunity until an enemy takes action.<br><blockquote>Lvl 2: At the beginning of the first round, apply 3 stacks of <Charge Mark> to all allies with 2 or less <Charge Mark>s. In the first 3 rounds of battle, if all allies have damage immunity, enemy non-light/dark/boss units cannot act or use any abilities.<br></blockquote>",
+    "icon": "assets/icon/thor.png",
+    "images": [
+      "large_G_UR_suoeryuansuti01.png",
+      "thor.gif",
+      "Thor_01.png",
+      "Thor_02.png",
+      "Thor_03.png",
+      "Thor_04.png",
+      "thor_mr.png"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Togukawa Ieyasu",
+    "skill": "<b>S1:</b> Deals 160% --> <b>210%</b> physical damage to an enemy<br><br><b>US:</b> Deals 140% --> <b>160%</b> physical damage to all enemies in the front and middle row. If the enemy is inflicted with <b><Tear></b>, deals 280% --> <b>300%</b> physical damage instead. If the enemy is not inflicted with <b><Tear></b>, there is a 100% chance of inflicting <b><Tear></b><br><br><b>P1:</b> Increases Dodge by 7% --> <b>8%</b> for each surviving ally<br><br><b>UR Skill:</b> Tokugawa is no longer able to evade any attacks. However, at the start of each turn, her CRIT DMG increases according to her Dodge value. Lasts for 5 turns and cannot be dispelled. The activation condition for her EE skill changes from \"when Tokugawa evades an attack\" to \"when Tokugawa lands a CRIT on the enemy\"<br><blockquote>Lvl 2: When Tokugawa's HP is below 50%, increases ATK by 500%. This effect cannot be dispelled. When an enemy fails to escape from <b><Sand Cage></b>, activates S1 against that enemy. Additionally, Tokugawa will always CRIT against enemies in <b><Sand Cage></b><br></blockquote><br><b>Pet Skill:</b> Tokugawa is no longer able to evade any attacks. At the start of the battle, increases Hit by 30%. This effect cannot be dispelled<br><blockquote>Lvl 2: 30% --> <b>35%</b><br>Lvl 3: 35% --> <b>40%</b><br>Lvl 4: 40% --> <b>45%</b><br>Lvl 5: 45% --> <b>50%</b><br></blockquote>",
+    "icon": "assets/icon/tokugawa.png",
+    "images": [
+      "tokugawa.gif",
+      "Tokugawa_Ieyasu_01.png",
+      "Tokugawa_Ieyasu_02.png",
+      "Tokugawa_Ieyasu_03.png",
+      "Tokugawa_Ieyasu_04.png"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Uesugi Kenshin",
+    "skill": "<b>S1:</b> Realm Expansion: Unstoppable Flow, lasts for 2 turns<br><br>When this Realm is active, when an ally activates US, recovers HP equivalent to 100% of Kenshin's ATK, and has a 50% chance to increase ATK by 10% for 4 turns. Has a maximum stack of 20 and can be dispelled. <br><blockquote>Lvl 2: 2 --> <b>3</b> turns, 100% --> <b>200%</b> ATK, 10% --> <b>20%</b> ATK increase<br>Lvl 3: 3 --> <b>4</b> turns, 200% --> <b>300%</b> ATK, 20% --> <b>40%</b> ATK increase<br>Lvl 4: 4 --> <b>5</b> turns, 300% --> <b>500%</b> ATK, 40% --> <b>60%</b> ATK increase. <b>New Effect:</b> If the enemy side has Shingen and Shingen is still alive, Realm Expansion will forcefully override any current Realm, and then recovers HP equivalent to 100% of Kenshin's ATK for all allies and enemies.<br></blockquote><br><b>US:</b> Increases Penetration by 100, Penetration Increase by 5%, Hit by 5% and Physical Damage by 5% for all allies for 4 turns. Can be dispelled.<br><blockquote>Lvl 2: 100 --> <b>200</b> Penetrate, 5% --> <b>10%</b> Penetration Increase, 5% --> <b>10%</b> Hit, 5% --> <b>10%</b> Physical Damage<br>Lvl 3: 200 --> <b>300</b> Penetrate, 10% --> <b>15%</b> Penetration Increase, 10% --> <b>15%</b> Hit, 10% --> <b>15%</b> Physical Damage<br>Lvl 4: 300 --> <b>500</b> Penetrate, 15% --> <b>25%</b> Penetration Increase, 15% --> <b>25%</b> Hit, 15% --> <b>25%</b> Physical Damage. <b>New Effect:</b> Activates US for one other ally with the highest ATK<br></blockquote><br><b>P1:</b> Kenshin is immune to <b>[Enchant]</b> and <b>[Burn Mark]</b>. On odd turns, if the enemy side has Shingen, all allies gain 10% Magical Damage Reduction for 5 turns. Can be dispelled. If the enemy side does not have Shingen, all allies gain 2% Physical Damage Reduction for 10 turns. Can be dispelled.<br><blockquote>Lvl 2: 10% --> 20% Magical Damage Reduction, 2% --> 4% Physical Damage Reduction<br>Lvl 3: 20% --> 30% Magical Damage Reduction, 4% --> 6% Physical Damage Reduction<br>Lvl 4: 30% --> 50% Magical Damage Reduction, 6% --> 10% Physical Damage Reduction<br></blockquote><br><b>EE:</b> At the start of each turn, increases Hit for the ally with the highest ATK by 6%. Can be stacked up to 20 times, can be dispelled, and lasts till the end of the battle<br><blockquote>EE40: 6% --> <b>12%</b><br>EE50: Adds 2 stacks each turn<br></blockquote><br><b>UR Skill:</b> At the start of the battle, all <b>[Far East Island]</b> units gain one instance of fatal damage nullification. At the start of each turn, the ally with the highest SPD and the ally with the highest ATK each gains 2 instances of status nullification that lasts for 2 turns. Can be stacked and cannot be dispelled. <br><blockquote>Lvl 2: When Kenshin is still alive, she gains 20% Final Damage Reduction. This cannot be dispelled.<br></blockquote><br><b>[Far East Island]:</b> Includes the following units:<br>- Niwa Nagahide<br>- Uesugi Kenshin<br>- Takeda Shingen<br>- Ashikaga Yoshiteru<br>- Date Masamune<br>- Yagyu Jubei<br>- Mochizuki Chiyome<br>- Minamoto no Yoshitsune<br>- Miyamoto Musashi<br>- Benkei<br>- Takenaka Shigeharu<br>- Chosokabe Motochika<br><br><b>Pet Skill:</b> At the start of the battle, decreases Dodge for all allies by 20%. This negative effect can trigger your allies' passives. Increases Block by 100 and increases damage reduced by Block by 5% for 4 turns. Can be dispelled.<br><blockquote>Lvl 2: 100 --> 200 Block, 5% --> 10% increase in damage reduced by Block<br>Lvl 3: 200 --> 300 Block, 10% --> 15% increase in damage reduced by Block<br>Lvl 4: 300 --> 400 Block, 15% --> 20% increase in damage reduced by Block<br>Lvl 5: 400 --> 500 Block, 20% --> 25% increase in damage reduced by Block<br></blockquote>",
+    "icon": "assets/icon/uesugi.png",
+    "images": [
+      "kenshin_1.png",
+      "kenshin_2.png",
+      "uesugi_ssr_1.png",
+      "uesugi_ssr_2.png"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Ujiyasu Hōjō",
+    "skill": "<b>[Azure Flow]</b><br>Includes the following members:<br>- Ujiyasu Hōjō<br>- Daphne<br>- Poseidon<br>- Abe no Seimei<br>- Hermes<br><br><b>S1:</b> Deals physical damage equal to 100% of attack to all enemies.<br><blockquote>Lvl 2: 1 -> 2 times<br>Lvl 3: 2 -> 3 times<br>Lvl 4: 3 -> 4 times<br></blockquote><br><b>US:</b> Grants 20% Magical Damage Increase and Final Damage Increase to all water element allies. Stacks up to 10 times, lasts until the end of the battle. Inflicts <Silence> on self for 1 round.<br><blockquote>Lvl 2: 20% -> 40%<br>Lvl 3: 40% -> 60%<br>Lvl 4: 60% -> 80% | Removes 3 debuffs from all targets (before silencing self)<br></blockquote><br><b>P1:</b> After a non-boss, non-summoned target performs an active action, Ujiyasu has a 10% chance to gain a stack of <Plum Blossom Mark> and dispel 1 negative effect from herself.<br><blockquote>Lvl 2: 10% -> 20%<br>Lvl 3: 20% -> 50%<br>Lvl 4: 50% -> 70%<br></blockquote><br><Plum Blossom Mark>: Cannot be dispelled, stacks up to 5 times and lasts 1 round.<br><br><b>Awakening Skill:</b> At the start of battle, there is a 70% chance to apply <Water Lock> to enemies in the same column for 2 turns. Upon reaching 5 stacks of <Plum Blossom Mark>, all non-boss and non-summoned enemies are prohibited from taking active actions. Cannot be immuned or dispelled. Lasts 1 round.<br><blockquote>Lvl 2: At the beginning of the battle, all <b>[Azure Flow]</b> (closest I could translate)  allies become immune to damage for 1 round.<br></blockquote><br><b>Pet:</b> For the first 5 rounds, increase Physical Damage Reduction for all water element allies by 5% for 5 turns. Can stack, cannot be dispelled.<br><blockquote>Lvl 2: 5% -> 10%<br>Lvl 3: 10% -> 15%<br>Lvl 4: 15% -> 20%<br>Lvl 5: 20% -> 25%<br></blockquote><br><b>EE:</b> <br><blockquote>30 - At the beginning of each round there is a 50% chance for all water element allies to gain 3 stacks of fatal damage immunity<br>40 - 50% -> 100%<br>50 - At the beginning of each round, increase the attack of the ally with the highest attack by 60% for 10 rounds.<br></blockquote>",
+    "icon": "assets/icon/hojo.png",
+    "images": [
+      "hojo_1.png",
+      "hojo_2.png",
+      "story_hojo.png",
+      "ujiyasu_ssr_2.png"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Venus",
+    "skill": "<b>S1:</b> Applies <b>[Idol's Charm]</b> to self for 1 turns, cannot be dispelled. If Venus has <b>[Idol's Charm]</b> and receives damage, inflicts <b>[Taunt]</b> to the attacker for 2 turn<br><blockquote>Lvl 2: [Idol's Charm] duration is extended to <b>2</b> turns <br>Lvl 3: Taunt duration is extended to <b>3</b> turns<br>Lvl 4: Taunt duration is extended to <b>4</b> turns<br></blockquote><br><b>US:</b> Deals magical damage to the enemy with the highest ATK. Damage dealt is equivalent to 2.5% of your party's total remaining HP<br><blockquote>Lvl 2: 2.5% --> <b>10%</b><br>Lvl 3: 10% --> <b>50%</b><br>Lvl 4: US targets all enemies<br></blockquote><br><b>P1:</b> At the start of each turn, decreases ATK for self by 25% and increases DEF for self by 10%. Lasts till the end of the battle, can be nullified and dispelled, can be stacked up to 20 times<br><blockquote>Lvl 2: Increases Final DMG Reduction by 10% <br>Lvl 3: Heals self equivalent to 5% max HP<br>Lvl 4: Provides self with a Shield equivalent to 5% max HP<br></blockquote><br><b>EE:</b> At the start of each turn, all allies except self recovers HP equivalent to 1% of Venus' max HP<br>EE40: 1% --> <b>5%</b><br>EE50: 5% --> <b>10%</b>. Increases damage dealt to Fire enemies by 50% for all allied <b>[Idol]</b> units<br><br><b>UR Skill:</b> For the first 5 turns, at the start of each turn, all <b>[Idol]</b> units gain one instance of fatal damage nullification and one instance of status nullification. After the 5th turn, for each turn, all <b>[Idol]</b> units gain 30% Physical damage increase for 5 turns, can be dispelled and can be stacked<br><blockquote>Lvl 2: When Venus is still alive, increases HP for self by 200%. Cannot be dispelled<br></blockquote><br><b>[Idol]:</b> Includes the following units:<br>- Venus<br>- Shakespeare<br>- Iori Moe<br><br><b>Pet Skill:</b> At the start of each turn, increases DEF for self by 10% for 2 turns, can be dispelled and can be stacked up to 20 times, then inflicts Stun on a random enemy for 1 turn<br><blockquote>Lvl 2: 10% --> <b>20%</b> DEF<br>Lvl 3: 20% --> <b>30%</b> DEF<br>Lvl 4: 30% --> <b>40%</b> DEF<br>Lvl 5: 40% --> <b>50%</b> DEF<br></blockquote>",
+    "icon": "assets/icon/venus.png",
+    "images": [
+      "venus_1.png",
+      "venus_2.png"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Yoshiaki Mogami",
+    "skill": "<b>[Tempest]</b><br>Includes the following members<br>- Caesar<br>- Kong Ming<br>- Yoshiaki Mogami<br>- Schrodinger<br>- Barbatos<br>- Octavius<br>- Robin Hood<br>- Thor<br><br><b>S1:</b> Increases magical damage increase for all allies by 20% Stacks up to 10 times and lasts until the end of the battle.<br><blockquote>Lvl 2: 20% --> 40%<br>Lvl 3: 40% --> 60%<br>Lvl 4: Causes ally <b>[Tempest]</b> characters (excluding self) to use S1 once<br></blockquote><br><b>US:</b> Increases final damage for all allies by 10% Stacks up to 10 times and lasts until the end of the battle. <br><blockquote>Lvl 2: 10% --> 20%<br>Lvl 3: 20% --> 40%<br>Lvl 4: 40% --> 60%<br></blockquote><br><b>P1:</b> When using normal attack, increases the attack of all allies by 20%, can be dispelled, lasts 4 rounds, and stacks up to 10 times.<br><blockquote>Lvl 2: 20% --> 40%<br>Lvl 3: 40% --> 60%<br>Lvl 4: Allied <b>[Tempest]</b> characters (excluding self) use an additional normal attack<br></blockquote><br><b>Awakening Skill:</b> After using US, allied <b>[Tempest]</b> characters (excluding self) will use US once.<br><blockquote>Lvl 2: At the beginning of battle, allied <b>[Tempest]</b> huntresses gain damage nullification lasting 1 turn.<br></blockquote><br><b>Pet:</b> At the beginning of each round, increases own attack by 5%, lasting until the end of the battle. Cannot be dispelled, can be stacked up to 5 times.<br><blockquote>Lvl 2: 8%<br>Lvl 3: 10%<br>Lvl 4: 12%<br>Lvl 5: 15%<br></blockquote><br><b>EE:</b><br><blockquote>30 - When using S1, US, or normal attack, increases effect resistance of allied <b>[Tempest]</b> characters by 10, lasting 4 rounds. Stacks up to 20 times.<br>40 - Increases effect resistance by 20<br>50 - Increases effect resistance by 30. Removes 1 debuff from all <b>[Tempest]</b> characters.<br></blockquote>",
+    "icon": "assets/icon/yoshiaki.png",
+    "images": ["yoshiaki_1.png", "yoshiaki_2.png", "yoshiaki_ssr_1.png", "yoshiaki_ssr_2.png"]
+  },
+  {
+    "id": 87,
+    "name": "Zeus",
+    "skill": "<b>S1:</b> Increase damage reduction against earth, fire and wind elements by 60% for 2 rounds. Cannot be stacked or dispelled.<br><blockquote>Lvl 2: Increase damage reduction against light and dark elements by 60% for 2 rounds. Cannot be stacked or dispelled.<br>Lvl 3: Increases damage reduction against water elements by 60% | 2 -> 3 turns<br>Lvl 4: Changes the target of the skill to self and all allied <b>[Eight Desolates]</b>, <b>[Tempest]</b>, <b>[Primal Fire]</b> and <b>[Azure Flow]</b>, as well as any allies with 12 or more <Charge Mark>s.<br></blockquote><br><b>US:</b> Increases damage dealt to earth, fire and wind elements by 120% for 2 rounds. Cannot be stacked or dispelled.<br><blockquote>Lvl 2: Increases damage dealt to light and dark elements by 120% for 2 rounds. Cannot be stacked or dispelled.<br>Lvl 3: Increases damage dealt to water elements by 120% | 2 -> 3 turns<br>Lvl 4: Changes the target of the skill to self and all allied <b>[Eight Desolates]</b>, <b>[Tempest]</b>, <b>[Primal Fire]</b> and <b>[Azure Flow]</b>, as well as any allies with 12 or more <Charge Mark>s.<br></blockquote><br><b>P1:</b> Zeus counts as <b>[Eight Desolates]</b>, <b>[Tempest]</b>, <b>[Primal Fire]</b> and <b>[Azure Flow]</b>. Becomes immune to <Taunt>, <Silence> and <Enchant> and will not change its active behavior type. * While alive, all <b>[Eight Desolates]</b>, <b>[Tempest]</b>, <b>[Primal Fire]</b> and <b>[Azure Flow]</b> allies gain 30% magical damage increase and magical damage reduction. Cannot be dispelled.<br><blockquote>Lvl 2: 30% -> 60%<br>Lvl 3: 60% -> 84%<br>Lvl 4: 84% -> 96%<br></blockquote><br>*TL Note: This means that Zeus will not respond to any attempts to change her active action for whatever the current round is. Example being that Attila will not allow her to use US instead of normal attack. THIS IS FOR ACTIVE ACTIONS ONLY, DOES NOT INCLUDE ADDITIONAL ACTIONS.<br><br><b>Awakening Skill:</b> Zeus gains the power of <Brilliance>. Each stack of <Brilliance> increases Zeus’ critical strike chance by 10%(?). At the beginning of battle and when being resurrected, gain 12 stacks of <Charge Mark>. At the beginning of each round, all allies with 12 or more <Charge Mark>s will perfrom an additional normal attack.<br><blockquote>Lvl 2: At the beginning of the battle, gain 12 stacks of fatal damage immunity, 12 stacks of status immunity, and 120 speed until the end of the battle. At the beginning of the 1st turn, all <b>[Primal Fire]</b> allies become immune to debuffs for 1 round. At the beginning of the 2nd turn, all <b>[Azure Flow]</b> and <b>[Eight Desolates]</b> allies become immune to damage for 1 round. At the beginning of the 3rd turn, all <b>[Tempest]</b> allies become immune to damage for 1 round.<br></blockquote><br><b>Pet:</b> After Zeus takes action, deals true damage equal to 120% of attack to a random enemy.<br><blockquote>Lvl 2: 120% -> 240%<br>Lvl 3: 240% -> 360%<br>Lvl 4: 360% -> 480%<br>Lvl 5: 480% -> 600%<br></blockquote><br><b>EE:</b><br><blockquote>30 - Normal attack now deals 3 instances of magical damage equal to 1200% of attack to a random target with each instance.<br>40 - 3 -> 6 times<br>50 - 6 -> 12 times<br></blockquote>",
+    "icon": "assets/icon/zeus.png",
+    "images": [
+      "image.png",
+      "zeus.png",
+      "zeus_ssr_1.png",
+      "zeus_ur.png",
+      "zeus_ur_2.png"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Zhang Fei",
+    "skill": "<b>[Stuffed]:</b> Decreases Final DMG by 10%, increases Effect Hit by 100<br><br><b>[Satisfaction]:</b> Increases Zhang Fei's healing ability for 3 turns. Can be stacked up to 20 times and cannot be dispelled<br><br><b>[Stun]:</b> Cannot act and certain passives cannot trigger<br><br><b>[Silence]:</b> Unable to activate skill or US<br><br><b>[Petrification]:</b> Target is unable to act. Cannot be nullified. Can be dispelled. Only effective against non boss targets<br><br><b>S1:</b> Zhang Fei enters into <b>[Stuffed]</b> state for 3 turns, applies 3 layers of <b>[Satisfaction]</b>, and heals all allies equivalent to 5% max HP<br><blockquote>Lvl 2: 5% --> <b>10%</b> max HP<br>Lvl 3: 10% --> <b>15%</b> max HP<br>Lvl 4: 15% --> <b>25%</b> max HP<br></blockquote><br><b>US:</b> Deals 3 instances of Physical damage to all enemies, with each instance dealing 10% current HP and has a 10% chance of inflicting <b>[Stun]</b>, <b>[Silence]</b> and <b>[Petrification]</b> for 1 turn (chance is calculated independently)<br><blockquote>Lvl 2: 10% --> <b>20%</b> current HP<br>Lvl 3: 20% --> <b>40%</b> current HP<br>Lvl 4: 10% --> <b>30%</b> chance, 1 --> <b>2</b> turns<br></blockquote><br><b>P1:</b> At the start of the battle, Zhang Fei gains 50% healing bonus. This cannot be dispelled and lasts till the end of the battle. When receiving damage from normal attack, S1 or US, there is a 10% chance of applying 1 layer of <b>[Satisfaction]</b> on self. At the start of each turn, heals the ally with the lowest HP equivalent to 5% of Zhang Fei's max HP x number of <b>[Satisfaction]</b> stacks. Overflow healing will increase the max HP of the healed target, which will not exceed 100% of Zhang Fei's max HP<br><blockquote>Lvl 2: 10% --> <b>20%</b> chance<br>Lvl 3: 20% --> <b>50%</b> chance<br>Lvl 4: 1 --> <b>2</b> allies with the lowest HP<br></blockquote><br><b>EE:</b> At the start of each turn, deals Physical damage equivalent to 30% current HP to all enemy targets with <b>[Stun]</b>, <b>[Silence]</b> or <b>[Petrification]</b>, and deals True damage equivalent to 50% current HP to all enemy targets that are immune to all debuffs<br><blockquote>EE40: 30% --> <b>60%</b> current HP<br>EE50: 50% --> <b>100%</b> current HP<br></blockquote>",
+    "icon": "assets/icon/zhangfei.png",
+    "images": [
+      "Zhangfei_1.png",
+      "Zhangfei_2.png",
+      "zhangfei_ssr_1.png",
+      "zhangfei_ssr_2.png"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Zhao Yun",
+    "skill": "<b>S1:</b> Deals 112% --> <b>140%</b> physical damage, 75% --> <b>100%</b> chance to inflict 1 <b><Hate Mark></b><br><br><b>US:</b> Deals 5 instances of damage, the first attack deals 40% --> <b>50%</b> physical damage, and progressively increases by 20% --> <b>25%</b> in each subsequent attack. <b>The last attack has a 100% chance of stunning the enemy for 1 turn</b><br><br><b>P1:</b> Reduces damage by 40% --> <b>50%</b>, inflicts 3 --> <b>4</b> <b><Hate Mark></b> on enemy that attacked her<br><br><b>UR Skill:</b> At the start of the battle, gains 100 SPD. At the start of every turn, cleanses all debuffs from herself. When receiving a debuff for the first time in a given turn, nullifies the debuff, increases ATK and CRIT rate by 100% for 1 turn, and activates US against the enemy that inflicted the debuff<br><blockquote>Lvl 2: Can nullify 2 debuffs instead. US no longer has progressive ATK scale, but each attack deals 200% physical damage. If the US target is water element, each attack deals 600% physical damage instead<br></blockquote><br><b>Pet Skill:</b> At the start of every turn, if there are no allies adjacent to Zhao Yun, increases Final Damage Reduction by 30%/35%/40%/45%/50% for 1 turn. After Zhao Yun activates her US, deals 100%/150%/200%/250%/300% physical damage and has a 60%/70%/80%/90%/100% chance of stunning the enemy for 1 turn. Effect can only activate once.<br>",
+    "icon": "assets/icon/zhaoyun.png",
+    "images": [
+      "large_D_UR_zhaoyun01.png",
+      "zhaoyun.gif",
+      "Zhao_Yun_01.png",
+      "Zhao_Yun_02.png",
+      "Zhao_Yun_03.png",
+      "Zhao_Yun_04.png"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Zhen Ji",
+    "skill": "<h2>UR</h2><br><b>S1:</b> Launch a ball of water at a single enemy, which gets constantly catapulted at the nearest enemy. Each time the water ball strikes its target, it deals 60%/80%/100%/<b>120%</b> of ATK in Magical DMG with a 30%/45%/60%/<b>80%</b> chance to add 1 stack of Frost Mark. The water ball can be catapulted up to 5 times.<br><br><b>US:</b> Makes the ally with the highest ATK immediately use an Ultimate Skill and increases their ATK by 30%/45%/60%/<b>75%</b> for 1 turn. If there are no allies present, then a normal attack is used instead.<br><br><b>P1:</b> When Zhen Ji deals damage to the enemy, she has a 50%/75%/100% chance to dispel 1 <b>(Lvl 4: 2)</b> random buff from them.<br><br><b>UR Skill:</b> 75% chance to use US instead of normal attack<br><blockquote>Lvl 2: When Zhen Ji is still alive, reduces all frozen enemies' DEF by 30% and Dodge by 100%. This effect cannot be dispelled.<br></blockquote><br><b>Pet Skill:</b> Increases the final damage of the US target by 8%/11%/14%/17%/20% for 1 turn<br><br><br><h2>MR</h2><br><b>[Azure Flow]</b><br>Includes the following members:<br>- Ujiyasu Hōjō<br>- Daphne<br>- Poseidon<br>- Abe no Seimei<br>- Hermes<br>- Mochizuki Chiyome<br>- Zhen Ji<br><br><b>S1:</b> No longer applies frost marks, instead has a 50% chance to <Freeze> and a 50% chance to apply <Water Prison>.<br><br><b>US:</b> Targets all allies.<br><br><b>P1:</b> At the beginning of the second round, dispel 1 negative effect from all allies. If your team has an active realm, dispel 1 negative effect from all <b>[Azure Flow]</b> allies and heal them for 200% of attack, then increase their attack by 75%, lasting until the end of the battle.<br><br><b>MR</b>: At the beginning of the battle, expands realm <Hazy Fantasy> until the end of the battle. In this realm, all allies have 30% increased fire damage reduction and fire damage increase, and are immune to <Burn Mark>. At the start of the second round, there is a 50% chance to apply <Damage Immunity> to all <b>[Azure Flow]</b> allies for 2 rounds.<br><blockquote>Lvl 2: 50% -> 100% chance | While an ally realm is active, all allies have a 75% chance to resist debuffs. While Zhen Ji is alive, she and all <b>[Azure Flow]</b> allies will use US instead of normal attacks and gain n% increased crit rate.<br></blockquote>",
+    "icon": "assets/icon/zhenji.png",
+    "images": [
+      "large_S_UR_zhenji01.png",
+      "zhenji.gif",
+      "zhenji_mr.png",
+      "Zhen_Ji_01.png",
+      "Zhen_Ji_02.png",
+      "Zhen_Ji_03.png"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Zhou Yu",
+    "skill": "<b>S1:</b> Releases a Flame Tornado in a 2x2 area with the most enemies. The tornado deals 800%/1000%/1200%/1600% magical damage, and has a 50% /80%/100% chance of inflicting 1 (Lvl 4: 2) <b><Burn Mark></b><br><br><b>US:</b> Deals 1000%/1300%/1600%/2000% magical damage to all enemies. For every 1 <b><Burn Mark></b> that the enemy has, deals an additional 100%/130%/160%/200% magical damage<br><br><b>P1:</b> On even turns, Zhou Yu enters into <b><Fever></b> state for 1 turn<br><blockquote>Lvl 2: When in <b><Fever></b> state, increases Final DMG by 10%<br>Lvl 3: 10% --> <b>30%</b> Final DMG<br>Lvl 4: 30% --> <b>60%</b> Final DMG, Zhou Yu is immune to all status effects in <b><Fever></b> state<br></blockquote><br><b>EE:</b> Zhou Yu's normal attack changes into a fireball that can bounce between enemies and deals 100% magical damage. If the fireball hits an enemy that have been inflicted with <b><Burn Mark></b>, it bounces to the next nearest enemy. Deals 30%/60%/100% magical damage with each bounce, up to 4/6/8 bounces. However, if the fireball hits an enemy without <b><Burn Mark></b>, it is unable to bounce<br><br><b>UR Skill:</b> Whenever an ally enters into <b><Fever></b> state, Zhou Yu activates her US once<br><blockquote>Lvl 2: When Zhou Yu is revived by her familiar, uses US once<br></blockquote><br><b>Pet Skill:</b> When Zhou Yu receives fatal damage and her HP is reduced to 0, her pet comes to her rescue, cleansing all debuffs from her and protecting her in a Phoenix Egg. If this skill activates from an attack with multiple damage instances, the Phoenix Egg nullifies the remaining damage instances. <br><br>The Phoenix Egg inherits Zhou Yu's status and current state. For every Fire ally on the field (including Zhou Yu), increases the max HP of the Phoenix Egg by 20% (up to 100%). The Phoenix Egg is immune to status effects, and deals 80%/110%/140%/170%/200% magical damage and inflicts 1 <b><Burn Mark></b> to whoever attacks it. <br><br>At the start of the next turn, if the Phoenix Egg is still on the field, Zhou Yu has her HP restored to 100%. If the Phoenix Egg is destroyed, Zhou Yu will die.<br>",
+    "icon": "assets/icon/zhouyu.png",
+    "images": [
+      "large_H_SSR_zhouyu01.png",
+      "large_H_SSR_zhouyu02.png",
+      "large_H_UR_zhouyu01.png",
+      "large_H_UR_zhouyu02.png",
+      "Paid_Skin-Photoroom.png",
+      "zhouyu.gif"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "[Christmas] Iori Moe",
+    "skill": "<b>S1:</b> Increases critical damage reduction of huntresses on the field by 50% and increases critical damage reduction of all Iori Moe allies by 50%, stacking up to 10 times. Lasts 4 turns.<br><blockquote>Lvl2: 50% -> 100%<br>Lvl3: 100% -> 150%<br>Lvl4: Skill no longer affects enemies.<br></blockquote><br><b>US:</b> All huntresses on the field with <b><Balloon Marks></b> will receive 5 <b><Balloon Marks></b> and  50% increased attack for 4 rounds; this also restores health equal to 200% of attack to the target, excess healing will be converted into shield and kills all gift boxes on the field.<br><blockquote>Lvl2: Increases attack by 50% -> 70%. Heals for 200% -> 300% of attack<br>Lvl3: Increases attack by 70% -> 100%. Heals for 300% -> 500% of attack<br>Lvl4: This skill no longer affects enemies.<br></blockquote><br><b>P1:</b> After being hit by S1, US, or normal attack, increases hit for all Iori Moe allies by 4% for 4 turns.<br><blockquote>Lvl2: 4% -> 8%<br>Lvl3: 8% -> 12%<br>Lvl4: At the beginning of battle, gains 5 <b><Balloon Marks></b>. At the beginning of each round, increase the critical strike chance of all ally Iori Moe characters by 30% for one round. Can be dispelled. (Retains the same immunity that balloon marks provide to earth Iori)<br></blockquote><br><b>Awakening Skill:</b> [Christmas] Iori Moe obtains the power of <b><Brilliance></b>. Each mark of <b><Brilliance></b> on [Christmas] Iori Moe increases her defense by 10%. When a gift box is killed on the field, add 1 stack of fatal damage immunity to all ally Iori Moe characters and targets use US once. At the beginning of battle, there is a 50% chance to nullify all <b>[Bookworm]</b> passive effects. This effect cannot be immuned or dispelled, and lasts for 6 rounds.<br><blockquote>Lvl2:  Chance to nullify <b>[Bookworm]</b> passive effects increases to 100%.<br></blockquote><br><b>Pet:</b> At the beginning of each round, increase the speed of all Iori Moe on your side by 20 for 3 turns.<br><blockquote>Lvl2: 20 -> 40<br>Lvl3: 40 -> 60<br>Lvl4: 60 -> 80<br>Lvl5: 80 -> 100<br></blockquote><br><b>EE:</b> <br><blockquote>30 - At the beginning of each round there is a 10% chance to summon a “Gift Box” in a random space on the field. If this unit dies, kill all gift boxes on the field. Gift Box: Immune to damage and negative effects, cannot be targeted.<br>40 - 10% -> 50%<br>50 - 50% -> 100%<br></blockquote>",
+    "icon": "assets/icon/christ_iori.png",
+    "images": [
+      "iorichrist_ssr_1.png",
+      "iorichrist_ssr_2.png",
+      "iorichrist_ssr_3.png",
+      "iorichrist_stand.png",
+      "iorichrist_ur.png"
+    ]
+  }
+]
