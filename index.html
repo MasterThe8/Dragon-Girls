@@ -230,7 +230,7 @@
         
         huntress.images.forEach(fileName => {
           const img = document.createElement('img');
-          img.src = `assets/img/${folderName}/${fileName}`;
+          img.src = `./assets/img/${folderName}/${fileName}`;
           img.alt = fileName;
           img.onerror = () => img.remove();
           gallery.appendChild(img);
