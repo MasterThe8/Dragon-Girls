@@ -3,361 +3,64 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Huntress List</title>
-  <style>
-    /* Base Styles */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #121212;
-      color: #e0e0e0;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      /* background-image: url('assets/img/bg.png');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center; */
-    }
-  
-    .container {
-      width: 95%;
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 15px;
-    }
-  
-    h1 {
-      color: #ffffff;
-      font-size: 1.8rem;
-      text-align: center;
-      margin-bottom: 20px;
-    }
-  
-    /* Character Grid - Responsive */
-    .character-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-      gap: 15px;
-      margin-bottom: 20px;
-    }
-  
-    .character-item {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      cursor: pointer;
-      transition: transform 0.2s;
-    }
-  
-    .character-item:hover {
-      transform: scale(1.05);
-    }
-  
-    .character-icon {
-      width: 60px;
-      height: 60px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 2px solid #444;
-      margin-bottom: 6px;
-      filter: brightness(0.9);
-    }
-  
-    .character-name {
-      text-align: center;
-      font-size: 0.75rem;
-      font-weight: bold;
-      color: #e0e0e0;
-      word-break: break-word;
-    }
-  
-    /* Character Card - Responsive */
-    .huntress-card {
-      border: 1px solid #444;
-      border-radius: 10px;
-      padding: 12px;
-      margin-bottom: 15px;
-      background-color: #1e1e1e;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-    }
-  
-    .huntress-header {
-      display: flex;
-      align-items: center;
-      margin-bottom: 12px;
-      flex-wrap: wrap;
-    }
-  
-    .huntress-header img {
-      width: 50px;
-      height: 50px;
-      margin-right: 10px;
-      border-radius: 8px;
-      border: 2px solid #444;
-    }
-  
-    .huntress-title {
-      font-size: 1.3rem;
-      margin: 5px 0;
-      color: #ffffff;
-      flex: 1;
-      min-width: 150px;
-    }
-  
-    .huntress-gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 8px;
-      margin: 12px 0;
-    }
-  
-    .huntress-gallery img {
-      width: 100%;
-      height: 200px;
-      border-radius: 6px;
-      object-fit: cover;
-      border: 1px solid #444;
-    }
-  
-    .huntress-skill {
-      margin-top: 12px;
-      padding: 12px;
-      background-color: #2d2d2d;
-      border-radius: 6px;
-      border: 1px solid #444;
-      color: #e0e0e0;
-      font-size: 0.9rem;
-      overflow-x: auto;
-    }
-  
-    /* Close button */
-    .close-btn {
-      float: right;
-      cursor: pointer;
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: #888;
-      padding: 0 5px;
-    }
-  
-    .close-btn:hover {
-      color: #ffffff;
-    }
-  
-    /* Initially hide the card container */
-    #character-card-container {
-      display: none;
-    }
-  
-    /* Skill content formatting */
-    .huntress-skill h2 {
-      color: #ffffff;
-      border-bottom: 1px solid #444;
-      padding-bottom: 4px;
-      font-size: 1.1rem;
-      margin-top: 0;
-    }
-  
-    .huntress-skill b {
-      color: #ffffff;
-    }
-  
-    .huntress-skill blockquote {
-      border-left: 3px solid #555;
-      padding-left: 8px;
-      margin-left: 8px;
-      color: #bbb;
-      font-size: 0.85rem;
-    }
-  
-    /* Media Queries for Different Screen Sizes */
-    @media (max-width: 768px) {
-      .container {
-        padding: 10px;
-      }
-      
-      h1 {
-        font-size: 1.5rem;
-      }
-      
-      .character-grid {
-        grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
-        gap: 12px;
-      }
-      
-      .character-icon {
-        width: 50px;
-        height: 50px;
-      }
-      
-      .character-name {
-        font-size: 0.7rem;
-      }
-      
-      .huntress-title {
-        font-size: 1.1rem;
-      }
-      
-      .huntress-gallery {
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-      }
-      
-      .huntress-gallery img {
-        height: 100px;
-      }
-    }
-  
-    @media (max-width: 480px) {
-      .character-grid {
-        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
-        gap: 10px;
-      }
-      
-      .character-icon {
-        width: 45px;
-        height: 45px;
-      }
-      
-      .huntress-header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-      
-      .huntress-header img {
-        margin-right: 0;
-        margin-bottom: 8px;
-      }
-      
-      .huntress-gallery {
-        grid-template-columns: repeat(2, 1fr);
-      }
-      
-      .huntress-skill {
-        padding: 10px;
-        font-size: 0.8rem;
-      }
-      
-      .huntress-skill h2 {
-        font-size: 1rem;
-      }
-    }
-  
-    @media (max-width: 360px) {
-      .character-grid {
-        grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
-      }
-      
-      .character-icon {
-        width: 40px;
-        height: 40px;
-      }
-      
-      .character-name {
-        font-size: 0.6rem;
-      }
-      
-      .huntress-gallery {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
+  <title>Dragon Girls | Huntress</title>
+  <link rel="icon" href="assets/icon/siegfried.png">
+  <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
 
   <div class="container">
     <h1>Huntress Collection</h1>
+    <div class="credit-div">
+      <span class="credit-text"><a href="https://discord.gg/pjYfBJ8Kkg" target="_blank">Credit : Idle Huntress Community</a></span>
+    </div>
+    
+    <!-- Filter Controls -->
+    <div class="filter-container">
+      <div class="filter-group">
+        <span class="filter-label">Type:</span>
+        <div class="filter-option" data-filter="type" data-value="0" onclick="setFilter('type', 0)">All</div>
+        <div class="filter-option" data-filter="type" data-value="1" onclick="setFilter('type', 1)">
+          <img src="assets/icon/strength.png" class="filter-icon"> Strength
+        </div>
+        <div class="filter-option" data-filter="type" data-value="2" onclick="setFilter('type', 2)">
+          <img src="assets/icon/agility.png" class="filter-icon"> Agility
+        </div>
+        <div class="filter-option" data-filter="type" data-value="3" onclick="setFilter('type', 3)">
+          <img src="assets/icon/wisdom.png" class="filter-icon"> Wisdom
+        </div>
+      </div>
+      
+      <div class="filter-group">
+        <span class="filter-label">Element:</span>
+        <div class="filter-option" data-filter="element" data-value="0" onclick="setFilter('element', 0)">All</div>
+        <div class="filter-option" data-filter="element" data-value="1" onclick="setFilter('element', 1)">
+          <img src="assets/icon/wind.png" class="filter-icon"> Wind
+        </div>
+        <div class="filter-option" data-filter="element" data-value="2" onclick="setFilter('element', 2)">
+          <img src="assets/icon/fire.png" class="filter-icon"> Fire
+        </div>
+        <div class="filter-option" data-filter="element" data-value="3" onclick="setFilter('element', 3)">
+          <img src="assets/icon/water.png" class="filter-icon"> Water
+        </div>
+        <div class="filter-option" data-filter="element" data-value="4" onclick="setFilter('element', 4)">
+          <img src="assets/icon/earth.png" class="filter-icon"> Earth
+        </div>
+        <div class="filter-option" data-filter="element" data-value="5" onclick="setFilter('element', 5)">
+          <img src="assets/icon/light.png" class="filter-icon"> Light
+        </div>
+        <div class="filter-option" data-filter="element" data-value="6" onclick="setFilter('element', 6)">
+          <img src="assets/icon/dark.png" class="filter-icon"> Dark
+        </div>
+      </div>
+    </div>
     
     <!-- Character Grid -->
     <div class="character-grid" id="character-grid">Loading...</div>
     
     <!-- Character Card Container -->
     <div id="character-card-container"></div>
-  </div>
 
-  <script>
-    // DOM elements
-    const characterGrid = document.getElementById('character-grid');
-    const cardContainer = document.getElementById('character-card-container');
-    
-    // Fetch character data
-    fetch('assets/data/waifu.json')
-      .then(response => {
-        if (!response.ok) throw new Error("Failed to load waifu.json");
-        return response.json();
-      })
-      .then(huntresses => {
-        // Clear loading message
-        characterGrid.innerHTML = "";
-        
-        // Create grid items for each character
-        huntresses.forEach(huntress => {
-          const gridItem = document.createElement('div');
-          gridItem.className = 'character-item';
-          gridItem.dataset.id = huntress.id;
-          
-          gridItem.innerHTML = `
-            <img src="${huntress.icon}" alt="${huntress.name}" class="character-icon"/>
-            <span class="character-name">${huntress.name}</span>
-          `;
-          
-          // Add click event to show character card
-          gridItem.addEventListener('click', () => showCharacterCard(huntress));
-          
-          characterGrid.appendChild(gridItem);
-        });
-      })
-      .catch(err => {
-        characterGrid.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
-        console.error(err);
-      });
-    
-    // Function to show character card
-    function showCharacterCard(huntress) {
-      const galleryId = `gallery-${huntress.id}`;
-      
-      // Create card HTML
-      cardContainer.innerHTML = `
-        <div class="huntress-card" id="card-${huntress.id}">
-          <span class="close-btn" onclick="closeCard()">&times;</span>
-          <div class="huntress-header">
-            <img src="${huntress.icon}" alt="${huntress.name} icon"/>
-            <h2 class="huntress-title">${huntress.name}</h2>
-          </div>
-          <div class="huntress-gallery" id="${galleryId}"></div>
-          <div class="huntress-skill">${huntress.skill}</div>
-        </div>
-      `;
-      
-      // Show the card container
-      cardContainer.style.display = 'block';
-      
-      // Load images for the gallery
-      const gallery = document.getElementById(galleryId);
-      
-      if (Array.isArray(huntress.images)) {
-        const folderName = huntress.name;
-        
-        huntress.images.forEach(fileName => {
-          const img = document.createElement('img');
-          img.src = `./assets/img/${encodeURIComponent(folderName)}/${fileName}`;
-          img.alt = fileName;
-          img.onerror = () => img.remove();
-          gallery.appendChild(img);
-        });
-      }
-      
-      // Scroll to the card
-      cardContainer.scrollIntoView({
-        behavior: 'smooth'
-      });
-    }
-    
-    // Function to close character card
-    function closeCard() {
-      cardContainer.style.display = 'none';
-      cardContainer.innerHTML = '';
-    }
-  </script>  
-
+  <script src="js/script.js"></script>
 </body>
 </html>
