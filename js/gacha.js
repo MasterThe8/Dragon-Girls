@@ -61,6 +61,10 @@ const gachaItems = [
             <img class="frame-overlay" src="assets/item/${item.file}" alt="overlay">
           </div>
         `;
+
+        if (item.file === "ur_card.png") {
+          itemDiv.classList.add("ur-glow");
+        }        
       } else {
         itemDiv.innerHTML = `<img src="assets/item/${item.file}" alt="item" style="width: 100%; height: 100%; object-fit: contain">`;
       }
