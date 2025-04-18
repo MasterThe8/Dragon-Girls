@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Huntress Gacha Simulator</title>
+  <link rel="icon" href="assets/icon/siegfried.png">
+  <link href="css/gacha.css" rel="stylesheet">
+</head>
+<body>
+  <h1>Huntress Gacha Simulator</h1>
+
+  <audio controls loop autoplay>
+    <source src="assets/audio/beijing6.wav" type="audio/wav">
+  </audio>
+  <br><br>
+  <select id="huntress-select"></select>
+  <div class="gacha-container" id="gacha-container"></div>
+  <button class="gacha-button" onclick="performGacha()">
+    <img src="assets/item/crystal.png" alt="Crystal">
+    <span>3000</span>
+  </button>
+
+    <script src="js/gacha.js"></script>
+</body>
+</html>

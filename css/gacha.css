@@ -1,0 +1,116 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #111;
+    color: #eee;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+  }
+
+  select {
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .gacha-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 10px;
+    margin-bottom: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .gacha-item {
+    width: 103px;
+    height: 128px;
+    position: relative;
+  }
+
+  .item-layer {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .character-icon {
+    position: absolute;
+    width: 102px;
+    height: 102px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    border-radius: 10px;
+  }
+
+  .frame-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 2;
+  }
+
+  .gacha-button {
+    margin-top: 10px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    background: none;
+    border: none;
+  }
+
+  .gacha-button img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .gacha-button span {
+    color: #fff;
+    font-weight: bold;
+    margin-top: 4px;
+  }
+
+  @media screen and (max-width: 480px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+
+    .gacha-container {
+      grid-template-columns: repeat(5, 1fr);
+      grid-template-rows: repeat(2, auto);
+    }
+
+    .gacha-item {
+      width: 80px;
+      height: 100px;
+    }
+
+    .character-icon {
+      width: 80px;
+      height: 80px;
+    }
+
+    .gacha-button img {
+      width: 30px;
+      height: 30px;
+    }
+
+    .gacha-button span {
+      font-size: 0.9rem;
+    }
+  }
