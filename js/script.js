@@ -186,42 +186,42 @@
     }
 
     // AUDIO
-    const audio = document.getElementById('audio');
+    // const audio = document.getElementById('audio');
 
-    const tracks = [
-      {
-        src: "assets/audio/loginmusic.wav"
-      },
-      {
-        src: "assets/audio/shuqing.wav"
-      }
-    ];
+    // const tracks = [
+    //   {
+    //     src: "assets/audio/loginmusic.wav"
+    //   },
+    //   {
+    //     src: "assets/audio/shuqing.wav"
+    //   }
+    // ];
     
-    let lastIndex = -1;
+    // let lastIndex = -1;
     
-    function getRandomIndex() {
-      let index;
-      do {
-        index = Math.floor(Math.random() * tracks.length);
-      } while (index === lastIndex && tracks.length > 1);
-      lastIndex = index;
-      return index;
-    }
+    // function getRandomIndex() {
+    //   let index;
+    //   do {
+    //     index = Math.floor(Math.random() * tracks.length);
+    //   } while (index === lastIndex && tracks.length > 1);
+    //   lastIndex = index;
+    //   return index;
+    // }
     
-    function playRandomTrack() {
-      const index = getRandomIndex();
-      const track = tracks[index];
-      audio.src = track.src;
-      audio.play().catch(err => {
-        console.warn("Autoplay blocked:", err);
-      });
-    }
+    // function playRandomTrack() {
+    //   const index = getRandomIndex();
+    //   const track = tracks[index];
+    //   audio.src = track.src;
+    //   audio.play().catch(err => {
+    //     console.warn("Autoplay blocked:", err);
+    //   });
+    // }
     
-    audio.addEventListener('ended', () => {
-      playRandomTrack();
-    });
+    // audio.addEventListener('ended', () => {
+    //   playRandomTrack();
+    // });
     
-    window.addEventListener('load', () => {
-      playRandomTrack();
-    });
+    // window.addEventListener('load', () => {
+    //   playRandomTrack();
+    // });
     
