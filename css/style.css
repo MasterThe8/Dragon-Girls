@@ -432,7 +432,7 @@ h1 {
   
   @media (max-width: 600px) {
     .video-content {
-      width: 100%;
+      width: 80%;
       padding: 10px;
     }
   
