@@ -14,6 +14,13 @@
     <source src="assets/audio/beijing6.wav" type="audio/wav">
   </audio>
   <br><br>
+  
+  <!-- Add crystal input and top-up button -->
+  <div class="crystal-control">
+    <input type="number" id="crystal-input" min="0" placeholder="Enter crystal amount">
+    <button onclick="topUpCrystals()">Top Up</button>
+  </div>
+  
   <select id="huntress-select"></select>
   <div class="gacha-container" id="gacha-container"></div>
   <button class="gacha-button" onclick="performGacha()">
@@ -21,6 +28,27 @@
     <span>3000</span>
   </button>
 
-    <script src="js/gacha.js"></script>
+  <div class="ur-counters">
+    <div class="ur-counter">
+      <img src="assets/item/crystal.png" alt="Crystal Owned">
+      <span id="crystal-display">0</span>
+    </div>
+    <div class="ur-counter">
+      <span style="font-weight: bold;">Pulls:</span>
+      <span id="pull-count">0</span>
+    </div>
+    <div class="ur-counter">
+      <img src="assets/item/ur_card.png" alt="UR Card">
+      <span>UR: </span>
+      <span id="ur-card-count">0</span>
+    </div>
+    <div class="ur-counter">
+      <img src="assets/item/ur_shard.png" alt="UR Shard">
+      <span>Shard: </span>
+      <span id="ur-shard-count">0</span>
+    </div>
+  </div>
+
+  <script src="js/gacha.js"></script>
 </body>
 </html>

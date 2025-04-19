@@ -362,15 +362,9 @@ h1 {
   .video-card {
     display: none;
     flex-direction: column;
-    align-items: center;
-    background: rgba(0, 0, 0, 0.95);
-    position: fixed;
-    top: 0; left: 0;
+    gap: 1rem;
+    margin-top: 1rem;
     width: 100%;
-    height: 100%;
-    overflow-y: auto;
-    z-index: 9999;
-    padding: 20px;
   }
   
   .video-content {
@@ -383,19 +377,21 @@ h1 {
   
   .video-wrapper {
     position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
+    overflow: hidden;
   }
   
   .video-wrapper iframe {
     position: absolute;
-    top: 0; left: 0;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
-    border: none;
     border-radius: 10px;
+    border: none;
   }
+  
   
   .close-video-btn {
     font-size: 2rem;

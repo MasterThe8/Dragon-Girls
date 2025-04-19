@@ -108,23 +108,22 @@
             </div>
           </div>
           <div class="huntress-gallery" id="${galleryId}"></div>
-          ${Array.isArray(huntress.animations) ? `<div class="show-animation-wrapper">
-            <button class="show-animation-btn" onclick="showVideoCard(${huntress.id})">Show Animation</button>
-          </div>` : ""}
+
+          ${Array.isArray(huntress.animations) ? `
+            <div class="show-animation-wrapper">
+              <button class="show-animation-btn" onclick="toggleVideoCard(${huntress.id})">Show Animation</button>
+            </div>
+            <div class="video-card" id="video-card-${huntress.id}" style="display: none;">
+              ${
+                huntress.animations.map(link => `
+                  <div class="video-wrapper">
+                    <iframe src="${link}" frameborder="0" allowfullscreen loading="lazy"></iframe>
+                  </div>`).join("")
+              }
+            </div>
+          ` : ""}
+
           <div class="huntress-skill">${huntress.skill}</div>
-        </div>
-        <div class="video-card" id="video-card-${huntress.id}">
-          <span class="close-video-btn" onclick="closeVideoCard(${huntress.id})">&times;</span>
-          <div class="video-content">
-            ${
-              Array.isArray(huntress.animations)
-                ? huntress.animations.map(link => `
-                    <div class="video-wrapper">
-                      <iframe src="${link}" frameborder="0" allowfullscreen loading="lazy"></iframe>
-                    </div>`).join("")
-                : "<p>No animation available.</p>"
-            }
-          </div>
         </div>
       `;
     
@@ -144,11 +143,25 @@
     
       cardContainer.scrollIntoView({ behavior: 'smooth' });
     }
+
+    function toggleVideoCard(id) {
+      const videoCard = document.getElementById(`video-card-${id}`);
+      const button = document.querySelector(`#card-${id} .show-animation-btn`);
+      if (videoCard) {
+        const isVisible = videoCard.style.display === 'block';
+        videoCard.style.display = isVisible ? 'none' : 'block';
+        button.textContent = isVisible ? 'Show Animation' : 'Hide Animation';
+        if (!isVisible) {
+          videoCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    }    
     
     function showVideoCard(id) {
       const videoCard = document.getElementById(`video-card-${id}`);
       if (videoCard) {
-        videoCard.style.display = 'flex';
+        videoCard.style.display = 'block';
+        videoCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     }
     
@@ -157,7 +170,7 @@
       if (videoCard) {
         videoCard.style.display = 'none';
       }
-    }    
+    }      
     
     function getTypeName(type) {
       const typeNames = {
