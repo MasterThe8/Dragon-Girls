@@ -1,17 +1,17 @@
 const gachaItems = [
-  { file: "item_0_0.png", prob: 0.96 },
-  { file: "item_0_1.png", prob: 12.27 },
-  { file: "item_0_2.png", prob: 5.17 },
-  { file: "item_0_3.png", prob: 14.70 },
-  { file: "item_0_4.png", prob: 13.50 },
-  { file: "item_0_5.png", prob: 0.96 },
-  { file: "item_0_6.png", prob: 25.10 },
-  { file: "item_1_0.png", prob: 3.60 },
-  { file: "item_1_1.png", prob: 2.26 },
-  { file: "item_1_2.png", prob: 4.80 },
-  { file: "item_1_3.png", prob: 5.40 },
-  { file: "ur_shard.png", prob: 10.00 },
-  { file: "ur_card.png", prob: 1.28 },
+    { file: "ur_shard.png", prob: 10.00 },
+    { file: "ur_card.png", prob: 1.28 },
+    { file: "item_0_0.png", prob: 0.96 },
+    { file: "item_0_1.png", prob: 12.27 },
+    { file: "item_0_2.png", prob: 5.17 },
+    { file: "item_0_3.png", prob: 14.70 },
+    { file: "item_0_4.png", prob: 13.50 },
+    { file: "item_0_5.png", prob: 0.96 },
+    { file: "item_0_6.png", prob: 25.10 },
+    { file: "item_1_0.png", prob: 3.60 },
+    { file: "item_1_1.png", prob: 2.26 },
+    { file: "item_1_2.png", prob: 4.80 },
+    { file: "item_1_3.png", prob: 5.40 },
 ];
 
 let huntresses = [];
@@ -19,7 +19,6 @@ let pity = 0;
 let userCrystals = 0;
 let pullCount = 0;
 
-// Initialize crystal display on load
 document.addEventListener('DOMContentLoaded', function() {
   updateCrystalDisplay();
 });
@@ -38,7 +37,6 @@ fetch("assets/data/waifu.json")
   });
 });
 
-// Add these variables at the top with other variables
 let urCardCount = 0;
 let urShardCount = 0;
 
@@ -48,7 +46,6 @@ function performGacha() {
         return;
     }
 
-    // Deduct crystals
     userCrystals -= 3000;
     updateCrystalDisplay();
 
@@ -57,7 +54,6 @@ function performGacha() {
     resultContainer.innerHTML = "";
     let urGiven = false;
     
-    // Reset counters for this gacha
     let currentGachaUrCards = 0;
     let currentGachaUrShards = 0;
 
@@ -111,7 +107,6 @@ function performGacha() {
     
 }
 
-// Add this new function
 function updateURCounters() {
     document.getElementById("ur-card-count").textContent = urCardCount;
     document.getElementById("ur-shard-count").textContent = urShardCount;
@@ -131,7 +126,6 @@ function rollItem(urAlreadyGiven) {
   return gachaItems[gachaItems.length - 1];
 }
 
-// New functions for crystal management
 function topUpCrystals() {
   const input = document.getElementById("crystal-input");
   const amount = parseInt(input.value);
