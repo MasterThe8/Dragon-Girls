@@ -339,6 +339,31 @@ h1 {
     margin-right: 5px;
   }
 
+  /* filter - responsive mobile view */
+  @media (max-width: 768px) {
+    .filter-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .filter-group {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+        width: 100%;
+    }
+    
+    .filter-label {
+        margin-bottom: 5px;
+    }
+    
+    .filter-option {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 8px 10px;
+    }
+}
+
   .huntress-attributes {
     display: flex;
     gap: 15px;

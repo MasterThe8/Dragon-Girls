@@ -150,6 +150,10 @@
     font-size: 1.2rem;
     line-height: 1.5;
   }
+
+  .text-fmv {
+    display: none;
+  }
   
   @media screen and (max-width: 768px) {
     .twitter-embed-wrapper {
@@ -158,6 +162,10 @@
 
     .twitter-grid {
       display: none;
+    }
+
+    .text-fmv {
+      display: block;
     }
   
     .show-twitter-btn {
