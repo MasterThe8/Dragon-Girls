@@ -7,21 +7,40 @@
   <link rel="icon" href="assets/icon/siegfried.png">
   <link href="css/style.css" rel="stylesheet">
   <link href="css/button.css" rel="stylesheet">
+  <link href="css/news.css" rel="stylesheet">
+
 </head>
 <body>
 
   <div class="container">
-    <h1>Huntress Collection</h1>
-
-    <div class="credit-div">
-      <span class="credit-text"><a href="https://discord.gg/pjYfBJ8Kkg" target="_blank">Credit : Idle Huntress Community</a></span>
-    </div>
+    <header class="header">
+      <div class="slideshow" id="slideshow"></div>
+      <h1 class="title">Dragon Girls</h1>
+    </header>
 
     <div class="audio-player">
       <audio id="audio" controls autoplay></audio>
     </div>
+
+    <h3 class="title-section">Upcoming Banner</h3>
+    <div class="news-container calendar-wrapper">
+      <iframe 
+        class="calendar dark-theme" 
+        src="https://calendar.google.com/calendar/embed?src=mt8chart%40gmail.com&ctz=UTC"
+        frameborder="0" 
+        scrolling="no">
+      </iframe>
+    </div>
+
+    <div class="twitter-news">
+      <!-- <button id="show-twitter-btn" class="show-twitter-btn">Show Official Twitter Post</button> -->
+    </div>
     
-    <!-- Filter Controls -->
+    <h3 class="title-section">Huntress List</h3>
+    <div class="credit-div">
+      <span class="credit-text"><a href="https://discord.gg/pjYfBJ8Kkg" target="_blank">Credit : Idle Huntress Community</a></span>
+    </div>
+    
     <div class="filter-container">
       <div class="filter-group">
         <span class="filter-label">Type:</span>
@@ -61,20 +80,17 @@
       </div>
     </div>
     
-    <!-- Character Grid -->
     <div class="character-grid" id="character-grid">Loading...</div>
     
-    <!-- Character Card Container -->
     <div id="character-card-container"></div>
 
-    <!-- Button to Gacha -->
      <div class="button-contain">
       <a href="gacha.html" target="_blank">
         <button class="button-5" role="button">Gacha Simulator</button>
       </a>
      </div>
-    
 
   <script src="js/script.js"></script>
+  <script src="js/news.js"></script>
 </body>
 </html>
