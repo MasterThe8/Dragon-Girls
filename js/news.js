@@ -39,23 +39,11 @@ slides[current].classList.add('active');
 
 // NEWS TWITTER
 const twitterPost = [
-    `<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="ja" dir="ltr">1日1回10連無料（最大5回）！地元素URハントレスーセトが再登場！<br><br>天命祈願イベントにてハントレスーセトを入手可能！セトの出現率は1.28％、セト天命欠片*1の出現率は10%！<br><br>■開催期間：<br>4月25日（金）5：01～4月30日（水）4：00<br><br>■CV：中原麻衣<a href="https://twitter.com/hashtag/%E3%83%89%E3%83%A9%E3%82%AC%E3%83%AB%E3%82%BA?src=hash&amp;ref_src=twsrc%5Etfw">#ドラガルズ</a> <a href="https://t.co/jdmyCMAlEk">pic.twitter.com/jdmyCMAlEk</a></p>&mdash; 【公式】ドラゴンとガールズ交響曲（ドラガルズ） (@dragongirls_jp) <a href="https://twitter.com/dragongirls_jp/status/1913159289893732402?ref_src=twsrc%5Etfw">April 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`,
     `<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="ja" dir="ltr">1日1回10連無料（最大5回）！火元素URハントレスー平清盛が再登場！<br><br>天命祈願イベントにてハントレスー平清盛を入手可能！平清盛の出現率は1.28％、平清盛欠片*1の出現率は10%！<br><br>■開催期間：<br>4月28日（月）5：01～5月3日（土）4：00<br><br>■CV：中原麻衣<a href="https://twitter.com/hashtag/%E3%83%89%E3%83%A9%E3%82%AC%E3%83%AB%E3%82%BA?src=hash&amp;ref_src=twsrc%5Etfw">#ドラガルズ</a> <a href="https://t.co/XN2D81b5XP">pic.twitter.com/XN2D81b5XP</a></p>&mdash; 【公式】ドラゴンとガールズ交響曲（ドラガルズ） (@dragongirls_jp) <a href="https://twitter.com/dragongirls_jp/status/1915704877742711272?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`,
     `<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="ja" dir="ltr">1日1回10連無料（最大5回）！水元素URハントレスーヴィーナスが登場！<br><br>天命祈願イベントにてハントレスーヴィーナスがを入手可能！<br>ヴィーナスの出現率は1.28％、ヴィーナス欠片*1の出現率は10%！ <br><br>■開催期間: 4/30（水）5：01～5/5（月）4：00 <br>■CV：本渡楓<a href="https://twitter.com/hashtag/%E3%83%89%E3%83%A9%E3%82%AC%E3%83%AB%E3%82%BA?src=hash&amp;ref_src=twsrc%5Etfw">#ドラガルズ</a> <a href="https://t.co/cVHs55yKaE">pic.twitter.com/cVHs55yKaE</a></p>&mdash; 【公式】ドラゴンとガールズ交響曲（ドラガルズ） (@dragongirls_jp) <a href="https://twitter.com/dragongirls_jp/status/1915705476110835803?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
   ];
   
   const adultPost = [
-    {
-      "ss-id": "1AuONMvkplfcSNp4ELm35vm0vCcMZsCqR",
-      "text": `1日1回10連無料（最大5回）！コペルニクスがMRに超臨界可能！
-        SSR＆URコペルニクスのガチャイベントも同時開催！
-        星輝召喚にてMRハントレス欠片*100の出現率は1.28％！
-        
-        ■開催期間:
-        4/23（水）5：01～4/28（月）4：00
-        ■CV：伊藤静
-        #ドラガルズ`
-    },
     {
       "ss-id": "1kuoDWSCiMxBcRsjblgwd2Z9lK7-UfeOk",
       "text": `🎉URハントレス「望月千代女」がMRに超臨界可能！
