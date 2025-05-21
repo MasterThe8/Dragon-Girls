@@ -1,0 +1,51 @@
+.waifu-grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.waifu-card {
+    aspect-ratio: 1 / 1;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    text-align: center;
+    max-height: 100%;
+    margin: 20px;
+}
+
+.waifu-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-grow: 1;
+}
+
+.waifu-image-wrapper {
+    flex-grow: 1;
+    overflow: hidden;
+}
+.waifu-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.waifu-info {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#waifu-img-grid {
+    width: 100%;
+    height: auto;
+    max-height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+}
